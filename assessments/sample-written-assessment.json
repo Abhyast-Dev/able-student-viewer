@@ -1,0 +1,57 @@
+{
+  "id": "sample-written-assessment",
+  "type": "written",
+  "purpose": "Test",
+  "title": "Exploring Substances",
+  "chapterName": "Acids, Bases and Salts",
+  "subject": "Science",
+  "className": "VII",
+  "duration": "40 minutes",
+  "maximumMarks": "10",
+  "instructions": [
+    "Write answers in your notebook.",
+    "Draw diagrams wherever needed.",
+    "Submit your answer sheet through WhatsApp."
+  ],
+  "sections": [
+    {
+      "title": "Section A: Short Answer",
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "text": "What is an acid? Give two examples.",
+          "marks": 2,
+          "responseLength": "3\u20134 sentences"
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "text": "Explain how litmus paper helps identify acids and bases.",
+          "marks": 3,
+          "responseLength": "5\u20136 sentences"
+        }
+      ]
+    },
+    {
+      "title": "Section B: Long Answer",
+      "questions": [
+        {
+          "id": "q3",
+          "number": 3,
+          "text": "Compare acidic, basic and neutral substances with examples.",
+          "marks": 5,
+          "responseLength": "About 1 page"
+        }
+      ]
+    }
+  ],
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 40
+  },
+  "createdAt": "2026-06-22T00:00:00.000Z"
+}
