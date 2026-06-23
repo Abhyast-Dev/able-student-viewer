@@ -6,7 +6,13 @@ let timerInterval = null;
 let remaining = 0;
 
 function esc(str=""){ return String(str).replace(/[&<>'"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;","\"":"&quot;"}[c])); }
-
+function formatQuestionText(text = "") {
+  return esc(text)
+    .replace(/\s+([a-dA-D]\))/g, "<br>$1")
+    .replace(/\s+(\([a-dA-D]\))/g, "<br>$1")
+    .replace(/\s+([A-D]\.)/g, "<br>$1")
+    .replace(/\s+(Option\s+[A-D][:.)])/gi, "<br>$1");
+}
 async function init(){
   const id = new URLSearchParams(location.search).get("id");
   if(!id){ app.innerHTML = `<div class="error"><b>No assessment selected.</b><br>Use a link like <code>student.html?id=assessment-file-name</code>.</div>`; return; }
@@ -47,7 +53,14 @@ function renderWritten(){
           <h2>${esc(s.title)}</h2>
           ${(s.questions||[]).map((q,i)=>`
             <div class="question">
-              <p><b>Q${i+1}.</b> ${esc(q.text)} <span class="muted">[${esc(q.marks)} marks]</span></p>
+              <p>
+                <b>Q${i+1}.</b>
+                <span class="muted">[${esc(q.marks)} marks]</span>
+              </p>
+              
+              <div class="question-text">
+                ${formatQuestionText(q.text)}
+              </div>
               ${q.responseLength ? `<p class="muted">Suggested response: ${esc(q.responseLength)}</p>` : ""}
             </div>`).join("")}
         </section>`).join("")}
