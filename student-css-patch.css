@@ -1,0 +1,14 @@
+
+/* Add to hosted index.html / student.html style block */
+.options-list{
+  margin-top:10px;
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+}
+.option-row{
+  border:1px solid #e2e8f0;
+  border-radius:10px;
+  padding:8px 12px;
+  background:#fff;
+}
