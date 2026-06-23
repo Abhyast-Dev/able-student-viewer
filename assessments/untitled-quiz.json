@@ -1,0 +1,247 @@
+{
+  "id": "untitled-quiz",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "Untitled Quiz",
+  "chapterName": "",
+  "subject": "",
+  "className": "",
+  "duration": "",
+  "maximumMarks": 20,
+  "questions": [
+    {
+      "id": "eiaqvij",
+      "number": 1,
+      "text": "Which of the following is considered a natural indicator?",
+      "type": "mcq",
+      "options": [
+        "Litmus",
+        "Turmeric",
+        "Red rose extract",
+        "All of the above"
+      ],
+      "correctAnswer": "D",
+      "marks": 1
+    },
+    {
+      "id": "hl4l1ud",
+      "number": 2,
+      "text": "Acharya Prafulla Chandra Ray is known as the Father of Modern Indian Chemistry.",
+      "type": "true_false",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "72e17xf",
+      "number": 3,
+      "text": "Substances that taste sour tend to contain acids and are ____ in nature.",
+      "type": "fill_blank",
+      "options": [],
+      "correctAnswer": "acidic",
+      "marks": 1
+    },
+    {
+      "id": "0cu8fll",
+      "number": 4,
+      "text": "What colour does blue litmus paper turn when dipped in an acidic solution?",
+      "type": "mcq",
+      "options": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "fkcc5d1",
+      "number": 5,
+      "text": "An indicator that changes its odour in acidic or basic mediums is called an ____ indicator.",
+      "type": "fill_blank",
+      "options": [],
+      "correctAnswer": "olfactory",
+      "marks": 1
+    },
+    {
+      "id": "64u6uv5",
+      "number": 6,
+      "text": "Tap water and sugar solutions change the colour of red litmus paper to blue.",
+      "type": "true_false",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "mit9t9n",
+      "number": 7,
+      "text": "When an ant bites it injects ____ acid into the skin.",
+      "type": "fill_blank",
+      "options": [],
+      "correctAnswer": "formic",
+      "marks": 1
+    },
+    {
+      "id": "mw5acbv",
+      "number": 8,
+      "text": "Turmeric paper turns what colour when exposed to a basic solution like soap water?",
+      "type": "mcq",
+      "options": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "h968aj7",
+      "number": 9,
+      "text": "What are the products formed during a neutralisation reaction?",
+      "type": "mcq",
+      "options": [
+        "Salt only",
+        "Water only",
+        "Salt water and heat",
+        "Acid and base"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "ynoajjk",
+      "number": 10,
+      "text": "Bitter gourd tastes bitter so it must be basic in nature.",
+      "type": "true_false",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "8iytr4v",
+      "number": 11,
+      "text": "Organic matter releases acids that neutralise the ____ nature of the soil.",
+      "type": "fill_blank",
+      "options": [],
+      "correctAnswer": "basic",
+      "marks": 1
+    },
+    {
+      "id": "xb8tmv7",
+      "number": 12,
+      "text": "What colour does red rose extract turn when an acidic solution is added?",
+      "type": "mcq",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "iugrpja",
+      "number": 13,
+      "text": "What substance is commonly added to treat soil that is too acidic?",
+      "type": "mcq",
+      "options": [
+        "Lime",
+        "Manure",
+        "Compost",
+        "Vinegar"
+      ],
+      "correctAnswer": "A",
+      "marks": 1
+    },
+    {
+      "id": "xp7hcgv",
+      "number": 14,
+      "text": "Litmus used as an acid-base indicator is extracted from lichens.",
+      "type": "true_false",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "yirzpvr",
+      "number": 15,
+      "text": "Substances that do not affect the colour of either red or blue litmus paper are called ____ substances.",
+      "type": "fill_blank",
+      "options": [],
+      "correctAnswer": "neutral",
+      "marks": 1
+    },
+    {
+      "id": "5uuqqui",
+      "number": 16,
+      "text": "What colour does red rose extract turn when added to a basic solution?",
+      "type": "mcq",
+      "options": [
+        "Red",
+        "Green",
+        "Blue",
+        "Colourless"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "8dsj4r9",
+      "number": 17,
+      "text": "Which of the following is formed by the association of a fungus and an alga?",
+      "type": "mcq",
+      "options": [
+        "Amoeba",
+        "Lichens",
+        "Mushroom",
+        "Red rose"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "bng55uo",
+      "number": 18,
+      "text": "Lime water is easily prepared by mixing lime (calcium oxide) in water.",
+      "type": "true_false",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "17xjt4l",
+      "number": 19,
+      "text": "A neutralisation reaction occurs when the solution of an acid is mixed with the solution of a ____.",
+      "type": "fill_blank",
+      "options": [],
+      "correctAnswer": "base",
+      "marks": 1
+    },
+    {
+      "id": "1txrqly",
+      "number": 20,
+      "text": "Factory waste that is acidic should be neutralised by adding ____ substances before being released into lakes.",
+      "type": "mcq",
+      "options": [
+        "Acidic",
+        "Neutral",
+        "Basic",
+        "Salty"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-06-23T07:48:47.844Z",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 40
+  }
+}
