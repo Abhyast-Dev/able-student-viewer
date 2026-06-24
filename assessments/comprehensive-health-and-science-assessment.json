@@ -7,8 +7,12 @@
   "subject": "Science",
   "className": "VII",
   "duration": "180 minutes",
-  "maximumMarks": "80 Instructions:",
-  "instructions": [],
+  "maximumMarks": "80",
+  "instructions": [
+    "Write all answers clearly in your answer script.",
+    "All questions are compulsory.",
+    "Read the instructions for each section carefully before answering."
+  ],
   "sections": [
     {
       "title": "Section A: Remembering",
@@ -19,7 +23,7 @@
           "text": "Which aspect of health involves staying positive and having a healthy mindset?",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "Mental",
           "teacherNotes": "",
           "type": "mcq",
           "options": [
@@ -35,7 +39,7 @@
           "text": "Which scientist is credited with the discovery of Penicillin in 1928?",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "Alexander Fleming",
           "teacherNotes": "",
           "type": "mcq",
           "options": [
@@ -51,7 +55,7 @@
           "text": "According to the World Health Organization (WHO), health is a state of complete physical, mental, and social well-being and not merely the absence of:",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "Disease",
           "teacherNotes": "",
           "type": "mcq",
           "options": [
@@ -67,7 +71,7 @@
           "text": "Which of the following is a non-communicable disease often linked to lifestyle factors?",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "Diabetes",
           "teacherNotes": "",
           "type": "mcq",
           "options": [
@@ -83,7 +87,7 @@
           "text": "The first vaccine ever discovered was created to protect people against:",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "Smallpox",
           "teacherNotes": "",
           "type": "mcq",
           "options": [
@@ -99,7 +103,7 @@
           "text": "Disease-causing organisms like bacteria, viruses, and fungi are collectively called __________ .",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "pathogens",
           "teacherNotes": "",
           "type": "fill_blank"
         },
@@ -109,7 +113,7 @@
           "text": "A condition that lasts for a long time, typically more than three months, is known as a __________ disease.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "chronic",
           "teacherNotes": "",
           "type": "fill_blank"
         },
@@ -119,7 +123,7 @@
           "text": "The index used to communicate how clean or polluted the air is in a city is the __________ .",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "Air Quality Index / AQI",
           "teacherNotes": "",
           "type": "fill_blank"
         },
@@ -129,7 +133,7 @@
           "text": "In traditional Indian medicine, the natural ability of our body to fight against diseases is known as __________ .",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "Vyadhikshamatva",
           "teacherNotes": "",
           "type": "fill_blank"
         },
@@ -139,7 +143,7 @@
           "text": "Ayurveda teaches that health is a balance between the body, mind, and surroundings.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "True",
           "teacherNotes": "",
           "type": "true_false"
         },
@@ -149,7 +153,7 @@
           "text": "Antibiotics are effective treatments for diseases caused by viruses, such as the common cold.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "False",
           "teacherNotes": "",
           "type": "true_false"
         },
@@ -159,7 +163,7 @@
           "text": "Non-communicable diseases can be spread from one person to another through direct contact.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "False",
           "teacherNotes": "",
           "type": "true_false"
         },
@@ -169,7 +173,7 @@
           "text": "Name the specific causal agent (pathogen type) responsible for Malaria.",
           "marks": 1,
           "responseLength": "1 sentence",
-          "answerKey": "",
+          "answerKey": "Malaria is caused by a protozoan parasite called Plasmodium.",
           "teacherNotes": "",
           "type": "short_answer"
         },
@@ -179,17 +183,17 @@
           "text": "What is a ‘vector’ in the context of disease transmission?",
           "marks": 1,
           "responseLength": "1 sentence",
-          "answerKey": "",
+          "answerKey": "A vector is a living organism, such as a mosquito or fly, that carries and transmits an infectious pathogen from one host to another.",
           "teacherNotes": "",
           "type": "short_answer"
         },
         {
           "id": "py49c1e",
           "number": 15,
-          "text": "Identify one sign of a disease that a doctor can measure using medical instruments. Directions (Q16–Q20): For the following questions, two statements are given: one labelled Assertion (A) and the other labelled Reason (R). Select the correct answer from the codes (a), (b), (c), and (d) as given below: (a) Both A and R are true, and R is the correct explanation of A. (b) Both A and R are true, but R is NOT the correct explanation of A. (c) A is true, but R is false. (d) A is false, but R is true.",
+          "text": "Identify one sign of a disease that a doctor can measure using medical instruments.",
           "marks": 1,
           "responseLength": "1 sentence",
-          "answerKey": "",
+          "answerKey": "A doctor can measure body temperature using a thermometer or blood pressure using a sphygmomanometer.",
           "teacherNotes": "",
           "type": "short_answer"
         }
@@ -197,56 +201,62 @@
     },
     {
       "title": "Section B: Assertion and Reasoning",
+      "instruction": "Directions: For the following questions, two statements are given: one labelled Assertion (A) and the other labelled Reason (R). Select the correct answer from the codes (a), (b), (c), and (d) as given below:\n(a) Both A and R are true, and R is the correct explanation of A.\n(b) Both A and R are true, but R is NOT the correct explanation of A.\n(c) A is true, but R is false.\n(d) A is false, but R is true.",
       "questions": [
         {
           "id": "45k1389",
           "number": 1,
-          "text": "Assertion (A): Vaccines provide acquired immunity against specific pathogens. Reason (R): Vaccines train the immune system to recognize and attack harmful germs before they cause serious illness.",
+          "text": "Assertion (A): Vaccines provide acquired immunity against specific pathogens.\nReason (R): Vaccines train the immune system to recognize and attack harmful germs before they cause serious illness.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "(a)",
           "teacherNotes": "",
-          "type": "long_answer"
+          "type": "mcq",
+          "options": ["a", "b", "c", "d"]
         },
         {
           "id": "laspb1p",
           "number": 2,
-          "text": "Assertion (A): Diabetes is classified as a non-communicable disease. Reason (R): It is caused by pathogens spreading from one person to another through contaminated water.",
+          "text": "Assertion (A): Diabetes is classified as a non-communicable disease.\nReason (R): It is caused by pathogens spreading from one person to another through contaminated water.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "(c)",
           "teacherNotes": "",
-          "type": "long_answer"
+          "type": "mcq",
+          "options": ["a", "b", "c", "d"]
         },
         {
           "id": "l35bib0",
           "number": 3,
-          "text": "Assertion (A): Antibiotic resistance makes certain bacterial infections harder to treat. Reason (R): Bacteria can develop the ability to survive and multiply despite being treated with antibiotics.",
+          "text": "Assertion (A): Antibiotic resistance makes certain bacterial infections harder to treat.\nReason (R): Bacteria can develop the ability to survive and multiply despite being treated with antibiotics.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "(a)",
           "teacherNotes": "",
-          "type": "long_answer"
+          "type": "mcq",
+          "options": ["a", "b", "c", "d"]
         },
         {
           "id": "surdr0m",
           "number": 4,
-          "text": "Assertion (A): Yoga and meditation are recommended for maintaining mental well-being. Reason (R): These practices help maintain a calm mind and help the body cope with stress.",
+          "text": "Assertion (A): Yoga and meditation are recommended for maintaining mental well-being.\nReason (R): These practices help maintain a calm mind and help the body cope with stress.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "(a)",
           "teacherNotes": "",
-          "type": "long_answer"
+          "type": "mcq",
+          "options": ["a", "b", "c", "d"]
         },
         {
           "id": "wu63s01",
           "number": 5,
-          "text": "Assertion (A): Insects like houseflies are considered pathogens in the digestive system. Reason (R): Insects that carry disease-causing germs from one place to another are known as vectors.",
+          "text": "Assertion (A): Insects like houseflies are considered pathogens in the digestive system.\nReason (R): Insects that carry disease-causing germs from one place to another are known as vectors.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "",
+          "answerKey": "(d)",
           "teacherNotes": "",
-          "type": "long_answer"
+          "type": "mcq",
+          "options": ["a", "b", "c", "d"]
         }
       ]
     },
@@ -446,8 +456,8 @@
         {
           "id": "vxyjhnl",
           "number": 1,
-          "text": "Design a School Campaign: You are tasked with leading a campaign to prevent a flu outbreak in your school. Create a list of five key messages or rules that students must follow to reduce the spread of the virus. Marks: 5",
-          "marks": 0,
+          "text": "Design a School Campaign: You are tasked with leading a campaign to prevent a flu outbreak in your school. Create a list of five key messages or rules that students must follow to reduce the spread of the virus.",
+          "marks": 5,
           "responseLength": "6–8 sentences arranged in a clear numbered list",
           "answerKey": "",
           "teacherNotes": "",
