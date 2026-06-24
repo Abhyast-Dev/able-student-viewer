@@ -1,4 +1,4 @@
-{ 
+{
   "id": "comprehensive-health-and-science-assessment",
   "type": "written",
   "purpose": "Test",
@@ -9,7 +9,7 @@
   "duration": "180 minutes",
   "maximumMarks": "80",
   "instructions": [
-    "Write all answers clearly in your answer script.",
+    "Write answers in your notebook.",
     "All questions are compulsory.",
     "Read the instructions for each section carefully before answering."
   ],
@@ -173,7 +173,7 @@
           "text": "Name the specific causal agent (pathogen type) responsible for Malaria.",
           "marks": 1,
           "responseLength": "1 sentence",
-          "answerKey": "Malaria is caused by a protozoan parasite called Plasmodium.",
+          "answerKey": "Protozoa (Plasmodium parasite)",
           "teacherNotes": "",
           "type": "short_answer"
         },
@@ -183,7 +183,7 @@
           "text": "What is a ‘vector’ in the context of disease transmission?",
           "marks": 1,
           "responseLength": "1 sentence",
-          "answerKey": "A vector is a living organism, such as a mosquito or fly, that carries and transmits an infectious pathogen from one host to another.",
+          "answerKey": "A vector is an organism (like a mosquito or fly) that carries and transmits infectious pathogens from one host to another.",
           "teacherNotes": "",
           "type": "short_answer"
         },
@@ -193,7 +193,7 @@
           "text": "Identify one sign of a disease that a doctor can measure using medical instruments.",
           "marks": 1,
           "responseLength": "1 sentence",
-          "answerKey": "A doctor can measure body temperature using a thermometer or blood pressure using a sphygmomanometer.",
+          "answerKey": "Body temperature (measured with a thermometer) or blood pressure (measured with a sphygmomanometer).",
           "teacherNotes": "",
           "type": "short_answer"
         }
@@ -201,62 +201,86 @@
     },
     {
       "title": "Section B: Assertion and Reasoning",
-      "instruction": "Directions: For the following questions, two statements are given: one labelled Assertion (A) and the other labelled Reason (R). Select the correct answer from the codes (a), (b), (c), and (d) as given below:\n(a) Both A and R are true, and R is the correct explanation of A.\n(b) Both A and R are true, but R is NOT the correct explanation of A.\n(c) A is true, but R is false.\n(d) A is false, but R is true.",
       "questions": [
         {
           "id": "45k1389",
-          "number": 1,
+          "number": 16,
           "text": "Assertion (A): Vaccines provide acquired immunity against specific pathogens.\nReason (R): Vaccines train the immune system to recognize and attack harmful germs before they cause serious illness.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "(a)",
+          "answerKey": "a",
           "teacherNotes": "",
           "type": "mcq",
-          "options": ["a", "b", "c", "d"]
+          "options": [
+            "(a) Both A and R are true, and R is the correct explanation of A.",
+            "(b) Both A and R are true, but R is NOT the correct explanation of A.",
+            "(c) A is true, but R is false.",
+            "(d) A is false, but R is true."
+          ]
         },
         {
           "id": "laspb1p",
-          "number": 2,
+          "number": 17,
           "text": "Assertion (A): Diabetes is classified as a non-communicable disease.\nReason (R): It is caused by pathogens spreading from one person to another through contaminated water.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "(c)",
+          "answerKey": "c",
           "teacherNotes": "",
           "type": "mcq",
-          "options": ["a", "b", "c", "d"]
+          "options": [
+            "(a) Both A and R are true, and R is the correct explanation of A.",
+            "(b) Both A and R are true, but R is NOT the correct explanation of A.",
+            "(c) A is true, but R is false.",
+            "(d) A is false, but R is true."
+          ]
         },
         {
           "id": "l35bib0",
-          "number": 3,
+          "number": 18,
           "text": "Assertion (A): Antibiotic resistance makes certain bacterial infections harder to treat.\nReason (R): Bacteria can develop the ability to survive and multiply despite being treated with antibiotics.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "(a)",
+          "answerKey": "a",
           "teacherNotes": "",
           "type": "mcq",
-          "options": ["a", "b", "c", "d"]
+          "options": [
+            "(a) Both A and R are true, and R is the correct explanation of A.",
+            "(b) Both A and R are true, but R is NOT the correct explanation of A.",
+            "(c) A is true, but R is false.",
+            "(d) A is false, but R is true."
+          ]
         },
         {
           "id": "surdr0m",
-          "number": 4,
+          "number": 19,
           "text": "Assertion (A): Yoga and meditation are recommended for maintaining mental well-being.\nReason (R): These practices help maintain a calm mind and help the body cope with stress.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "(a)",
+          "answerKey": "a",
           "teacherNotes": "",
           "type": "mcq",
-          "options": ["a", "b", "c", "d"]
+          "options": [
+            "(a) Both A and R are true, and R is the correct explanation of A.",
+            "(b) Both A and R are true, but R is NOT the correct explanation of A.",
+            "(c) A is true, but R is false.",
+            "(d) A is false, but R is true."
+          ]
         },
         {
           "id": "wu63s01",
-          "number": 5,
+          "number": 20,
           "text": "Assertion (A): Insects like houseflies are considered pathogens in the digestive system.\nReason (R): Insects that carry disease-causing germs from one place to another are known as vectors.",
           "marks": 1,
           "responseLength": "",
-          "answerKey": "(d)",
+          "answerKey": "d",
           "teacherNotes": "",
           "type": "mcq",
-          "options": ["a", "b", "c", "d"]
+          "options": [
+            "(a) Both A and R are true, and R is the correct explanation of A.",
+            "(b) Both A and R are true, but R is NOT the correct explanation of A.",
+            "(c) A is true, but R is false.",
+            "(d) A is false, but R is true."
+          ]
         }
       ]
     },
@@ -265,7 +289,7 @@
       "questions": [
         {
           "id": "fjj262z",
-          "number": 1,
+          "number": 21,
           "text": "Explain why \"prevention is better than cure\" in the context of communicable diseases.",
           "marks": 2,
           "responseLength": "3–4 sentences",
@@ -275,7 +299,7 @@
         },
         {
           "id": "8e9mbd2",
-          "number": 2,
+          "number": 22,
           "text": "Differentiate between a ‘symptom’ and a ‘sign’ of a disease. Provide one example of each.",
           "marks": 2,
           "responseLength": "2–3 sentences",
@@ -285,7 +309,7 @@
         },
         {
           "id": "legpr9d",
-          "number": 3,
+          "number": 23,
           "text": "Describe how a vaccine works to protect the body without causing the actual illness.",
           "marks": 2,
           "responseLength": "3–4 sentences",
@@ -295,7 +319,7 @@
         },
         {
           "id": "5wy4hih",
-          "number": 4,
+          "number": 24,
           "text": "Why are non-communicable diseases (NCDs) like heart disease and cancer becoming more common in India today?",
           "marks": 2,
           "responseLength": "2–3 sentences",
@@ -305,7 +329,7 @@
         },
         {
           "id": "k45jbgm",
-          "number": 5,
+          "number": 25,
           "text": "What is ‘antibiotic resistance,’ and why is it considered a major global health threat?",
           "marks": 2,
           "responseLength": "3–4 sentences",
@@ -315,7 +339,7 @@
         },
         {
           "id": "fis0dj7",
-          "number": 6,
+          "number": 26,
           "text": "How do traditional Indian medicine systems like Ayurveda contribute to recovery and well-being?",
           "marks": 2,
           "responseLength": "2–3 sentences",
@@ -325,7 +349,7 @@
         },
         {
           "id": "duytnlj",
-          "number": 7,
+          "number": 27,
           "text": "Explain the difference between ‘acquired immunity’ and the body’s natural ‘immunity.’",
           "marks": 2,
           "responseLength": "3–4 sentences",
@@ -335,7 +359,7 @@
         },
         {
           "id": "ds8ovy3",
-          "number": 8,
+          "number": 28,
           "text": "What are deficiency diseases? Mention two specific examples and state why they are non-communicable.",
           "marks": 2,
           "responseLength": "2–3 sentences",
@@ -345,7 +369,7 @@
         },
         {
           "id": "so2xm2m",
-          "number": 9,
+          "number": 29,
           "text": "What are the common methods of transmission for infectious diseases? List at least three.",
           "marks": 2,
           "responseLength": "3–4 sentences",
@@ -355,7 +379,7 @@
         },
         {
           "id": "sl7gw8k",
-          "number": 10,
+          "number": 30,
           "text": "Why is physical health not the only factor considered when defining someone as \"healthy\"?",
           "marks": 2,
           "responseLength": "2–3 sentences",
@@ -370,7 +394,7 @@
       "questions": [
         {
           "id": "tyajq4f",
-          "number": 1,
+          "number": 31,
           "text": "A student recently moved to a new school, felt lonely, and began spending 8 hours daily on social media. They now experience headaches and weight loss. Analyze the physical, mental, and social factors involved and suggest two lifestyle changes for their recovery.",
           "marks": 4,
           "responseLength": "4–5 sentences",
@@ -380,7 +404,7 @@
         },
         {
           "id": "6kciayw",
-          "number": 2,
+          "number": 32,
           "text": "If a neighborhood successfully removes all stagnant water and implements a waste-clearing drive, predict which specific types of diseases will be prevented. Explain the science behind this action.",
           "marks": 3,
           "responseLength": "3–4 sentences",
@@ -390,7 +414,7 @@
         },
         {
           "id": "4fbufrg",
-          "number": 3,
+          "number": 33,
           "text": "A child receives a 'tetanus shot' after a small injury from a rusty object. Explain how this injection uses the principle of training the immune system to protect the child.",
           "marks": 3,
           "responseLength": "3–4 sentences",
@@ -405,7 +429,7 @@
       "questions": [
         {
           "id": "br9lkmj",
-          "number": 1,
+          "number": 34,
           "text": "Categorize the following into ‘Communicable’ or ‘Non-communicable’ diseases and identify the primary causal factor (pathogen type or lifestyle factor) for each: Tuberculosis, Obesity, Chickenpox, Scurvy, Dengue, Asthma.",
           "marks": 6,
           "responseLength": "Table format or clear categorized list",
@@ -415,7 +439,7 @@
         },
         {
           "id": "ueaxbce",
-          "number": 2,
+          "number": 35,
           "text": "Analyze how antibiotic-resistant bacteria can spread from farm animals to the human community based on agricultural and medical practices.",
           "marks": 4,
           "responseLength": "4–5 sentences",
@@ -430,7 +454,7 @@
       "questions": [
         {
           "id": "t7pfrhb",
-          "number": 1,
+          "number": 36,
           "text": "Evaluate a playground located near a factory with heavy smoke and stagnant water pools full of flies. Compare the health risks here with a clean playground. Which specific disease transmission methods are most likely at play in this environment?",
           "marks": 5,
           "responseLength": "5–6 sentences",
@@ -440,7 +464,7 @@
         },
         {
           "id": "ibe7dfj",
-          "number": 2,
+          "number": 37,
           "text": "Someone argues, \"Since antibiotics are powerful medicines, we should take them for every cough to recover faster.\" Evaluate the scientific accuracy of this statement and discuss the potential long-term risks of this habit.",
           "marks": 5,
           "responseLength": "5–6 sentences",
@@ -455,7 +479,7 @@
       "questions": [
         {
           "id": "vxyjhnl",
-          "number": 1,
+          "number": 38,
           "text": "Design a School Campaign: You are tasked with leading a campaign to prevent a flu outbreak in your school. Create a list of five key messages or rules that students must follow to reduce the spread of the virus.",
           "marks": 5,
           "responseLength": "6–8 sentences arranged in a clear numbered list",
@@ -465,7 +489,7 @@
         },
         {
           "id": "69e6pcw",
-          "number": 2,
+          "number": 39,
           "text": "Create a ‘Complete Well-being Tracker’: Design the structure and five essential categories a student should track monthly in a health diary to ensure they meet the WHO definition of health.",
           "marks": 5,
           "responseLength": "6–8 sentences",
