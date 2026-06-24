@@ -1,12 +1,12 @@
 {
-  "id": "untitled-quiz",
+  "id": "Health-quiz",
   "type": "quiz",
   "purpose": "Test",
-  "title": "Untitled Quiz",
-  "chapterName": "",
-  "subject": "",
-  "className": "",
-  "duration": "",
+  "title": "Health Quiz",
+  "chapterName": "Health: The Ultimate Treasure",
+  "subject": "Science",
+  "className": "VIII",
+  "duration": "15",
   "maximumMarks": 30,
   "questions": [
     {
