@@ -7,235 +7,364 @@
   "subject": "",
   "className": "",
   "duration": "",
-  "maximumMarks": 20,
+  "maximumMarks": 30,
   "questions": [
     {
-      "id": "eiaqvij",
+      "id": "qd54kfc",
       "number": 1,
-      "text": "Which of the following is considered a natural indicator?",
+      "text": "According to the World Health Organization (WHO), health is defined as a state of complete physical, mental, and ____ well-being.",
       "type": "mcq",
       "options": [
-        "Litmus",
-        "Turmeric",
-        "Red rose extract",
-        "All of the above"
+        "economical",
+        "social",
+        "political",
+        "emotional"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "dwrwtjr",
+      "number": 2,
+      "text": "Communicable diseases are caused by pathogens and can spread from one person to another.",
+      "type": "true_false",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "d349xqo",
+      "number": 3,
+      "text": "Disease-causing organisms such as bacteria",
+      "type": "viruses",
+      "options": [
+        "fungi",
+        "and protozoa are called ____.",
+        "fill_blank"
+      ],
+      "correctAnswer": "",
+      "marks": 1
+    },
+    {
+      "id": "uuhrnka",
+      "number": 4,
+      "text": "Which type of organism is the causal agent of Malaria?",
+      "type": "mcq",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Protozoa",
+        "Worms"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "cnj8n2d",
+      "number": 5,
+      "text": "Antibiotics are effective medicines used to treat diseases caused by viruses.",
+      "type": "true_false",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "w6271cv",
+      "number": 6,
+      "text": "The natural ability of our body to fight against diseases is known as ____.",
+      "type": "fill_blank",
+      "options": [],
+      "correctAnswer": "immunity",
+      "marks": 1
+    },
+    {
+      "id": "8wrq7uy",
+      "number": 7,
+      "text": "Who discovered the first vaccine in the late 1700s to protect people from smallpox?",
+      "type": "mcq",
+      "options": [
+        "Alexander Fleming",
+        "Edward Jenner",
+        "Kamal Ranadive",
+        "Maharaj Kishan Bhan"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "czqnwbp",
+      "number": 8,
+      "text": "Non-communicable diseases (NCDs) like diabetes and hypertension can spread from an infected person to a healthy person through air.",
+      "type": "true_false",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "e8aozdx",
+      "number": 9,
+      "text": "Penicillin",
+      "type": "the first antibiotic used to treat bacterial infections",
+      "options": [
+        "was discovered by ____.",
+        "fill_blank"
+      ],
+      "correctAnswer": "",
+      "marks": 1
+    },
+    {
+      "id": "if1p38w",
+      "number": 10,
+      "text": "A measurable indicator of a disease that can be seen by others or a doctor (such as fever or rash) is known as a ____.",
+      "type": "mcq",
+      "options": [
+        "symptom",
+        "sign",
+        "habit",
+        "routine"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "bcylcbd",
+      "number": 11,
+      "text": "In Indian scientific heritage, which term refers to following a daily routine to maintain a health balance?",
+      "type": "mcq",
+      "options": [
+        "ritucharya",
+        "dinacharya",
+        "prakriti",
+        "ayurveda"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "5xlq3pi",
+      "number": 12,
+      "text": "Diseases that persist for a long time (typically more than 3 months) are referred to as chronic diseases.",
+      "type": "true_false",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "zuyht14",
+      "number": 13,
+      "text": "An insect or animal that carries and transmits a pathogen from an infected individual to another is called a ____.",
+      "type": "fill_blank",
+      "options": [],
+      "correctAnswer": "vector",
+      "marks": 1
+    },
+    {
+      "id": "d046cot",
+      "number": 14,
+      "text": "Which pioneering biomedical researcher studied the links between hormones, viruses, and cancer in India?",
+      "type": "mcq",
+      "options": [
+        "Mary Poonen Lukose",
+        "Asima Chatterjee",
+        "Suniti Solomon",
+        "Kamal Ranadive"
       ],
       "correctAnswer": "D",
       "marks": 1
     },
     {
-      "id": "hl4l1ud",
-      "number": 2,
-      "text": "Acharya Prafulla Chandra Ray is known as the Father of Modern Indian Chemistry.",
-      "type": "true_false",
-      "options": [],
-      "correctAnswer": "TRUE",
-      "marks": 1
-    },
-    {
-      "id": "72e17xf",
-      "number": 3,
-      "text": "Substances that taste sour tend to contain acids and are ____ in nature.",
-      "type": "fill_blank",
-      "options": [],
-      "correctAnswer": "acidic",
-      "marks": 1
-    },
-    {
-      "id": "0cu8fll",
-      "number": 4,
-      "text": "What colour does blue litmus paper turn when dipped in an acidic solution?",
-      "type": "mcq",
-      "options": [
-        "Blue",
-        "Green",
-        "Red",
-        "Yellow"
-      ],
-      "correctAnswer": "C",
-      "marks": 1
-    },
-    {
-      "id": "fkcc5d1",
-      "number": 5,
-      "text": "An indicator that changes its odour in acidic or basic mediums is called an ____ indicator.",
-      "type": "fill_blank",
-      "options": [],
-      "correctAnswer": "olfactory",
-      "marks": 1
-    },
-    {
-      "id": "64u6uv5",
-      "number": 6,
-      "text": "Tap water and sugar solutions change the colour of red litmus paper to blue.",
+      "id": "c5zyu23",
+      "number": 15,
+      "text": "Vaccines are curative treatments that help cure a patient once they have already fallen sick.",
       "type": "true_false",
       "options": [],
       "correctAnswer": "FALSE",
       "marks": 1
     },
     {
-      "id": "mit9t9n",
-      "number": 7,
-      "text": "When an ant bites it injects ____ acid into the skin.",
+      "id": "5okttgp",
+      "number": 16,
+      "text": "The first vaccine discovered in human history was developed to protect against the disease ____.",
       "type": "fill_blank",
       "options": [],
-      "correctAnswer": "formic",
+      "correctAnswer": "smallpox",
       "marks": 1
     },
     {
-      "id": "mw5acbv",
-      "number": 8,
-      "text": "Turmeric paper turns what colour when exposed to a basic solution like soap water?",
+      "id": "vb6iu2j",
+      "number": 17,
+      "text": "Which of the following diseases infects the digestive tract and is caused by roundworms?",
       "type": "mcq",
       "options": [
-        "Yellow",
-        "Red",
-        "Blue",
-        "Green"
-      ],
-      "correctAnswer": "B",
-      "marks": 1
-    },
-    {
-      "id": "h968aj7",
-      "number": 9,
-      "text": "What are the products formed during a neutralisation reaction?",
-      "type": "mcq",
-      "options": [
-        "Salt only",
-        "Water only",
-        "Salt water and heat",
-        "Acid and base"
-      ],
-      "correctAnswer": "C",
-      "marks": 1
-    },
-    {
-      "id": "ynoajjk",
-      "number": 10,
-      "text": "Bitter gourd tastes bitter so it must be basic in nature.",
-      "type": "true_false",
-      "options": [],
-      "correctAnswer": "FALSE",
-      "marks": 1
-    },
-    {
-      "id": "8iytr4v",
-      "number": 11,
-      "text": "Organic matter releases acids that neutralise the ____ nature of the soil.",
-      "type": "fill_blank",
-      "options": [],
-      "correctAnswer": "basic",
-      "marks": 1
-    },
-    {
-      "id": "xb8tmv7",
-      "number": 12,
-      "text": "What colour does red rose extract turn when an acidic solution is added?",
-      "type": "mcq",
-      "options": [
-        "Blue",
-        "Red",
-        "Green",
-        "Yellow"
-      ],
-      "correctAnswer": "B",
-      "marks": 1
-    },
-    {
-      "id": "iugrpja",
-      "number": 13,
-      "text": "What substance is commonly added to treat soil that is too acidic?",
-      "type": "mcq",
-      "options": [
-        "Lime",
-        "Manure",
-        "Compost",
-        "Vinegar"
+        "Ascariasis",
+        "Typhoid",
+        "Hepatitis A",
+        "Cholera"
       ],
       "correctAnswer": "A",
       "marks": 1
     },
     {
-      "id": "xp7hcgv",
-      "number": 14,
-      "text": "Litmus used as an acid-base indicator is extracted from lichens.",
-      "type": "true_false",
-      "options": [],
-      "correctAnswer": "TRUE",
-      "marks": 1
-    },
-    {
-      "id": "yirzpvr",
-      "number": 15,
-      "text": "Substances that do not affect the colour of either red or blue litmus paper are called ____ substances.",
-      "type": "fill_blank",
-      "options": [],
-      "correctAnswer": "neutral",
-      "marks": 1
-    },
-    {
-      "id": "5uuqqui",
-      "number": 16,
-      "text": "What colour does red rose extract turn when added to a basic solution?",
-      "type": "mcq",
-      "options": [
-        "Red",
-        "Green",
-        "Blue",
-        "Colourless"
-      ],
-      "correctAnswer": "B",
-      "marks": 1
-    },
-    {
-      "id": "8dsj4r9",
-      "number": 17,
-      "text": "Which of the following is formed by the association of a fungus and an alga?",
-      "type": "mcq",
-      "options": [
-        "Amoeba",
-        "Lichens",
-        "Mushroom",
-        "Red rose"
-      ],
-      "correctAnswer": "B",
-      "marks": 1
-    },
-    {
-      "id": "bng55uo",
+      "id": "9afwkkg",
       "number": 18,
-      "text": "Lime water is easily prepared by mixing lime (calcium oxide) in water.",
+      "text": "The phenomenon where bacteria survive and multiply despite treatment with an antibiotic is called antibiotic resistance.",
       "type": "true_false",
       "options": [],
       "correctAnswer": "TRUE",
       "marks": 1
     },
     {
-      "id": "17xjt4l",
+      "id": "b7kzn6i",
       "number": 19,
-      "text": "A neutralisation reaction occurs when the solution of an acid is mixed with the solution of a ____.",
+      "text": "The modern index used to measure and indicate how clean or polluted the surrounding ambient air is called ____.",
       "type": "fill_blank",
       "options": [],
-      "correctAnswer": "base",
+      "correctAnswer": "Air Quality Index",
       "marks": 1
     },
     {
-      "id": "1txrqly",
+      "id": "42bruol",
       "number": 20,
-      "text": "Factory waste that is acidic should be neutralised by adding ____ substances before being released into lakes.",
+      "text": "Which Indian scientist played a key role in developing the Rotavirus vaccine to protect children from diarrhoea?",
       "type": "mcq",
       "options": [
-        "Acidic",
-        "Neutral",
-        "Basic",
-        "Salty"
+        "Yellapragada Subbarao",
+        "Edward Jenner",
+        "Maharaj Kishan Bhan",
+        "Alexander Fleming"
       ],
       "correctAnswer": "C",
       "marks": 1
+    },
+    {
+      "id": "el1wim7",
+      "number": 21,
+      "text": "According to the ICMR report shown on the bulletin board, what percentage of India's population is diabetic?",
+      "type": "mcq",
+      "options": [
+        "8.4%",
+        "11.4%",
+        "15.2%",
+        "28.6%"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "yo4tb7a",
+      "number": 22,
+      "text": "Regular handwashing with soap can reduce infections by 50%.",
+      "type": "true_false",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "n1o7jaz",
+      "number": 23,
+      "text": "What was the traditional method called in India to protect against smallpox before modern vaccines, which involved scratching the skin with material from a sore?",
+      "type": "mcq",
+      "options": [
+        "variolation",
+        "inoculation",
+        "immunization",
+        "ayurveda"
+      ],
+      "correctAnswer": "A",
+      "marks": 1
+    },
+    {
+      "id": "5u13x10",
+      "number": 24,
+      "text": "The traditional practitioners who performed smallpox variolation in India were known as teekedaars.",
+      "type": "true_false",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "zj6iiae",
+      "number": 25,
+      "text": "Which district in Odisha was featured in the case study for a highly successful community-led sanitation campaign?",
+      "type": "mcq",
+      "options": [
+        "Puri",
+        "Cuttack",
+        "Bhadrak",
+        "Ganjam"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "klyezjr",
+      "number": 26,
+      "text": "According to the bulletin board data, what percentage of Indians are currently obese?",
+      "type": "mcq",
+      "options": [
+        "11.4%",
+        "18.5%",
+        "22.1%",
+        "28.6%"
+      ],
+      "correctAnswer": "D",
+      "marks": 1
+    },
+    {
+      "id": "tmpw3ra",
+      "number": 27,
+      "text": "Under the Vaccine Maitri initiative",
+      "type": "India supplied over 24 crore doses of vaccines to more than 100 countries.",
+      "options": [
+        "true_false"
+      ],
+      "correctAnswer": "",
+      "marks": 1
+    },
+    {
+      "id": "irj7sxz",
+      "number": 28,
+      "text": "Besides Ayurveda, what other traditional medicine systems are mentioned as being historically used in India for managing everyday health problems?",
+      "type": "mcq",
+      "options": [
+        "Homeopathy and Allopathy",
+        "Siddha and Unani",
+        "Acupuncture and Yoga",
+        "Naturopathy and Reiki"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "9xrmuta",
+      "number": 29,
+      "text": "If drinking water gets contaminated by human excreta, which set of waterborne diseases can spread?",
+      "type": "mcq",
+      "options": [
+        "Tuberculosis and Chickenpox",
+        "Malaria and Dengue",
+        "Cholera and Hepatitis A",
+        "Asthma and Diabetes"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "7l25gf6",
+      "number": 30,
+      "text": "According to the bulletin board 'diet mantra', by what percentage should people aim to reduce oil in their diet?",
+      "type": "mcq",
+      "options": [
+        "5%",
+        "10%",
+        "20%",
+        "25%"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
     }
   ],
-  "createdAt": "2026-06-23T07:48:47.844Z",
+  "createdAt": "2026-06-24T17:30:53.228Z",
   "googleSheetsWebhook": "",
   "submission": {
     "whatsapp": "919910686080",
