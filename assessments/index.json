@@ -1,20 +1,3 @@
-{
-  "version": 1,
-  "generatedOn": "2026-06-25T06:50:57.462Z",
-  "assessments": [
-    {
-      "id": "8eedb4c5-200b-45c2-b940-c2eddfd2b608",
-      "slug": "untitled-quiz",
-      "title": "Untitled Quiz",
-      "subject": "",
-      "className": "",
-      "chapterName": "",
-      "type": "quiz",
-      "duration": "",
-      "maximumMarks": 30,
-      "status": "live",
-      "publishedOn": "2026-06-25T06:50:57.462Z"
-    },
     {
       "id": "e1730303-bc73-4e1d-bb65-17115afa22cf",
       "slug": "exploring-substances",
