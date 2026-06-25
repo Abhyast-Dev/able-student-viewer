@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "generatedOn": "2026-06-25T08:00:57.785Z",
+  "assessments": [
+    {
+      "id": "e1eddd6e-51c7-4986-b285-cbfccb49d639",
+      "slug": "exploring-substances",
+      "title": "Exploring Substances",
+      "subject": "Science",
+      "className": "VII",
+      "chapterName": "Acids, Bases and Salts",
+      "type": "written",
+      "duration": "120 minutes",
+      "maximumMarks": "65",
+      "status": "live",
+      "publishedOn": "2026-06-25T08:00:57.785Z"
+    }
+  ]
+}
