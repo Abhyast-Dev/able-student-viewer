@@ -140,3 +140,25 @@ function renderQuizResult(p){const can=assessment.viewer?.showCorrectAnswersAfte
 function showAnswerReview(){if(!lastQuizResult){alert("No quiz result available to review.");return;}app.innerHTML=`<div class="quiz-card"><h1>Answer Review</h1><div class="muted" style="margin-bottom:18px">Score: ${lastQuizResult.score}/${lastQuizResult.total} · ${lastQuizResult.percentage}%</div>${lastQuizResult.responses.map((r,i)=>`<div class="question" style="border-left:4px solid ${r.isCorrect?"#16a34a":"#dc2626"};padding-left:14px"><p><b>Q${i+1}.</b> ${esc(r.question)}</p>${r.options?.length?`<div class="options-list">${r.options.map((o,idx)=>`<div class="option-row"><b>${String.fromCharCode(65+idx)}.</b> ${esc(o)}</div>`).join("")}</div>`:""}<p>Your answer: <b>${esc(r.answerDisplay||"Not answered")}</b></p><p>Correct answer: <b>${esc(r.correctDisplay||r.correct||"Not provided")}</b></p><p style="font-weight:700;color:${r.isCorrect?"#16a34a":"#dc2626"}">${r.isCorrect?"Correct":"Incorrect"}</p></div>`).join("")}<div class="actions" style="justify-content:center"><button class="secondary" onclick="renderQuizResult(lastQuizResult)">Back to Score</button><button class="primary" onclick="takeQuizAgain()">Take Quiz Again</button></div></div>`;}
 
 init();
+// Register Service Worker
+if ("serviceWorker" in navigator) {
+
+    window.addEventListener("load", () => {
+
+        navigator.serviceWorker.register("./sw.js")
+
+            .then((registration) => {
+
+                console.log("ABLE™ iAssess Service Worker registered.", registration);
+
+            })
+
+            .catch((err) => {
+
+                console.error("Service Worker registration failed:", err);
+
+            });
+
+    });
+
+}
