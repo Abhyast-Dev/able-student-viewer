@@ -1,0 +1,487 @@
+{
+  "id": "25c56e6b-091a-41cf-bffc-02e5924c3fc4",
+  "slug": "comprehensive-health-and-science-assessment",
+  "type": "written",
+  "purpose": "Test",
+  "title": "Comprehensive Health and Science Assessment",
+  "chapterName": "Health: The Ultimate Treasure",
+  "subject": "Science",
+  "className": "VII",
+  "duration": "180 minutes",
+  "maximumMarks": "80 Instructions:",
+  "instructions": [],
+  "sections": [
+    {
+      "title": "Section A: Remembering",
+      "directions": "",
+      "questions": [
+        {
+          "id": "22cf5c3f-0a8a-4019-9931-43622f7f2126",
+          "number": 1,
+          "type": "mcq",
+          "text": "Which aspect of health involves staying positive and having a healthy mindset?",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": "",
+          "options": [
+            "Physical",
+            "Mental",
+            "Social",
+            "Environmental"
+          ]
+        },
+        {
+          "id": "8e9f341c-fa56-49d0-9868-bc154c28da12",
+          "number": 2,
+          "type": "mcq",
+          "text": "Which scientist is credited with the discovery of Penicillin in 1928?",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": "",
+          "options": [
+            "Edward Jenner",
+            "Kamal Ranadive",
+            "Alexander Fleming",
+            "Maharaj Kishan Bhan"
+          ]
+        },
+        {
+          "id": "c89e60ca-6f6c-4d6a-b3e5-08f7e8d0db14",
+          "number": 3,
+          "type": "mcq",
+          "text": "According to the World Health Organization (WHO), health is a state of complete physical, mental, and social well-being and not merely the absence of:",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": "",
+          "options": [
+            "Bacteria",
+            "Stress",
+            "Disease",
+            "Pollutants"
+          ]
+        },
+        {
+          "id": "899e10a5-d3af-45c8-b2e6-4afa58d32056",
+          "number": 4,
+          "type": "mcq",
+          "text": "Which of the following is a non-communicable disease often linked to lifestyle factors?",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": "",
+          "options": [
+            "Typhoid",
+            "Chickenpox",
+            "Diabetes",
+            "Malaria"
+          ]
+        },
+        {
+          "id": "16a5a6e6-05f1-4cf7-8efd-4b4d6295ca91",
+          "number": 5,
+          "type": "mcq",
+          "text": "The first vaccine ever discovered was created to protect people against:",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": "",
+          "options": [
+            "Polio",
+            "Smallpox",
+            "COVID-19",
+            "Hepatitis A"
+          ]
+        },
+        {
+          "id": "3b297538-4149-4657-94be-b368327cb86b",
+          "number": 6,
+          "type": "fill_blank",
+          "text": "Disease-causing organisms like bacteria, viruses, and fungi are collectively called __________ .",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "3ea11456-3e21-433a-8f31-2dfc37c42d8c",
+          "number": 7,
+          "type": "fill_blank",
+          "text": "A condition that lasts for a long time, typically more than three months, is known as a __________ disease.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "bdb7fbf0-74eb-4cb4-85ca-7c9e309507e0",
+          "number": 8,
+          "type": "fill_blank",
+          "text": "The index used to communicate how clean or polluted the air is in a city is the __________ .",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "170336c4-55e4-40d8-b671-d7a750246d29",
+          "number": 9,
+          "type": "fill_blank",
+          "text": "In traditional Indian medicine, the natural ability of our body to fight against diseases is known as __________ .",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2e24a706-98c9-425f-92e4-a804f3fd0bf0",
+          "number": 10,
+          "type": "true_false",
+          "text": "Ayurveda teaches that health is a balance between the body, mind, and surroundings.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "fae13bdd-0c64-4942-885b-5f90e0063753",
+          "number": 11,
+          "type": "true_false",
+          "text": "Antibiotics are effective treatments for diseases caused by viruses, such as the common cold.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "55f5b01f-9505-44f0-85f2-f50a3f0eac10",
+          "number": 12,
+          "type": "true_false",
+          "text": "Non-communicable diseases can be spread from one person to another through direct contact.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "823f343f-5bd6-47ac-bff3-89e00a5c9819",
+          "number": 13,
+          "type": "short_answer",
+          "text": "Name the specific causal agent (pathogen type) responsible for Malaria.",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "04b715e2-a7bb-48e9-ae6b-4eb77068022f",
+          "number": 14,
+          "type": "short_answer",
+          "text": "What is a ‘vector’ in the context of disease transmission?",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d183d2c2-dc34-40ce-b88d-462624146bfa",
+          "number": 15,
+          "type": "short_answer",
+          "text": "Identify one sign of a disease that a doctor can measure using medical instruments.",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section B: Assertion and Reasoning",
+      "directions": "Directions (Q16–Q20): For the following questions, two statements are given: one labelled Assertion (A) and the other labelled Reason (R). Select the correct answer from the codes (a), (b), (c), and (d) as given below:\n(a) Both A and R are true, and R is the correct explanation of A.\n(b) Both A and R are true, but R is NOT the correct explanation of A.\n(c) A is true, but R is false.\n(d) A is false, but R is true.",
+      "questions": [
+        {
+          "id": "7d899caf-89ba-4b26-a8c1-09ca850d44c6",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Assertion (A): Vaccines provide acquired immunity against specific pathogens. Reason (R): Vaccines train the immune system to recognize and attack harmful germs before they cause serious illness.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "53aff34c-2cc2-4781-b9e1-35f038542573",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Assertion (A): Diabetes is classified as a non-communicable disease. Reason (R): It is caused by pathogens spreading from one person to another through contaminated water.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "6a6f27fd-5b06-40be-84a2-ad83fd0ba4e6",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Assertion (A): Antibiotic resistance makes certain bacterial infections harder to treat. Reason (R): Bacteria can develop the ability to survive and multiply despite being treated with antibiotics.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d1b4055c-ce04-4b57-bcf0-a613040e66eb",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Assertion (A): Yoga and meditation are recommended for maintaining mental well-being. Reason (R): These practices help maintain a calm mind and help the body cope with stress.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "54a9a22e-9a67-4486-bcee-f7628dbf6eb2",
+          "number": 5,
+          "type": "long_answer",
+          "text": "Assertion (A): Insects like houseflies are considered pathogens in the digestive system. Reason (R): Insects that carry disease-causing germs from one place to another are known as vectors.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section C: Understanding",
+      "directions": "",
+      "questions": [
+        {
+          "id": "9974c3e5-511a-4a11-8a13-8aa45055a2c4",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Explain why \"prevention is better than cure\" in the context of communicable diseases.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "5c8c017f-22f2-498a-bf8c-c14c6c1089d1",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Differentiate between a ‘symptom’ and a ‘sign’ of a disease. Provide one example of each.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d63da5ef-4bb3-4d28-8294-1090cb8bf5ae",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Describe how a vaccine works to protect the body without causing the actual illness.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "77ac0a57-fbf5-47d2-82c4-bf7ca5571079",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Why are non-communicable diseases (NCDs) like heart disease and cancer becoming more common in India today?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d21a3325-646e-4bdb-8121-dad9e0fcc72a",
+          "number": 5,
+          "type": "long_answer",
+          "text": "What is ‘antibiotic resistance,’ and why is it considered a major global health threat?",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2d3bdc91-c269-4cb2-9774-c2199806bfe6",
+          "number": 6,
+          "type": "long_answer",
+          "text": "How do traditional Indian medicine systems like Ayurveda contribute to recovery and well-being?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "84f6a25b-583a-4c2f-a4a1-5d90cf2c241a",
+          "number": 7,
+          "type": "long_answer",
+          "text": "Explain the difference between ‘acquired immunity’ and the body’s natural ‘immunity.’",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e6207201-99f3-4eba-900b-17ad80e7ac60",
+          "number": 8,
+          "type": "long_answer",
+          "text": "What are deficiency diseases? Mention two specific examples and state why they are non-communicable.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "42f92fdd-0e42-4f4b-9bc7-c1075ea77f43",
+          "number": 9,
+          "type": "long_answer",
+          "text": "What are the common methods of transmission for infectious diseases? List at least three.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "8662667f-6de3-4b59-b57f-14cad091d193",
+          "number": 10,
+          "type": "long_answer",
+          "text": "Why is physical health not the only factor considered when defining someone as \"healthy\"?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section D: Applying",
+      "directions": "",
+      "questions": [
+        {
+          "id": "9d3a9ef7-e627-4108-847a-58d454158c2b",
+          "number": 1,
+          "type": "long_answer",
+          "text": "A student recently moved to a new school, felt lonely, and began spending 8 hours daily on social media. They now experience headaches and weight loss. Analyze the physical, mental, and social factors involved and suggest two lifestyle changes for their recovery.",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "13134ab4-9c06-471d-9946-aa776fd3edba",
+          "number": 2,
+          "type": "long_answer",
+          "text": "If a neighborhood successfully removes all stagnant water and implements a waste-clearing drive, predict which specific types of diseases will be prevented. Explain the science behind this action.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "8eeae7f6-4994-4e5e-87c8-34bd121bb1b4",
+          "number": 3,
+          "type": "long_answer",
+          "text": "A child receives a 'tetanus shot' after a small injury from a rusty object. Explain how this injection uses the principle of training the immune system to protect the child.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section E: Analyzing",
+      "directions": "",
+      "questions": [
+        {
+          "id": "62a18306-3a3e-4361-afba-d829fa018020",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Categorize the following into ‘Communicable’ or ‘Non-communicable’ diseases and identify the primary causal factor (pathogen type or lifestyle factor) for each: Tuberculosis, Obesity, Chickenpox, Scurvy, Dengue, Asthma.",
+          "marks": 6,
+          "responseLength": "Table format or clear categorized list",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "667ab5eb-a2ab-4252-9bca-014cad25396e",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Analyze how antibiotic-resistant bacteria can spread from farm animals to the human community based on agricultural and medical practices.",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section F: Evaluating",
+      "directions": "",
+      "questions": [
+        {
+          "id": "4cfc9f63-70b5-4602-a3f3-7e00da6834b7",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Evaluate a playground located near a factory with heavy smoke and stagnant water pools full of flies. Compare the health risks here with a clean playground. Which specific disease transmission methods are most likely at play in this environment?",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "227d3520-b488-44bb-b078-5c41ffc5e154",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Someone argues, \"Since antibiotics are powerful medicines, we should take them for every cough to recover faster.\" Evaluate the scientific accuracy of this statement and discuss the potential long-term risks of this habit.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section G: Creating",
+      "directions": "",
+      "questions": [
+        {
+          "id": "40335dbf-eeb6-4d68-b20c-5711fd6503b2",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Design a School Campaign: You are tasked with leading a campaign to prevent a flu outbreak in your school. Create a list of five key messages or rules that students must follow to reduce the spread of the virus. Marks: 5",
+          "marks": 0,
+          "responseLength": "6–8 sentences arranged in a clear numbered list",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "b2ec2e78-1d94-4594-a8ec-a156d053fea5",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Create a ‘Complete Well-being Tracker’: Design the structure and five essential categories a student should track monthly in a health diary to ensure they meet the WHO definition of health.",
+          "marks": 5,
+          "responseLength": "6–8 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-25T09:28:36.157Z",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 180,
+    "answerKeyMode": "manual",
+    "answerKeyReleased": false
+  }
+}
