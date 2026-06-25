@@ -1,0 +1,378 @@
+{
+  "id": "16a6ed88-da96-4156-9cf6-6d7965da24c3",
+  "slug": "ncert-ch-3-health",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "NCERT Ch- 3: Health",
+  "chapterName": "3",
+  "subject": "Science",
+  "className": "VIII",
+  "duration": "20 Minutes",
+  "maximumMarks": 30,
+  "questions": [
+    {
+      "id": "a63d8871-364f-456c-8a22-f62c1a9f5103",
+      "number": 1,
+      "type": "mcq",
+      "text": "According to the World Health Organization (WHO), health is defined as a state of complete physical, mental, and ____ well-being.",
+      "options": [
+        "economical",
+        "social",
+        "political",
+        "emotional"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "ac2d45c0-75af-458c-b3c2-42332d6f315a",
+      "number": 2,
+      "type": "true_false",
+      "text": "Communicable diseases are caused by pathogens and can spread from one person to another.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "997c32cb-95bf-420f-b7d0-eaca7592f938",
+      "number": 3,
+      "type": "viruses",
+      "text": "Disease-causing organisms such as bacteria",
+      "options": [
+        "fungi",
+        "and protozoa are called ____.",
+        "fill_blank"
+      ],
+      "correctAnswer": "",
+      "marks": 1
+    },
+    {
+      "id": "46c931ac-20a0-4511-b500-858ce88d4a3d",
+      "number": 4,
+      "type": "mcq",
+      "text": "Which type of organism is the causal agent of Malaria?",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Protozoa",
+        "Worms"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "e10bab12-900d-4df3-98f7-a924dd42fe91",
+      "number": 5,
+      "type": "true_false",
+      "text": "Antibiotics are effective medicines used to treat diseases caused by viruses.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "2e3b8afe-624d-44a7-a07c-ae4265571971",
+      "number": 6,
+      "type": "fill_blank",
+      "text": "The natural ability of our body to fight against diseases is known as ____.",
+      "options": [],
+      "correctAnswer": "immunity",
+      "marks": 1
+    },
+    {
+      "id": "c9fa96d8-6767-4497-a8fc-66835ee570b8",
+      "number": 7,
+      "type": "mcq",
+      "text": "Who discovered the first vaccine in the late 1700s to protect people from smallpox?",
+      "options": [
+        "Alexander Fleming",
+        "Edward Jenner",
+        "Kamal Ranadive",
+        "Maharaj Kishan Bhan"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "404bc24f-ef82-44d7-966d-9cbb598584e3",
+      "number": 8,
+      "type": "true_false",
+      "text": "Non-communicable diseases (NCDs) like diabetes and hypertension can spread from an infected person to a healthy person through air.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "62c3b7d8-6fbe-4d00-8a79-70ddb05c3fe7",
+      "number": 9,
+      "type": "the first antibiotic used to treat bacterial infections",
+      "text": "Penicillin",
+      "options": [
+        "was discovered by ____.",
+        "fill_blank"
+      ],
+      "correctAnswer": "",
+      "marks": 1
+    },
+    {
+      "id": "201581b5-fb67-40ba-b78f-8a3c3f425614",
+      "number": 10,
+      "type": "mcq",
+      "text": "A measurable indicator of a disease that can be seen by others or a doctor (such as fever or rash) is known as a ____.",
+      "options": [
+        "symptom",
+        "sign",
+        "habit",
+        "routine"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "33e193e7-fed4-4173-81e6-43c2445205fb",
+      "number": 11,
+      "type": "mcq",
+      "text": "In Indian scientific heritage, which term refers to following a daily routine to maintain a health balance?",
+      "options": [
+        "ritucharya",
+        "dinacharya",
+        "prakriti",
+        "ayurveda"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "305de2f6-0f81-43ab-8f62-99e39d6f57ed",
+      "number": 12,
+      "type": "true_false",
+      "text": "Diseases that persist for a long time (typically more than 3 months) are referred to as chronic diseases.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "e34258cf-b099-473a-99f3-c68919459a70",
+      "number": 13,
+      "type": "fill_blank",
+      "text": "An insect or animal that carries and transmits a pathogen from an infected individual to another is called a ____.",
+      "options": [],
+      "correctAnswer": "vector",
+      "marks": 1
+    },
+    {
+      "id": "bb6fcc5a-2d30-476f-b204-d09e53afb3c0",
+      "number": 14,
+      "type": "mcq",
+      "text": "Which pioneering biomedical researcher studied the links between hormones, viruses, and cancer in India?",
+      "options": [
+        "Mary Poonen Lukose",
+        "Asima Chatterjee",
+        "Suniti Solomon",
+        "Kamal Ranadive"
+      ],
+      "correctAnswer": "D",
+      "marks": 1
+    },
+    {
+      "id": "83046315-f22c-43ae-a534-d1f6b6f4d4bf",
+      "number": 15,
+      "type": "true_false",
+      "text": "Vaccines are curative treatments that help cure a patient once they have already fallen sick.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "31935452-3ec7-42e6-81a3-d4d2d632c2b2",
+      "number": 16,
+      "type": "fill_blank",
+      "text": "The first vaccine discovered in human history was developed to protect against the disease ____.",
+      "options": [],
+      "correctAnswer": "smallpox",
+      "marks": 1
+    },
+    {
+      "id": "8af92bb0-9cf7-44cc-966d-c4f175d5a1c4",
+      "number": 17,
+      "type": "mcq",
+      "text": "Which of the following diseases infects the digestive tract and is caused by roundworms?",
+      "options": [
+        "Ascariasis",
+        "Typhoid",
+        "Hepatitis A",
+        "Cholera"
+      ],
+      "correctAnswer": "A",
+      "marks": 1
+    },
+    {
+      "id": "a1c08268-9b48-44a8-b2fa-00a51321409e",
+      "number": 18,
+      "type": "true_false",
+      "text": "The phenomenon where bacteria survive and multiply despite treatment with an antibiotic is called antibiotic resistance.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "b346c92f-f9a9-43bb-8504-d41c10496fb0",
+      "number": 19,
+      "type": "fill_blank",
+      "text": "The modern index used to measure and indicate how clean or polluted the surrounding ambient air is called ____.",
+      "options": [],
+      "correctAnswer": "Air Quality Index",
+      "marks": 1
+    },
+    {
+      "id": "4149257c-a02e-4eee-b2c7-b8153e2a14d3",
+      "number": 20,
+      "type": "mcq",
+      "text": "Which Indian scientist played a key role in developing the Rotavirus vaccine to protect children from diarrhoea?",
+      "options": [
+        "Yellapragada Subbarao",
+        "Edward Jenner",
+        "Maharaj Kishan Bhan",
+        "Alexander Fleming"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "6025482e-8620-438e-859a-a8be686a9e75",
+      "number": 21,
+      "type": "mcq",
+      "text": "According to the ICMR report shown on the bulletin board, what percentage of India's population is diabetic?",
+      "options": [
+        "8.4%",
+        "11.4%",
+        "15.2%",
+        "28.6%"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "7e1f5d71-4ab6-4d67-9e80-dbc3afdc5ed3",
+      "number": 22,
+      "type": "true_false",
+      "text": "Regular handwashing with soap can reduce infections by 50%.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "18040a01-b80a-4d1d-b48a-151e54678067",
+      "number": 23,
+      "type": "mcq",
+      "text": "What was the traditional method called in India to protect against smallpox before modern vaccines, which involved scratching the skin with material from a sore?",
+      "options": [
+        "variolation",
+        "inoculation",
+        "immunization",
+        "ayurveda"
+      ],
+      "correctAnswer": "A",
+      "marks": 1
+    },
+    {
+      "id": "7ffb5e5c-0b5d-4e5e-a728-dc4810b4a8d1",
+      "number": 24,
+      "type": "true_false",
+      "text": "The traditional practitioners who performed smallpox variolation in India were known as teekedaars.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "e41c7f22-4c87-4364-aacd-005454e2c451",
+      "number": 25,
+      "type": "mcq",
+      "text": "Which district in Odisha was featured in the case study for a highly successful community-led sanitation campaign?",
+      "options": [
+        "Puri",
+        "Cuttack",
+        "Bhadrak",
+        "Ganjam"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "6664df4c-ab79-4560-b7b9-d7311863b807",
+      "number": 26,
+      "type": "mcq",
+      "text": "According to the bulletin board data, what percentage of Indians are currently obese?",
+      "options": [
+        "11.4%",
+        "18.5%",
+        "22.1%",
+        "28.6%"
+      ],
+      "correctAnswer": "D",
+      "marks": 1
+    },
+    {
+      "id": "68e87e4d-b26f-407b-af5d-d4ca8dddb4e5",
+      "number": 27,
+      "type": "India supplied over 24 crore doses of vaccines to more than 100 countries.",
+      "text": "Under the Vaccine Maitri initiative",
+      "options": [
+        "true_false"
+      ],
+      "correctAnswer": "",
+      "marks": 1
+    },
+    {
+      "id": "c027de11-08c2-4ae1-bebe-69b0a49385c0",
+      "number": 28,
+      "type": "mcq",
+      "text": "Besides Ayurveda, what other traditional medicine systems are mentioned as being historically used in India for managing everyday health problems?",
+      "options": [
+        "Homeopathy and Allopathy",
+        "Siddha and Unani",
+        "Acupuncture and Yoga",
+        "Naturopathy and Reiki"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "5a092c88-ffcc-4c10-bf87-92574783dce4",
+      "number": 29,
+      "type": "mcq",
+      "text": "If drinking water gets contaminated by human excreta, which set of waterborne diseases can spread?",
+      "options": [
+        "Tuberculosis and Chickenpox",
+        "Malaria and Dengue",
+        "Cholera and Hepatitis A",
+        "Asthma and Diabetes"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "81e89b1f-938f-42b4-ae07-07e19911a1b2",
+      "number": 30,
+      "type": "mcq",
+      "text": "According to the bulletin board 'diet mantra', by what percentage should people aim to reduce oil in their diet?",
+      "options": [
+        "5%",
+        "10%",
+        "20%",
+        "25%"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-06-25T10:46:06.965Z",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 20,
+    "showCorrectAnswersAfterSubmit": true
+  }
+}
