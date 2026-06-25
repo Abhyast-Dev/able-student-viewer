@@ -1,0 +1,463 @@
+{
+  "id": "ff38fe99-64a9-4ad1-9d78-3becd86e7247",
+  "slug": "ncert-class-viii-chapter-2-the-invisible-living-world",
+  "type": "written",
+  "purpose": "Test",
+  "title": "NCERT Class VIII Chapter 2: The Invisible Living World",
+  "chapterName": "The Invisible Living World: Beyond Our Naked Eye",
+  "subject": "Science",
+  "className": "VIII",
+  "duration": "180 minutes",
+  "maximumMarks": "80",
+  "instructions": [
+    "Write answers in your notebook.",
+    "All questions are compulsory.",
+    "Read the instructions for each section carefully before answering."
+  ],
+  "sections": [
+    {
+      "title": "Section A: Remembering",
+      "directions": "",
+      "questions": [
+        {
+          "id": "d6ca9c55-1f69-43c5-a770-7651cd861ae5",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Multiple Choice: Which scientist first used the word 'cell' in 1665 to describe the basic unit of life? a) Antonie van Leeuwenhoekb) Robert Hookec) Ananda Mohan Chakrabartyd) Robert Brown",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "46f85aff-e126-4397-aca3-07c7f185578b",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Multiple Choice: Which instrument is required to see subcellular components magnified up to 1,00,000 times? a) Simple Microscopeb) Magnifying Glassc) Electron Microscoped) Foldable Paper Microscope",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "828e7a62-6300-454c-9b09-ad90426aca56",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Multiple Choice: Which of the following is a unicellular fungus used in the baking industry? a) Amoebab) Lactobacillusc) Yeastd) Bread Mould",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "7d8439e4-18bb-4046-b203-cb5333ccde57",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Multiple Choice: The yellow part of which egg is known as the largest single cell in the living world? a) Hen’s eggb) Ostrich eggc) Duck eggd) Quail egg",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "a5b7a705-81f1-4998-80d6-01326475aca0",
+          "number": 5,
+          "type": "long_answer",
+          "text": "Multiple Choice: Which microorganism is primarily responsible for the production of more than half of the Earth’s oxygen supply? a) Bacteriab) Microalgaec) Protozoad) Viruses",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "ee040cc7-0f9a-4a09-ad77-b2bdf099e070",
+          "number": 6,
+          "type": "fill_blank",
+          "text": "The process by which microorganisms break down complex substances of fallen leaves into simpler, nutrient-rich substances is called __________ .",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "c9be6e67-5404-4017-8fb9-1c3fb28d1e44",
+          "number": 7,
+          "type": "fill_blank",
+          "text": "Bacteria lack a well-defined nucleus and instead possess a region called a __________ .",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "37176170-f635-4059-9172-6cea203baa3c",
+          "number": 8,
+          "type": "fill_blank",
+          "text": "The mixture of gases released during the decomposition of waste in an oxygen-free environment is called __________ .",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2aae1fc6-db74-4ab3-8ca3-94a2573ec5e2",
+          "number": 9,
+          "type": "fill_blank",
+          "text": "Root nodules of leguminous plants like peas and beans contain __________ bacteria that help trap nitrogen from the air.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "1dafeb66-1f1b-480f-8599-b0017d48c0c4",
+          "number": 10,
+          "type": "true_false",
+          "text": "Viruses are considered acellular and can only multiply when they enter a living host cell.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "5c34fc04-70b9-4991-9ee4-28f58a1a29e4",
+          "number": 11,
+          "type": "true_false",
+          "text": "Plant cells lack a cell wall, making them flexible compared to animal cells.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "295b9449-bbd4-4ad5-9270-58e1d3999aa9",
+          "number": 12,
+          "type": "true_false",
+          "text": "Spirulina is a type of microalga often referred to as a ‘superfood’ due to its high protein content.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "a01c9df0-f5db-4810-8918-dacccadf8a23",
+          "number": 13,
+          "type": "short_answer",
+          "text": "Identify the specific red-coloured stain used to make onion peel cells visible under a microscope.",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "1bc8b2d5-8a11-468f-83c2-6b181b787041",
+          "number": 14,
+          "type": "short_answer",
+          "text": "What term is used to describe a group of similar cells that work together to perform a specific function?",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "17388a20-47de-4fad-aabc-840602de6d94",
+          "number": 15,
+          "type": "short_answer",
+          "text": "Name one multicellular fungus mentioned in the text.",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section B: Assertion and Reasoning",
+      "directions": "Directions (Q16–Q20): Select the correct answer from the codes below:(a) Both A and R are true, and R is the correct explanation of A.(b) Both A and R are true, but R is NOT the correct explanation of A.(c) A is true, but R is false.(d) A is false, but R is true.",
+      "questions": [
+        {
+          "id": "f4c3f45a-604e-451b-af67-812675976611",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Assertion (A): The cell wall in plant cells provides rigidity and strength.Reason (R): Plant cells are arranged compactly and need to maintain a firm structure.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "f60250df-f371-4d52-9d94-71963f95ed6c",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Assertion (A): Yeast is added to dough to make bread soft and fluffy.Reason (R): During respiration, yeast releases carbon dioxide gas which forms bubbles in the dough.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "9a79b579-5740-452f-9cac-4eb027669de8",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Assertion (A): Bacteria are considered multicellular organisms.Reason (R): They are made up of many specialized cells that carry out different life processes.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "debbfce2-466b-44b1-aefb-4b68647ea2d6",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Assertion (A): Microorganisms play a vital role in cleaning the environment.Reason (R): They decompose dead organic matter and recycle nutrients back into the soil.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "7b914eb3-52cb-48ba-ad3e-234bbcb56967",
+          "number": 5,
+          "type": "long_answer",
+          "text": "Assertion (A): Lactobacillus bacteria are used to turn lukewarm milk into curd.Reason (R): These bacteria ferment the lactose sugar in milk into lactic acid.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section C: Understanding",
+      "directions": "",
+      "questions": [
+        {
+          "id": "d3737b54-e564-488d-a4c2-dafaf6233acd",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Explain why the cell is considered the \"basic unit of life.\"",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d447b052-bb8c-45e7-a4e6-1beddccaa5c5",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Differentiate between a 'unicellular' and a 'multicellular' organism with one example for each.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "a2ae546c-a1c8-4f3d-a152-bff17462182c",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Describe the function of the nucleus in a cell.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "39a5c2dc-149c-4b6f-852a-739ed94265a3",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Why do farmers practice crop rotation by growing legumes between other crops?",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "706117ba-ef15-48cd-a0ee-5776f82ce50c",
+          "number": 5,
+          "type": "long_answer",
+          "text": "What is the role of the cell membrane, and why is its porous nature important?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e545bae7-84de-4769-9056-5cd20afd9bc7",
+          "number": 6,
+          "type": "long_answer",
+          "text": "How do chloroplasts help a plant cell, and why are they absent in animal cells?",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "95210372-3e91-400d-8e62-8e0fae773b49",
+          "number": 7,
+          "type": "long_answer",
+          "text": "Explain the process of 'fermentation' in the context of making curd.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "643024a6-c1ea-48e9-b1c1-6a5c31049747",
+          "number": 8,
+          "type": "long_answer",
+          "text": "What is a 'vacuole,' and how does it differ between plant and animal cells?",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "458c5d2b-2cf3-4801-ab7d-d6f121eecdb2",
+          "number": 9,
+          "type": "long_answer",
+          "text": "Briefly explain the contribution of Antonie van Leeuwenhoek to the field of science.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d7b13b0f-0f03-426a-827d-f52fe888154b",
+          "number": 10,
+          "type": "long_answer",
+          "text": "Why do muscle cells in the food pipe have a spindle shape?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section D: Applying",
+      "directions": "",
+      "questions": [
+        {
+          "id": "9a39d4fd-44ec-4323-914c-ba5fff458012",
+          "number": 1,
+          "type": "long_answer",
+          "text": "A student observes a slide of cells that are nearly rectangular and closely arranged with a thick outer layer. Another slide shows polygon-shaped cells without that thick layer. Identify the two types of cells and explain the reason for the structural difference.",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "9ed30608-09a0-43e2-82a8-076782cc740d",
+          "number": 2,
+          "type": "long_answer",
+          "text": "If a gardener buries fruit peels in a pit but the temperature remains near freezing, predict the outcome for manure formation. Explain the scientific reason behind your prediction.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "30955e66-f8ef-43ab-bd05-b1cdbfcdd4ba",
+          "number": 3,
+          "type": "long_answer",
+          "text": "A scientist wants to clean up an oil spill in the ocean. Suggest which type of microorganism could be used based on historical scientific discoveries and explain how it would work.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section E: Analyzing",
+      "directions": "",
+      "questions": [
+        {
+          "id": "06f9623e-5f02-4640-b672-ca7b7b0d4f1e",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Categorize the following into 'Unicellular' or 'Multicellular' and identify their group (Bacteria, Fungi, Algae, or Protozoa): Amoeba, Bread Mould, Paramecium, Spirulina, Lactobacillus, Mushroom.",
+          "marks": 6,
+          "responseLength": "Table format or clear categorized list",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2d7928da-2204-4df4-8447-2f6c0670ccd4",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Analyze the structural differences between a typical plant cell and a bacterial cell, specifically focusing on the nucleus and outer coverings.",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section F: Evaluating",
+      "directions": "",
+      "questions": [
+        {
+          "id": "ffbe427f-14df-461c-bb9b-6f09f820947e",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Evaluate the impact of microalgae on the global environment. Compare their role in the oxygen cycle with their potential use as a food supplement for humans.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "681cd413-ac51-427d-8bda-8151ae370c9c",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Someone claims, \"Microorganisms are only harmful because they cause food to rot and diseases to spread.\" Evaluate the scientific accuracy of this statement by providing examples of how microbes benefit humans and the planet.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section G: Creating",
+      "directions": "",
+      "questions": [
+        {
+          "id": "193ec38e-7be9-4846-8076-ff88c8624f48",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Design an Experiment: You need to prove that yeast releases a gas during the breakdown of sugar. Create a step-by-step procedure using common lab items like test tubes, balloons, and lime water.",
+          "marks": 5,
+          "responseLength": "6–8 sentences arranged in a clear numbered list",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "7c809f39-822d-4d89-b1eb-bd508d8e372e",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Create a ‘Levels of Organisation’ Chart: Design a flowchart starting from the basic unit of life to a complete human being, providing a specific example for each level based on the human digestive system.",
+          "marks": 5,
+          "responseLength": "Flowchart with explanatory sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-25T14:00:39.171Z",
+  "status": "live",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 180,
+    "answerKeyMode": "manual",
+    "answerKeyReleased": false
+  },
+  "publishedOn": "2026-06-25T14:01:11.266Z"
+}
