@@ -64,6 +64,55 @@ async function renderDashboard(){
     app.innerHTML=`<div class="error"><b>No live assessments found.</b><br>Please make sure <code>assessments/index.json</code> exists.</div>`;
   }
 }
+
+function renderGroupedAssessments(items){
+  if(!items.length){
+    return `<p class="muted">No live assessments available right now.</p>`;
+  }
+
+  const grouped = {};
+
+  items.forEach(a=>{
+    const subject = a.subject || "Other";
+    const className = a.className ? `Class ${a.className}` : "General";
+
+    if(!grouped[subject]) grouped[subject] = {};
+    if(!grouped[subject][className]) grouped[subject][className] = [];
+
+    grouped[subject][className].push(a);
+  });
+
+  return Object.entries(grouped).map(([subject, classes])=>`
+    <div class="subject-group">
+      <h2>${esc(subject)}</h2>
+
+      ${Object.entries(classes).map(([className, assessments])=>`
+        <div class="class-group">
+          <h3>${esc(className)}</h3>
+
+          <div class="assessment-list">
+            ${assessments.map(a=>`
+              <div class="assessment-card">
+                <span class="pill">${esc(a.type||"assessment")}</span>
+                <h2>${esc(a.title)}</h2>
+                <p class="muted">
+                  ${[a.chapterName,a.duration].filter(Boolean).map(esc).join(" · ")}
+                </p>
+                <a class="btn primary" href="./?id=${encodeURIComponent(a.slug||a.id)}">
+                  ${a.type==="quiz"?"Start Quiz":"Open Assessment"}
+                </a>
+              </div>`).join("")}
+          </div>
+        </div>
+      `).join("")}
+    </div>
+  `).join("");
+}
+
+
+
+
+
 async function loadAssessment(id){
   try{
     const res=await fetch(`./assessments/${encodeURIComponent(id)}.json`,{cache:"no-store"});
