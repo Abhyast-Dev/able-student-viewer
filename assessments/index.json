@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-06-25T08:27:36.696Z",
+  "generatedOn": "2026-06-25T09:30:18.933Z",
   "assessments": [
+    {
+      "id": "25c56e6b-091a-41cf-bffc-02e5924c3fc4",
+      "slug": "comprehensive-health-and-science-assessment",
+      "title": "Comprehensive Health and Science Assessment",
+      "subject": "Science",
+      "className": "VII",
+      "chapterName": "Health: The Ultimate Treasure",
+      "type": "written",
+      "duration": "180 minutes",
+      "maximumMarks": "80 Instructions:",
+      "status": "live",
+      "publishedOn": "2026-06-25T09:30:18.933Z"
+    },
     {
       "id": "f332d5e8-7c2c-404c-8293-60cba150732c",
       "slug": "acids-and-bases-quiz",
