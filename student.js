@@ -104,7 +104,16 @@ async function renderDashboard() {
     const classes = [...new Set(live.map(a => a.className).filter(Boolean))].sort();
     const subjects = [...new Set(live.map(a => a.subject).filter(Boolean))].sort();
 
-   
+    render(`
+      <div class="dashboard-head">
+        <div>
+          <h1>Student Dashboard</h1>
+          <p class="muted">Choose a live assessment to begin.</p>
+        </div>
+      </div>
+
+      ${renderContinueLearning(attempts)}
+
       <div class="dashboard-controls no-print">
         <input id="dashSearch" type="text" placeholder="Search assessment, chapter, subject..." oninput="applyDashboardFilters()" />
 
