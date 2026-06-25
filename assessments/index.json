@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-06-25T14:01:14.167Z",
+  "generatedOn": "2026-06-25T14:07:50.528Z",
   "assessments": [
+    {
+      "id": "6df0dd72-6ce8-4309-94eb-0ab8f5c5106c",
+      "slug": "the-invisible-living-world-quiz",
+      "title": "The Invisible Living World Quiz",
+      "subject": "Science",
+      "className": "VIII",
+      "chapterName": "The Invisible Living World: Beyond Our Naked Eye",
+      "type": "quiz",
+      "duration": "20 Minutes",
+      "maximumMarks": 20,
+      "status": "live",
+      "publishedOn": "2026-06-25T14:07:47.918Z"
+    },
     {
       "id": "ff38fe99-64a9-4ad1-9d78-3becd86e7247",
       "slug": "ncert-class-viii-chapter-2-the-invisible-living-world",
