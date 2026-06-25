@@ -58,6 +58,280 @@ input[type=text]{width:100%;border:1px solid var(--line);border-radius:12px;padd
   color: #64748b;
   margin-bottom: 10px;
 }
+.dashboard-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.dashboard-controls {
+  margin: 22px 0;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  gap: 10px;
+}
+
+.dashboard-controls input,
+.dashboard-controls select {
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 12px;
+  font-size: 15px;
+}
+
+.dashboard-tabs {
+  display: flex;
+  gap: 10px;
+  margin: 10px 0 24px;
+}
+
+.tab {
+  background: #e2e8f0;
+  color: #0f172a;
+}
+
+.tab.active {
+  background: #0f172a;
+  color: white;
+}
+
+.subject-group {
+  margin-top: 18px;
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.subject-group summary {
+  cursor: pointer;
+  padding: 16px 18px;
+  font-size: 22px;
+  font-weight: 800;
+  display: flex;
+  justify-content: space-between;
+  background: #f8fafc;
+}
+
+.subject-group .count {
+  font-size: 14px;
+  background: #e2e8f0;
+  padding: 4px 10px;
+  border-radius: 999px;
+}
+
+.class-group {
+  padding: 16px 18px;
+}
+
+.class-group h3 {
+  margin: 0 0 12px;
+  font-size: 15px;
+  color: #64748b;
+}
+
+.compact-list {
+  display: grid;
+  gap: 12px;
+}
+
+.compact-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  align-items: center;
+  background: white;
+}
+
+.compact-card h2 {
+  margin: 8px 0 6px;
+  font-size: 20px;
+}
+
+.compact-meta {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.attempt-badge {
+  font-size: 12px;
+  padding: 4px 9px;
+  border-radius: 999px;
+  background: #ecfdf5;
+  color: #047857;
+  font-weight: 700;
+}
+
+.new-badge {
+  font-size: 12px;
+  padding: 4px 9px;
+  border-radius: 999px;
+  background: #eff6ff;
+  color: #1d4ed8;
+  font-weight: 700;
+}
+
+.score-line {
+  font-weight: 700;
+  color: #0f172a;
+  margin: 6px 0;
+}
+
+.compact-action {
+  flex-shrink: 0;
+}
+.dashboard-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.dashboard-controls {
+  margin: 22px 0;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  gap: 10px;
+}
+
+.dashboard-controls input,
+.dashboard-controls select {
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 12px;
+  font-size: 15px;
+}
+
+.dashboard-tabs {
+  display: flex;
+  gap: 10px;
+  margin: 10px 0 24px;
+}
+
+.tab {
+  background: #e2e8f0;
+  color: #0f172a;
+}
+
+.tab.active {
+  background: #0f172a;
+  color: white;
+}
+
+.subject-group {
+  margin-top: 18px;
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.subject-group summary {
+  cursor: pointer;
+  padding: 16px 18px;
+  font-size: 22px;
+  font-weight: 800;
+  display: flex;
+  justify-content: space-between;
+  background: #f8fafc;
+}
+
+.subject-group .count {
+  font-size: 14px;
+  background: #e2e8f0;
+  padding: 4px 10px;
+  border-radius: 999px;
+}
+
+.class-group {
+  padding: 16px 18px;
+}
+
+.class-group h3 {
+  margin: 0 0 12px;
+  font-size: 15px;
+  color: #64748b;
+}
+
+.compact-list {
+  display: grid;
+  gap: 12px;
+}
+
+.compact-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  align-items: center;
+  background: white;
+}
+
+.compact-card h2 {
+  margin: 8px 0 6px;
+  font-size: 20px;
+}
+
+.compact-meta {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.attempt-badge {
+  font-size: 12px;
+  padding: 4px 9px;
+  border-radius: 999px;
+  background: #ecfdf5;
+  color: #047857;
+  font-weight: 700;
+}
+
+.new-badge {
+  font-size: 12px;
+  padding: 4px 9px;
+  border-radius: 999px;
+  background: #eff6ff;
+  color: #1d4ed8;
+  font-weight: 700;
+}
+
+.score-line {
+  font-weight: 700;
+  color: #0f172a;
+  margin: 6px 0;
+}
+
+.compact-action {
+  flex-shrink: 0;
+}
+
+@media (max-width: 720px) {
+  .dashboard-controls {
+    grid-template-columns: 1fr;
+  }
+
+  .compact-card {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .compact-action {
+    width: 100%;
+  }
+
+  .compact-action .btn {
+    width: 100%;
+    text-align: center;
+  }
+}
 
 
 
