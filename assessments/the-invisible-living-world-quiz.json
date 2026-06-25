@@ -1,0 +1,251 @@
+{
+  "id": "6df0dd72-6ce8-4309-94eb-0ab8f5c5106c",
+  "slug": "the-invisible-living-world-quiz",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "The Invisible Living World Quiz",
+  "chapterName": "The Invisible Living World: Beyond Our Naked Eye",
+  "subject": "Science",
+  "className": "VIII",
+  "duration": "20 Minutes",
+  "maximumMarks": 20,
+  "questions": [
+    {
+      "id": "1c0aba88-22e8-4ace-b29d-2a175dc67741",
+      "number": 1,
+      "type": "mcq",
+      "text": "Who first used the word 'cell' in 1665 to describe the basic unit of life?",
+      "options": [
+        "Antonie van Leeuwenhoek",
+        "Robert Hooke",
+        "Robert Brown",
+        "Charles Darwin"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "c4ee1456-20d5-456e-bcdd-28d51e98f80a",
+      "number": 2,
+      "type": "true_false",
+      "text": "Antonie van Leeuwenhoek is known as the Father of Microbiology.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "6aac0ea1-a076-416e-8b8e-9419254315dc",
+      "number": 3,
+      "type": "fill_blank",
+      "text": "The jelly-like substance filling the space between the cell membrane and the nucleus is called ____.",
+      "options": [],
+      "correctAnswer": "cytoplasm",
+      "marks": 1
+    },
+    {
+      "id": "28bd50ad-0286-44f9-8a89-edb4e9bf1f2b",
+      "number": 4,
+      "type": "mcq",
+      "text": "Which structure provides rigidity and strength specifically to plant cells?",
+      "options": [
+        "Cell membrane",
+        "Nucleus",
+        "Cell wall",
+        "Vacuole"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "461eca3a-fe74-4090-8d07-41e447ca1f41",
+      "number": 5,
+      "type": "fill_blank",
+      "text": "A group of similar cells that work together to perform a specific function forms a ____.",
+      "options": [],
+      "correctAnswer": "tissue",
+      "marks": 1
+    },
+    {
+      "id": "0e0ed20f-e6c4-49c0-bbd8-521b260c3e8b",
+      "number": 6,
+      "type": "mcq",
+      "text": "Which bacterium is found in the root nodules of leguminous plants to help trap nitrogen?",
+      "options": [
+        "Lactobacillus",
+        "Rhizobium",
+        "Yeast",
+        "Amoeba"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "5297505d-921c-4e0a-942d-765fa2cf3790",
+      "number": 7,
+      "type": "true_false",
+      "text": "Yeast is a multicellular fungus.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "eecdf291-68f2-46eb-ac08-2531c4f967f2",
+      "number": 8,
+      "type": "fill_blank",
+      "text": "The largest single cell in the living world is the yolk of an ____ egg.",
+      "options": [],
+      "correctAnswer": "ostrich",
+      "marks": 1
+    },
+    {
+      "id": "fffb81a1-c3f0-4715-92f4-8679cd91657c",
+      "number": 9,
+      "type": "mcq",
+      "text": "Which red-coloured stain is used to make onion peel cells visible under a microscope?",
+      "options": [
+        "Methylene blue",
+        "Iodine",
+        "Safranin",
+        "Glycerin"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "bf6ed352-c931-4fbf-890b-62dea507a5e8",
+      "number": 10,
+      "type": "true_false",
+      "text": "Viruses are acellular and can only multiply inside a living host cell.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "5cfdde28-58d8-446a-85ab-199a21a6f9f5",
+      "number": 11,
+      "type": "fill_blank",
+      "text": "The mixture of gases released during the decomposition of organic waste by microbes is called ____.",
+      "options": [],
+      "correctAnswer": "biogas",
+      "marks": 1
+    },
+    {
+      "id": "ee0dc824-7dab-4d70-9bb2-e9d4a946417c",
+      "number": 12,
+      "type": "mcq",
+      "text": "Which scientist developed a special bacterium to break down oil spills?",
+      "options": [
+        "Robert Hooke",
+        "Ananda Mohan Chakrabarty",
+        "Edward Jenner",
+        "Antonie van Leeuwenhoek"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "c2154821-ee38-4492-90cb-8364048f1e65",
+      "number": 13,
+      "type": "mcq",
+      "text": "Spirulina is considered a superfood because it is exceptionally rich in ____.",
+      "options": [
+        "Fat",
+        "Sugar",
+        "Protein",
+        "Fiber"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "b83a44fc-54d4-4dbc-8327-831a8512d612",
+      "number": 14,
+      "type": "true_false",
+      "text": "Plant cells lack chloroplasts and cannot perform photosynthesis.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "8f8499b4-7b86-4666-ae5a-cda43ef1aa32",
+      "number": 15,
+      "type": "fill_blank",
+      "text": "Bacteria do not have a well-defined nucleus and instead possess a ____ region.",
+      "options": [],
+      "correctAnswer": "nucleoid",
+      "marks": 1
+    },
+    {
+      "id": "783c588e-0320-4583-8fdf-2f59dad85f04",
+      "number": 16,
+      "type": "mcq",
+      "text": "Which structure in plant cells helps store substances and maintain shape?",
+      "options": [
+        "Nucleus",
+        "Vacuole",
+        "Cell wall",
+        "Chloroplast"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "488c46a9-970b-4f99-8bff-7775411afdc5",
+      "number": 17,
+      "type": "which carry messages in the body",
+      "text": "Nerve cells",
+      "options": [
+        "are also known as ____.",
+        "mcq",
+        "Neurons",
+        "Spindles"
+      ],
+      "correctAnswer": "Tissues",
+      "marks": 1
+    },
+    {
+      "id": "a1ebc572-9001-4b98-b327-8d8d48f19471",
+      "number": 18,
+      "type": "true_false",
+      "text": "The life of a complex multicellular organism begins with a single cell called an egg.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "8e454c6f-ae2a-4b52-bc6d-5ba03115fdb4",
+      "number": 19,
+      "type": "fill_blank",
+      "text": "The process by which microorganisms break down complex substances into simpler nutrients is called ____.",
+      "options": [],
+      "correctAnswer": "decomposition",
+      "marks": 1
+    },
+    {
+      "id": "49f110d0-f7f6-4d8a-adf2-251076a9803f",
+      "number": 20,
+      "type": "mcq",
+      "text": "Which microorganism is responsible for turning milk into curd through fermentation?",
+      "options": [
+        "Rhizobium",
+        "Yeast",
+        "Lactobacillus",
+        "Amoeba"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-06-25T14:06:56.415Z",
+  "status": "live",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 20,
+    "showCorrectAnswersAfterSubmit": true
+  },
+  "publishedOn": "2026-06-25T14:07:47.918Z"
+}
