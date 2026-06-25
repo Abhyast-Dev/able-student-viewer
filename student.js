@@ -37,64 +37,144 @@ async function init(){
 
 async function renderDashboard(){
   try{
-    const res=await fetch("./assessments/index.json",{cache:"no-store"});
-    if(!res.ok)throw new Error("No index");
+    const res = await fetch("./assessments/index.json", { cache:"no-store" });
+    if(!res.ok) throw new Error("No index");
 
-    const data=await res.json();
-    const live=(data.assessments||data.tests||[]).filter(a=>(a.status||"live")==="live");
-    const attempts=loadAttempts();
+    const data = await res.json();
+    const live = (data.assessments || data.tests || [])
+      .filter(a => (a.status || "live") === "live");
 
-    app.innerHTML=`
-      <h1>Student Dashboard</h1>
-      <p class="muted">Choose a live assessment to begin.</p>
+    const attempts = loadAttempts();
 
-      ${renderGroupedAssessments(live)}
+    const classes = [...new Set(live.map(a => a.className).filter(Boolean))].sort();
+    const subjects = [...new Set(live.map(a => a.subject).filter(Boolean))].sort();
 
-      <h1 style="margin-top:34px">My Attempts</h1>
-      <div class="assessment-list">
-        ${attempts.length ? attempts.map(a => `
-          <div class="assessment-card">
-            <span class="pill">${esc(a.type)}</span>
-            <h2>${esc(a.title)}</h2>
+    app.innerHTML = `
+      <div class="dashboard-head">
+        <div>
+          <h1>Student Dashboard</h1>
+          <p class="muted">Choose a live assessment to begin.</p>
+        </div>
+      </div>
 
-            <p class="muted">
-              ${a.type === "quiz"
-                ? `Best: ${a.bestScore ?? a.score}/${a.total} · ${a.bestPercentage ?? a.percentage}%`
-                : "Completed"}
-            </p>
+      <div class="dashboard-controls no-print">
+        <input
+          id="dashSearch"
+          type="text"
+          placeholder="Search assessment, chapter, subject..."
+          oninput="applyDashboardFilters()"
+        />
 
-            <p class="muted">
-              Attempts: ${a.attemptCount || 1}
-              ${a.lastAttemptAt ? ` · Last: ${new Date(a.lastAttemptAt).toLocaleString()}` : ""}
-            </p>
+        <select id="dashClass" onchange="applyDashboardFilters()">
+          <option value="all">All Classes</option>
+          ${classes.map(c => `<option value="${esc(c)}">Class ${esc(c)}</option>`).join("")}
+        </select>
 
-            ${a.type === "quiz" && a.latestScore !== undefined ? `
-              <p class="muted">
-                Latest: ${a.latestScore}/${a.latestTotal} · ${a.latestPercentage}%
-              </p>
-            ` : ""}
+        <select id="dashSubject" onchange="applyDashboardFilters()">
+          <option value="all">All Subjects</option>
+          ${subjects.map(s => `<option value="${esc(s)}">${esc(s)}</option>`).join("")}
+        </select>
 
-            ${a.slug ? `
-              <a class="btn secondary" href="./?id=${encodeURIComponent(a.slug)}">
-                ${a.type === "quiz" ? "Retake" : "Open"}
-              </a>
-            ` : ""}
-          </div>
-        `).join("") : `<p class="muted">No attempts stored on this device yet.</p>`}
-      </div>`;
+        <select id="dashType" onchange="applyDashboardFilters()">
+          <option value="all">All Types</option>
+          <option value="written">Written</option>
+          <option value="quiz">Quiz</option>
+        </select>
+      </div>
+
+      <div class="dashboard-tabs no-print">
+        <button id="tabLive" class="tab active" onclick="switchDashboardTab('live')">Live Assessments</button>
+        <button id="tabProgress" class="tab" onclick="switchDashboardTab('progress')">My Progress</button>
+      </div>
+
+      <section id="livePanel">
+        <div id="liveAssessments"></div>
+      </section>
+
+      <section id="progressPanel" style="display:none">
+        <h2>My Progress</h2>
+        <div id="progressList"></div>
+      </section>
+    `;
+
+    window.__dashboardLive = live;
+    window.__dashboardAttempts = attempts;
+    applyDashboardFilters();
+    renderProgressSummary();
+
   }catch(e){
-    app.innerHTML=`<div class="error"><b>No live assessments found.</b><br>Please make sure <code>assessments/index.json</code> exists.</div>`;
+    app.innerHTML = `
+      <div class="error">
+        <b>No live assessments found.</b><br>
+        Please make sure <code>assessments/index.json</code> exists.
+      </div>
+    `;
   }
+}
+
+function switchDashboardTab(tab){
+  const livePanel = $("#livePanel");
+  const progressPanel = $("#progressPanel");
+  const tabLive = $("#tabLive");
+  const tabProgress = $("#tabProgress");
+
+  if(tab === "live"){
+    livePanel.style.display = "block";
+    progressPanel.style.display = "none";
+    tabLive.classList.add("active");
+    tabProgress.classList.remove("active");
+  } else {
+    livePanel.style.display = "none";
+    progressPanel.style.display = "block";
+    tabLive.classList.remove("active");
+    tabProgress.classList.add("active");
+  }
+}
+
+function applyDashboardFilters(){
+  const live = window.__dashboardLive || [];
+
+  const search = ($("#dashSearch")?.value || "").toLowerCase();
+  const selectedClass = $("#dashClass")?.value || "all";
+  const selectedSubject = $("#dashSubject")?.value || "all";
+  const selectedType = $("#dashType")?.value || "all";
+
+  const filtered = live.filter(a => {
+    const haystack = [
+      a.title,
+      a.subject,
+      a.className,
+      a.chapterName,
+      a.type
+    ].join(" ").toLowerCase();
+
+    if(search && !haystack.includes(search)) return false;
+    if(selectedClass !== "all" && String(a.className || "") !== selectedClass) return false;
+    if(selectedSubject !== "all" && String(a.subject || "") !== selectedSubject) return false;
+    if(selectedType !== "all" && String(a.type || "") !== selectedType) return false;
+
+    return true;
+  });
+
+  $("#liveAssessments").innerHTML = renderGroupedAssessments(filtered);
 }
 
 function renderGroupedAssessments(items){
   if(!items.length){
-    return `<p class="muted">No live assessments available right now.</p>`;
+    return `<p class="muted">No assessments match your filters.</p>`;
   }
+
+  const attempts = window.__dashboardAttempts || [];
+  const attemptMap = {};
+
+  attempts.forEach(a => {
+    const key = a.slug || a.assessmentId || a.title;
+    attemptMap[key] = a;
+  });
 
   const grouped = {};
 
-  items.forEach(a=>{
+  items.forEach(a => {
     const subject = a.subject || "Other";
     const className = a.className ? `Class ${a.className}` : "General";
 
@@ -104,36 +184,118 @@ function renderGroupedAssessments(items){
     grouped[subject][className].push(a);
   });
 
-  return Object.entries(grouped).map(([subject, classes])=>`
-    <div class="subject-group">
-      <h2>${esc(subject)}</h2>
+  return Object.entries(grouped).map(([subject, classes]) => {
+    const count = Object.values(classes).reduce((sum, arr) => sum + arr.length, 0);
 
-      ${Object.entries(classes).map(([className, assessments])=>`
-        <div class="class-group">
-          <h3>${esc(className)}</h3>
+    return `
+      <details class="subject-group" open>
+        <summary>
+          <span>${esc(subject)}</span>
+          <span class="count">${count}</span>
+        </summary>
 
-          <div class="assessment-list">
-            ${assessments.map(a=>`
-              <div class="assessment-card">
-                <span class="pill">${esc(a.type||"assessment")}</span>
-                <h2>${esc(a.title)}</h2>
-                <p class="muted">
-                  ${[a.chapterName,a.duration].filter(Boolean).map(esc).join(" · ")}
-                </p>
-                <a class="btn primary" href="./?id=${encodeURIComponent(a.slug||a.id)}">
-                  ${a.type==="quiz"?"Start Quiz":"Open Assessment"}
-                </a>
-              </div>`).join("")}
+        ${Object.entries(classes).map(([className, assessments]) => `
+          <div class="class-group">
+            <h3>${esc(className)}</h3>
+
+            <div class="compact-list">
+              ${assessments.map(a => {
+                const key = a.slug || a.id || a.title;
+                const attempt = attemptMap[key];
+
+                return `
+                  <div class="compact-card">
+                    <div class="compact-main">
+                      <div class="compact-meta">
+                        <span class="pill">${esc(a.type || "assessment")}</span>
+                        ${attempt ? `<span class="attempt-badge">Attempted ${attempt.attemptCount || 1}×</span>` : `<span class="new-badge">New</span>`}
+                      </div>
+
+                      <h2>${esc(a.title)}</h2>
+
+                      <p class="muted">
+                        ${[a.chapterName, a.duration].filter(Boolean).map(esc).join(" · ")}
+                      </p>
+
+                      ${attempt && a.type === "quiz" ? `
+                        <p class="score-line">
+                          Best: ${attempt.bestScore ?? attempt.score}/${attempt.total}
+                          · ${attempt.bestPercentage ?? attempt.percentage}%
+                        </p>
+                      ` : ""}
+                    </div>
+
+                    <div class="compact-action">
+                      <a class="btn primary" href="./?id=${encodeURIComponent(a.slug || a.id)}">
+                        ${a.type === "quiz" ? (attempt ? "Retake" : "Start Quiz") : "Open"}
+                      </a>
+                    </div>
+                  </div>
+                `;
+              }).join("")}
+            </div>
           </div>
+        `).join("")}
+      </details>
+    `;
+  }).join("");
+}
+
+function renderProgressSummary(){
+  const attempts = window.__dashboardAttempts || [];
+  const box = $("#progressList");
+
+  if(!box) return;
+
+  if(!attempts.length){
+    box.innerHTML = `<p class="muted">No attempts stored on this device yet.</p>`;
+    return;
+  }
+
+  box.innerHTML = `
+    <div class="compact-list">
+      ${attempts.map(a => `
+        <div class="compact-card">
+          <div class="compact-main">
+            <div class="compact-meta">
+              <span class="pill">${esc(a.type)}</span>
+              <span class="attempt-badge">${a.attemptCount || 1} attempt${(a.attemptCount || 1) > 1 ? "s" : ""}</span>
+            </div>
+
+            <h2>${esc(a.title)}</h2>
+
+            <p class="muted">
+              Last: ${new Date(a.lastAttemptAt || a.at).toLocaleString()}
+            </p>
+
+            ${a.type === "quiz" ? `
+              <p class="score-line">
+                Best: ${a.bestScore ?? a.score}/${a.total}
+                · ${a.bestPercentage ?? a.percentage}%
+              </p>
+
+              ${a.latestScore !== undefined ? `
+                <p class="muted">
+                  Latest: ${a.latestScore}/${a.latestTotal} · ${a.latestPercentage}%
+                </p>
+              ` : ""}
+            ` : `
+              <p class="score-line">Completed</p>
+            `}
+          </div>
+
+          ${a.slug ? `
+            <div class="compact-action">
+              <a class="btn secondary" href="./?id=${encodeURIComponent(a.slug)}">
+                ${a.type === "quiz" ? "Retake" : "Open"}
+              </a>
+            </div>
+          ` : ""}
         </div>
       `).join("")}
     </div>
-  `).join("");
+  `;
 }
-
-
-
-
 
 async function loadAssessment(id){
   try{
