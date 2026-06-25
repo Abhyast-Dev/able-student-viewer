@@ -3,85 +3,37 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ABLE Student Viewer</title>
-  <link rel="icon" type="image/png" href="favicon.png" />
+  <title>ABLE™ iAssess</title>
+  <link rel="icon" type="image/png" href="./Favicon.png" />
   <meta name="theme-color" content="#2563eb" />
-  <style>
-    :root{--ink:#0f172a;--muted:#64748b;--line:#e2e8f0;--brand:#2563eb;--ok:#16a34a}
-    *{box-sizing:border-box} g
-    body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#f8fafc;color:var(--ink);line-height:1.55}
-    .wrap{max-width:920px;margin:0 auto;padding:22px}
-    .top{display:flex;justify-content:space-between;align-items:center;gap:14px;margin-bottom:18px}
-    .brand{display:flex;align-items:center;gap:12px}
-    .brand img{height:48px;width:auto}
-    .card{background:white;border:1px solid var(--line);border-radius:18px;padding:28px;box-shadow:0 6px 20px rgba(15,23,42,.06)}
-    .report-head{display:flex;gap:16px;align-items:center;border-bottom:2px solid var(--line);padding-bottom:16px;margin-bottom:20px}
-    .report-head img{height:64px;width:auto}
-    h1{font-size:30px;margin:0}
-    h2{margin-top:28px}
-    .muted{color:var(--muted)}
-    .actions{display:flex;gap:12px;flex-wrap:wrap;margin:20px 0}
-    button,a.btn{border:0;border-radius:12px;padding:12px 16px;font-weight:700;text-decoration:none;cursor:pointer;display:inline-block}
-    .primary{background:var(--ink);color:white}
-    .secondary{background:#e2e8f0;color:var(--ink)}
-    .success{background:var(--ok);color:white}
-    .timer{position:sticky;top:0;z-index:10;background:var(--ink);color:white;padding:14px 18px;border-radius:14px;margin-bottom:18px;display:none;justify-content:space-between}
-    .question{padding:14px 0;border-bottom:1px solid #f1f5f9}
-    .quiz-card{max-width:720px;margin:0 auto}
-    label.option{display:block;border:1px solid var(--line);border-radius:14px;padding:12px;margin:10px 0;cursor:pointer}
-    input[type=text]{width:100%;border:1px solid var(--line);border-radius:12px;padding:12px;font-size:16px}
-    .footer,.report-footer{text-align:center;color:var(--muted);font-size:12px;margin-top:36px;border-top:1px solid var(--line);padding-top:14px}
-    .error{background:#fff1f2;border:1px solid #fecdd3;border-radius:16px;padding:18px}
-    .options-list {
-  margin-top: 10px;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-}
-
-.option-row {
-  border: 1px solid #e2e8f0;
-  border-radius: 10px;
-  padding: 8px 12px;
-  background: #fff;
-}
-
-.review-correct {
-  color: #16a34a;
-  font-weight: 700;
-}
-
-.review-wrong {
-  color: #dc2626;
-  font-weight: 700;
-}
-    @media print{
-      body{background:white}.no-print{display:none!important}.wrap{max-width:none;padding:0}.card{border:0;box-shadow:none;border-radius:0}
-    }
-  </style>
+  <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
   <div class="wrap">
     <div class="top no-print">
       <div class="brand">
-        <img src="Logo.png" alt="ABLE" onerror="this.style.display='none'">
+        <img src="./Logo.png" alt="ABLE™" onerror="this.style.display='none'">
         <div>
-          <b>ABLE Student Viewer</b>
-          <div class="muted">Read • Write • Submit</div>
+          <b>ABLE™ iAssess</b>
+          <div class="muted">Learn • Attempt • Reflect</div>
         </div>
       </div>
     </div>
     <div id="timer" class="timer no-print"><b>Timed Assessment</b><span id="timeText">--:--</span></div>
-    <div id="app" class="card">Loading assessment...</div>
-    <footer class="footer no-print">
-      <div>
-        <a href="mailto:contact@abhyast.in">📧 contact@abhyast.in</a>
-        &nbsp;&nbsp;
-        <a href="https://wa.me/919910686080" target="_blank">💬 WhatsApp Support</a>
+    <div id="app" class="card">Loading...</div>
+    <footer class="footer no-print" role="contentinfo">
+      <div class="footer-container">
+        <div class="footer-links">
+          <a href="mailto:contact@abhyast.in">📧 Contact Us</a>
+          <a href="mailto:contact@abhyast.in">contact@abhyast.in</a>
+          <a href="https://wa.me/919910686080" target="_blank">💬 WhatsApp Support</a>
+        </div>
+        <div class="footer-copy">© 2026 Abhyast Private Limited.</div>
+        <div class="footer-framework"><strong>ABLE™</strong> and <strong>TAKECARE™</strong> are Registered Frameworks.</div>
       </div>
-      <div>© 2026 Abhyast Private Limited. ABLE™ and TAKECARE™ Registered Frameworks.</div>
     </footer>
   </div>
+  <script src="./storage.js"></script>
   <script src="./student.js"></script>
 </body>
 </html>
