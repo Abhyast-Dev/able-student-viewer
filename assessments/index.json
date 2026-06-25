@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-06-25T10:46:23.202Z",
+  "generatedOn": "2026-06-25T14:01:14.167Z",
   "assessments": [
+    {
+      "id": "ff38fe99-64a9-4ad1-9d78-3becd86e7247",
+      "slug": "ncert-class-viii-chapter-2-the-invisible-living-world",
+      "title": "NCERT Class VIII Chapter 2: The Invisible Living World",
+      "subject": "Science",
+      "className": "VIII",
+      "chapterName": "The Invisible Living World: Beyond Our Naked Eye",
+      "type": "written",
+      "duration": "180 minutes",
+      "maximumMarks": "80",
+      "status": "live",
+      "publishedOn": "2026-06-25T14:01:11.266Z"
+    },
     {
       "id": "16a6ed88-da96-4156-9cf6-6d7965da24c3",
       "slug": "ncert-ch-3-health",
