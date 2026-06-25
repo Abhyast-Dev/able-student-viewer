@@ -100,7 +100,19 @@ function renderWritten(){
       <div class="report-head"><img src="./Logo.png" alt="ABLE™" onerror="this.style.display='none'"><div><div class="muted">ABLE™ iAssess</div><h1>${esc(a.title)}</h1><div class="muted">${[a.subject,a.className?"Class "+a.className:"",a.chapterName,a.duration?"Duration: "+a.duration:"",a.maximumMarks?"Marks: "+a.maximumMarks:""].filter(Boolean).map(esc).join(" · ")}</div></div></div>
       <div class="actions no-print"><button class="primary" onclick="startTimed()">Start Timed Assessment</button><button class="secondary" onclick="window.print()">Download / Save PDF</button><button class="secondary" onclick="window.print()">Print Paper</button></div>
       <section><h2>Instructions</h2><ol>${(a.instructions||[]).map(x=>`<li>${esc(x)}</li>`).join("")}</ol></section>
-      ${(a.sections||[]).map(s=>`<section><h2>${esc(s.title)}</h2>${(s.questions||[]).map((q,i)=>renderWrittenQuestion(q,i)).join("")}</section>`).join("")}
+      ${(a.sections||[]).map(s=>`
+  <section>
+    <h2>${esc(s.title)}</h2>
+
+    ${s.directions ? `
+      <div class="section-directions">
+        ${formatQuestionText(s.directions)}
+      </div>
+    ` : ""}
+
+    ${(s.questions||[]).map((q,i)=>renderWrittenQuestion(q,i)).join("")}
+  </section>
+`).join("")}
       <div class="actions no-print"><button class="primary" onclick="completeWritten()">Assessment Complete</button></div>
       <div id="completeBox" class="no-print"></div>
       <div class="report-footer">© 2026 Abhyast Private Limited. ABLE™ and TAKECARE™ are Registered Frameworks.</div>
