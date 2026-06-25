@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.abhyast.iam.twa",
+      "sha256_cert_fingerprints": [
+        "6E:0D:95:33:D1:F2:4F:C6:96:53:43:E1:8C:24:FC:D3:12:57:15:63:86:F0:33:98:13:64:D3:EE:F5:0B:8E:80"
+      ]
+    }
+  }
+]
