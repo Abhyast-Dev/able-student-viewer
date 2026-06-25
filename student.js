@@ -53,34 +53,34 @@ async function renderDashboard(){
       <h1 style="margin-top:34px">My Attempts</h1>
       <div class="assessment-list">
         ${attempts.length ? attempts.map(a => `
-  <div class="assessment-card">
-    <span class="pill">${esc(a.type)}</span>
-    <h2>${esc(a.title)}</h2>
+          <div class="assessment-card">
+            <span class="pill">${esc(a.type)}</span>
+            <h2>${esc(a.title)}</h2>
 
-    <p class="muted">
-      ${a.type === "quiz"
-        ? `Best: ${a.bestScore ?? a.score}/${a.total} · ${a.bestPercentage ?? a.percentage}%`
-        : "Completed"}
-    </p>
+            <p class="muted">
+              ${a.type === "quiz"
+                ? `Best: ${a.bestScore ?? a.score}/${a.total} · ${a.bestPercentage ?? a.percentage}%`
+                : "Completed"}
+            </p>
 
-    <p class="muted">
-      Attempts: ${a.attemptCount || 1}
-      ${a.lastAttemptAt ? ` · Last: ${new Date(a.lastAttemptAt).toLocaleString()}` : ""}
-    </p>
+            <p class="muted">
+              Attempts: ${a.attemptCount || 1}
+              ${a.lastAttemptAt ? ` · Last: ${new Date(a.lastAttemptAt).toLocaleString()}` : ""}
+            </p>
 
-    ${a.type === "quiz" && a.latestScore !== undefined ? `
-      <p class="muted">
-        Latest: ${a.latestScore}/${a.latestTotal} · ${a.latestPercentage}%
-      </p>
-    ` : ""}
+            ${a.type === "quiz" && a.latestScore !== undefined ? `
+              <p class="muted">
+                Latest: ${a.latestScore}/${a.latestTotal} · ${a.latestPercentage}%
+              </p>
+            ` : ""}
 
-    ${a.slug ? `
-      <a class="btn secondary" href="./?id=${encodeURIComponent(a.slug)}">
-        ${a.type === "quiz" ? "Retake" : "Open"}
-      </a>
-    ` : ""}
-  </div>
-`).join("") : `<p class="muted">No attempts stored on this device yet.</p>`}          </div>`).join(""):`<p class="muted">No attempts stored on this device yet.</p>`}
+            ${a.slug ? `
+              <a class="btn secondary" href="./?id=${encodeURIComponent(a.slug)}">
+                ${a.type === "quiz" ? "Retake" : "Open"}
+              </a>
+            ` : ""}
+          </div>
+        `).join("") : `<p class="muted">No attempts stored on this device yet.</p>`}
       </div>`;
   }catch(e){
     app.innerHTML=`<div class="error"><b>No live assessments found.</b><br>Please make sure <code>assessments/index.json</code> exists.</div>`;
