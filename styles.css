@@ -28,6 +28,15 @@ input[type=text]{width:100%;border:1px solid var(--line);border-radius:12px;padd
 .pill{display:inline-block;font-size:12px;padding:4px 9px;border-radius:999px;background:#eff6ff;color:#1d4ed8;font-weight:700;text-transform:uppercase}
 .options-list{margin-top:10px;display:flex;flex-direction:column;gap:8px}
 .option-row{border:1px solid #e2e8f0;border-radius:10px;padding:8px 12px;background:#fff}
+.section-directions {
+  margin: 12px 0 18px;
+  padding: 14px;
+  border-left: 4px solid #2563eb;
+  background: #eff6ff;
+  border-radius: 12px;
+  color: #334155;
+  white-space: pre-line;
+}
 .footer{margin-top:40px;border-top:1px solid #e2e8f0;padding:24px 16px;text-align:center;color:#64748b;font-size:14px}
 .footer-container{display:flex;flex-direction:column;gap:10px;align-items:center}
 .footer-links{display:flex;flex-wrap:wrap;justify-content:center;gap:18px}
