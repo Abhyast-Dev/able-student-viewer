@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-06-25T08:16:47.701Z",
+  "generatedOn": "2026-06-25T08:27:36.696Z",
   "assessments": [
+    {
+      "id": "f332d5e8-7c2c-404c-8293-60cba150732c",
+      "slug": "acids-and-bases-quiz",
+      "title": "Acids and Bases Quiz",
+      "subject": "Science",
+      "className": "VII",
+      "chapterName": "Acids Bases and Salts",
+      "type": "quiz",
+      "duration": "20 Minutes",
+      "maximumMarks": 20,
+      "status": "live",
+      "publishedOn": "2026-06-25T08:27:36.696Z"
+    },
     {
       "id": "19a357b0-b17c-495e-9a30-f0cc231a3554",
       "slug": "exploring-substances",
