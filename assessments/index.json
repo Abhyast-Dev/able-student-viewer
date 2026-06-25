@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-06-25T09:30:18.933Z",
+  "generatedOn": "2026-06-25T10:46:23.202Z",
   "assessments": [
+    {
+      "id": "16a6ed88-da96-4156-9cf6-6d7965da24c3",
+      "slug": "ncert-ch-3-health",
+      "title": "NCERT Ch- 3: Health",
+      "subject": "Science",
+      "className": "VIII",
+      "chapterName": "3",
+      "type": "quiz",
+      "duration": "20 Minutes",
+      "maximumMarks": 30,
+      "status": "live",
+      "publishedOn": "2026-06-25T10:46:23.202Z"
+    },
     {
       "id": "25c56e6b-091a-41cf-bffc-02e5924c3fc4",
       "slug": "comprehensive-health-and-science-assessment",
