@@ -1,5 +1,5 @@
 {
-  "id": "e1730303-bc73-4e1d-bb65-17115afa22cf",
+  "id": "e1eddd6e-51c7-4986-b285-cbfccb49d639",
   "slug": "exploring-substances",
   "type": "written",
   "purpose": "Test",
@@ -19,7 +19,7 @@
       "title": "Section A: Remembering",
       "questions": [
         {
-          "id": "347384e5-eff5-4889-964f-c99cfb64a7b3",
+          "id": "b154ec29-9a9c-4a1f-9679-48fcded755a4",
           "number": 1,
           "type": "mcq",
           "text": "Which of the following is considered a natural indicator?",
@@ -35,7 +35,7 @@
           ]
         },
         {
-          "id": "c012afd3-d7ec-40d0-a461-c0b93ff90f6e",
+          "id": "2d62f078-bcc2-4a61-91d1-5cd7322d6046",
           "number": 2,
           "type": "mcq",
           "text": "What is the original source from which litmus is extracted?",
@@ -51,7 +51,7 @@
           ]
         },
         {
-          "id": "e681fdcf-9e0c-43fb-b2ef-c96a5a725676",
+          "id": "df14d759-f499-41a2-b870-33fb13646101",
           "number": 3,
           "type": "fill_blank",
           "text": "Substances that taste sour tend to contain acids and are __________ in nature.",
@@ -61,7 +61,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "9a4f26c9-f27a-4840-9269-51879c38af71",
+          "id": "e6c385ff-8aa9-4819-b52f-50a0b4924708",
           "number": 4,
           "type": "fill_blank",
           "text": "The liquid injected into the skin by a red ant bite contains __________ acid.",
@@ -71,7 +71,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "74bd383f-0868-42cf-99fa-fe68e1d13b37",
+          "id": "7a817874-1b4f-4b02-bf25-945f839e0ba7",
           "number": 5,
           "type": "fill_blank",
           "text": "An indicator that changes its odour in acidic or basic mediums is called an __________ indicator.",
@@ -81,7 +81,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "08ccbc75-31f1-44a4-a34a-6c137ba4b3c0",
+          "id": "23e809a2-e47b-4b37-ad19-662e662f540b",
           "number": 6,
           "type": "true_false",
           "text": "Acharya Prafulla Chandra Ray is known as the ‘Father of Modern Indian Chemistry’.",
@@ -91,7 +91,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "557ae434-235a-41e1-80b7-433461ed4ede",
+          "id": "e834e440-debe-43fb-ba0c-6179d25e3d89",
           "number": 7,
           "type": "true_false",
           "text": "Tap water and sugar solutions change the colour of red litmus paper to blue.",
@@ -101,7 +101,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "0f3ca7a6-8b16-4e09-82ec-8f41a038d3fb",
+          "id": "255b0971-ee3f-4eab-9294-c14f3cbaa779",
           "number": 8,
           "type": "short_answer",
           "text": "What colour does turmeric paper turn when exposed to a basic solution like soap water?",
@@ -111,7 +111,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "9a32ef4f-179c-44f0-aeab-38faf6543aef",
+          "id": "1cb3b11a-b0e1-4089-a74c-a46375fd6149",
           "number": 9,
           "type": "short_answer",
           "text": "Name the two colours in which litmus paper is available.",
@@ -121,7 +121,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "3bd9fdad-8e1e-4584-8e0a-cb9ebbec32e8",
+          "id": "ce8dc0f0-b914-4770-8341-53c693671bec",
           "number": 10,
           "type": "short_answer",
           "text": "What colour does a red rose extract turn when an acidic solution is added to it? Directions (Q11–Q15): For the following questions, two statements are given: one labelled Assertion (A) and the other labelled Reason (R). Select the correct answer from the codes (a), (b), (c), and (d) as given below: (a) Both A and R are true, and R is the correct explanation of A. (b) Both A and R are true, but R is NOT the correct explanation of A. (c) A is true, but R is false. (d) A is false, but R is true.",
@@ -136,7 +136,7 @@
       "title": "Section B: Assertion and Reasoning",
       "questions": [
         {
-          "id": "adc6ec52-bbda-47b5-bcd7-d3c92f321df6",
+          "id": "e398d701-f8e7-4888-9d59-cb1b9deebad2",
           "number": 1,
           "type": "long_answer",
           "text": "Assertion (A): Turmeric paper turns red when a few drops of soap solution are added to it. Reason (R): Turmeric is a natural indicator that changes its colour to red in a basic medium.",
@@ -146,7 +146,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "fcc386ab-3a53-4e6f-a16f-5f1ce739ff00",
+          "id": "4e95a6bc-9750-46d4-8334-b119ea369090",
           "number": 2,
           "type": "long_answer",
           "text": "Assertion (A): Litmus is extracted from lichens to be used as an acid-base indicator. Reason (R): Lichens are formed by the association of two living organisms: a fungus and an alga.",
@@ -156,7 +156,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "2295c2ca-2c21-438a-9e86-0c5543c883cd",
+          "id": "6c8460ed-2f84-42e7-8bb4-a273de952b44",
           "number": 3,
           "type": "long_answer",
           "text": "Assertion (A): Bitter gourd (karela) tastes bitter, so it must be basic in nature. Reason (R): While bases generally taste bitter, not everything that tastes bitter contains a base.",
@@ -166,7 +166,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "ecb40b8a-c372-47bf-a02d-bdb3a37b1f7f",
+          "id": "46f628f7-a9a1-4d07-b15e-8a277a3c14fc",
           "number": 4,
           "type": "long_answer",
           "text": "Assertion (A): Rubbing moist baking soda provides relief from the stinging pain of a red ant bite. Reason (R): An ant bite injects formic acid into the skin, which gets neutralised by the basic baking soda.",
@@ -176,7 +176,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "8a47bd2d-451b-45f4-9f7a-9a8304bcf64a",
+          "id": "9c6583e5-2f31-48a0-8fc2-16ee57d07f67",
           "number": 5,
           "type": "long_answer",
           "text": "Assertion (A): When blue litmus paper is dipped in a sugar solution, the paper turns red. Reason (R): A sugar solution is a neutral substance and does not change the colour of either red or blue litmus paper.",
@@ -191,7 +191,7 @@
       "title": "Section C: Understanding",
       "questions": [
         {
-          "id": "5cb67f14-ee3d-431d-8546-b8ad71600f15",
+          "id": "ad16f5bd-6087-444b-933c-c21b82f5219a",
           "number": 1,
           "type": "long_answer",
           "text": "Define a neutralisation reaction. What are the three products formed during this reaction?",
@@ -201,7 +201,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "cef51ec4-d538-4e22-ad8c-6da8ed611fa8",
+          "id": "8209b745-9d97-4a44-b163-9e94025b9b51",
           "number": 2,
           "type": "long_answer",
           "text": "Differentiate between the physical touch and taste of a typical basic substance compared to an acidic substance.",
@@ -211,7 +211,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "ac87a9fe-2a3e-4979-bb8a-190fb3eefb20",
+          "id": "18ab96c6-a2a1-4593-a956-2afbe11c1442",
           "number": 3,
           "type": "long_answer",
           "text": "Even though bitter gourd (karela) has a bitter taste, it is not basic in nature. Why is taste alone not always a reliable way to test if a substance is basic?",
@@ -221,7 +221,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "a5b7ab42-786b-4037-9878-0281e17cfee6",
+          "id": "4df8cb5d-ef4e-4811-a49f-aebc2b0c594e",
           "number": 4,
           "type": "long_answer",
           "text": "What is a neutral substance? Give two examples of neutral substances from everyday life.",
@@ -231,7 +231,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "193fd8e4-7cbd-472e-862f-9b0ce92a10d5",
+          "id": "e74d3c35-1661-4448-b9f5-4d55c42dccf1",
           "number": 5,
           "type": "long_answer",
           "text": "How is lime water (calcium hydroxide solution) prepared at home or in the laboratory?",
@@ -246,7 +246,7 @@
       "title": "Section D: Applying",
       "questions": [
         {
-          "id": "1824d4d2-9e7b-4902-b5b7-b8b8fc39db40",
+          "id": "f3bb8b89-1e04-46c7-afd1-a6a15961475d",
           "number": 1,
           "type": "long_answer",
           "text": "Aman spilt some yellow curry on his white shirt while eating. When he tried to wash the stain with soap, the stain suddenly changed colour! What colour did the stain change to? Explain the scientific reason behind this colour change based on the nature of the soap and the curry.",
@@ -256,7 +256,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "b0a4f150-e8bb-4bf5-bc45-9c7e167563a6",
+          "id": "7c564c7d-8aac-4bca-9aa8-92290cb9550c",
           "number": 2,
           "type": "long_answer",
           "text": "Keerthi was observing a butterfly when a red ant bit her hand, causing stinging pain. Her brother quickly rubbed moist baking soda on the affected area, which relieved the pain. Explain the science behind why the baking soda helped Keerthi.",
@@ -266,7 +266,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "0941e4ab-f023-4bd1-b7fb-c08b7b73ed39",
+          "id": "aa5b2265-ed9d-4cfd-91d9-ed438badb265",
           "number": 3,
           "type": "long_answer",
           "text": "A farmer notices that his crops are not growing well. Upon testing, he finds that the soil has become highly acidic due to the excessive use of chemical fertilisers. What substance should the farmer add to the soil to fix this issue, and how does it work?",
@@ -281,7 +281,7 @@
       "title": "Section E: Analyzing",
       "questions": [
         {
-          "id": "e3672df6-13d5-466c-99d1-23697d900a49",
+          "id": "825bf402-26a9-4794-bac1-6fbb2e6736f3",
           "number": 1,
           "type": "long_answer",
           "text": "You are provided with three unknown liquid solutions labelled X, Y, and Z. You test them using a red rose extract indicator and observe the following: Solution X: Turns the red rose extract green. Solution Y: Turns the red rose extract red. Solution Z: The red rose extract shows no change in colour. Based on the observations, categorize the nature (acidic, basic, or neutral) of solutions X, Y, and Z. Give one everyday example of a substance that could match each solution.",
@@ -291,7 +291,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "4b167df2-3f89-4d97-8312-a7157472b5e2",
+          "id": "27dcadb2-c44b-4aaf-9da1-4f1374aedc09",
           "number": 2,
           "type": "long_answer",
           "text": "Gurbir notices that the fish population in a lake near an industrial area is declining. He suspects factory waste is being discharged into the lake. If the factory waste is acidic in nature, analyze the steps the factory must take before releasing the waste into the lake to save the aquatic life.",
@@ -306,7 +306,7 @@
       "title": "Section F: Evaluating",
       "questions": [
         {
-          "id": "80eaca67-7015-48e2-9b25-640190328e82",
+          "id": "ce6bbe54-5dd6-4375-be78-282c46bbf0bc",
           "number": 1,
           "type": "long_answer",
           "text": "A gardener is growing Hydrangea plants, which are known to produce blue flowers in acidic soil and pink/red flowers in basic soil. The gardener's plants currently have pink flowers, but he wants them to be blue. Evaluate the current state of his soil. What specific type of matter should he add to the soil to achieve blue flowers, and why would this work?",
@@ -316,7 +316,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "2374ee03-cff1-422e-8292-a484f8033bea",
+          "id": "64166525-5ecd-4f1b-aaf1-3f82bc24e599",
           "number": 2,
           "type": "long_answer",
           "text": "Manya is completely blindfolded and cannot see colors. She is given two bowls containing different unknown liquids. She needs to find out which one is acidic and which one is basic. Evaluate which specific type of indicator she should use to successfully complete this task without relying on her sight, and explain how she would use it.",
@@ -331,7 +331,7 @@
       "title": "Section G: Creating",
       "questions": [
         {
-          "id": "fc012a5b-db44-4341-864b-bb4a0db30e76",
+          "id": "139e77da-421e-4b34-bc09-8e28dc4cadfb",
           "number": 1,
           "type": "long_answer",
           "text": "Design an Experiment: You have just bought a new brand of floor cleaner, and you want to test whether it is basic. You only have raw turmeric, water, and filter paper at home. Write a step-by-step procedure on how you will create an indicator from these materials and use it to test the floor cleaner. What result will prove the cleaner is basic?",
@@ -341,7 +341,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "9dd8f384-749d-48d8-9688-9dfc7963e404",
+          "id": "b7bbb392-9866-4693-aa3b-ada9fe62022f",
           "number": 2,
           "type": "long_answer",
           "text": "Create a Secret Message: You want to send a secret, invisible birthday message to your friend on a white piece of paper. Describe how you can create this secret message using household substances mentioned in your science book. Explain exactly what your friend needs to do to reveal the hidden writing and the chemical principle that makes the trick work.",
@@ -353,7 +353,7 @@
       ]
     }
   ],
-  "createdAt": "2026-06-25T06:45:29.973Z",
+  "createdAt": "2026-06-25T08:00:42.499Z",
   "submission": {
     "whatsapp": "919910686080",
     "drive": ""
