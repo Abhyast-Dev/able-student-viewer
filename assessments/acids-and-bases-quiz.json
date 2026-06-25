@@ -1,0 +1,249 @@
+{
+  "id": "f332d5e8-7c2c-404c-8293-60cba150732c",
+  "slug": "acids-and-bases-quiz",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "Acids and Bases Quiz",
+  "chapterName": "Acids Bases and Salts",
+  "subject": "Science",
+  "className": "VII",
+  "duration": "20 Minutes",
+  "maximumMarks": 20,
+  "questions": [
+    {
+      "id": "5921d7a3-17cb-4b35-ad90-deb74d856670",
+      "number": 1,
+      "type": "mcq",
+      "text": "Which of the following is considered a natural indicator?",
+      "options": [
+        "Litmus",
+        "Turmeric",
+        "Red rose extract",
+        "All of the above"
+      ],
+      "correctAnswer": "D",
+      "marks": 1
+    },
+    {
+      "id": "d25904a7-2d46-4b79-b213-d3f7fb709a30",
+      "number": 2,
+      "type": "true_false",
+      "text": "Acharya Prafulla Chandra Ray is known as the Father of Modern Indian Chemistry.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "72a40ed2-4890-4bed-bfc2-f9442a984f30",
+      "number": 3,
+      "type": "fill_blank",
+      "text": "Substances that taste sour tend to contain acids and are ____ in nature.",
+      "options": [],
+      "correctAnswer": "acidic",
+      "marks": 1
+    },
+    {
+      "id": "04026843-b505-47ce-b3a3-c1fcbe53eb60",
+      "number": 4,
+      "type": "mcq",
+      "text": "What colour does blue litmus paper turn when dipped in an acidic solution?",
+      "options": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "1bef9267-77d1-4e1f-bfc8-8297c5160faf",
+      "number": 5,
+      "type": "fill_blank",
+      "text": "An indicator that changes its odour in acidic or basic mediums is called an ____ indicator.",
+      "options": [],
+      "correctAnswer": "olfactory",
+      "marks": 1
+    },
+    {
+      "id": "f3a1d478-7f9a-4106-afab-31dcf86207ce",
+      "number": 6,
+      "type": "true_false",
+      "text": "Tap water and sugar solutions change the colour of red litmus paper to blue.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "0fccce05-694c-4a5c-a0d7-becd93171803",
+      "number": 7,
+      "type": "fill_blank",
+      "text": "When an ant bites it injects ____ acid into the skin.",
+      "options": [],
+      "correctAnswer": "formic",
+      "marks": 1
+    },
+    {
+      "id": "e344cc24-4bdf-4729-a0f4-1b8d4e695032",
+      "number": 8,
+      "type": "mcq",
+      "text": "Turmeric paper turns what colour when exposed to a basic solution like soap water?",
+      "options": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "6da960b8-7fc3-494c-9edd-2b387878b06e",
+      "number": 9,
+      "type": "mcq",
+      "text": "What are the products formed during a neutralisation reaction?",
+      "options": [
+        "Salt only",
+        "Water only",
+        "Salt water and heat",
+        "Acid and base"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "ef0acf6b-c812-41f5-87d1-770a4d818404",
+      "number": 10,
+      "type": "true_false",
+      "text": "Bitter gourd tastes bitter so it must be basic in nature.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "fb1bedf2-fe3e-415e-9007-c3b357ddc911",
+      "number": 11,
+      "type": "fill_blank",
+      "text": "Organic matter releases acids that neutralise the ____ nature of the soil.",
+      "options": [],
+      "correctAnswer": "basic",
+      "marks": 1
+    },
+    {
+      "id": "df25d190-2b3a-4365-b9e8-67223ea3b93a",
+      "number": 12,
+      "type": "mcq",
+      "text": "What colour does red rose extract turn when an acidic solution is added?",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "539cba53-afd9-448d-b450-266d0fe3bdf3",
+      "number": 13,
+      "type": "mcq",
+      "text": "What substance is commonly added to treat soil that is too acidic?",
+      "options": [
+        "Lime",
+        "Manure",
+        "Compost",
+        "Vinegar"
+      ],
+      "correctAnswer": "A",
+      "marks": 1
+    },
+    {
+      "id": "deed0d8a-ee3f-4b3e-a666-860747540292",
+      "number": 14,
+      "type": "true_false",
+      "text": "Litmus used as an acid-base indicator is extracted from lichens.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "b7c59bd6-2f8f-4219-8e7a-42ff017c8b9e",
+      "number": 15,
+      "type": "fill_blank",
+      "text": "Substances that do not affect the colour of either red or blue litmus paper are called ____ substances.",
+      "options": [],
+      "correctAnswer": "neutral",
+      "marks": 1
+    },
+    {
+      "id": "b3c93e35-6ca4-4b34-8916-2fcfdf148825",
+      "number": 16,
+      "type": "mcq",
+      "text": "What colour does red rose extract turn when added to a basic solution?",
+      "options": [
+        "Red",
+        "Green",
+        "Blue",
+        "Colourless"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "d39ca295-60a9-4030-b59b-d52a520f1d7d",
+      "number": 17,
+      "type": "mcq",
+      "text": "Which of the following is formed by the association of a fungus and an alga?",
+      "options": [
+        "Amoeba",
+        "Lichens",
+        "Mushroom",
+        "Red rose"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "33e8c3dd-6c60-493f-a33e-2a8672e14ab4",
+      "number": 18,
+      "type": "true_false",
+      "text": "Lime water is easily prepared by mixing lime (calcium oxide) in water.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "27741893-6f76-4bbf-b784-87b584b2f62b",
+      "number": 19,
+      "type": "fill_blank",
+      "text": "A neutralisation reaction occurs when the solution of an acid is mixed with the solution of a ____.",
+      "options": [],
+      "correctAnswer": "base",
+      "marks": 1
+    },
+    {
+      "id": "8327ff46-8170-459a-9f81-86fd145fd394",
+      "number": 20,
+      "type": "mcq",
+      "text": "Factory waste that is acidic should be neutralised by adding ____ substances before being released into lakes.",
+      "options": [
+        "Acidic",
+        "Neutral",
+        "Basic",
+        "Salty"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-06-25T08:27:22.129Z",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 20,
+    "showCorrectAnswersAfterSubmit": true
+  }
+}
