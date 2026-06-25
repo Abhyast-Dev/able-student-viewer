@@ -39,22 +39,16 @@ async function renderDashboard(){
   try{
     const res=await fetch("./assessments/index.json",{cache:"no-store"});
     if(!res.ok)throw new Error("No index");
+
     const data=await res.json();
     const live=(data.assessments||data.tests||[]).filter(a=>(a.status||"live")==="live");
     const attempts=loadAttempts();
 
     app.innerHTML=`
-      <h1>Live Assessments</h1>
-      <p class="muted">Choose an assessment to begin.</p>
-      <div class="assessment-list">
-        ${live.length?live.map(a=>`
-          <div class="assessment-card">
-            <span class="pill">${esc(a.type||"assessment")}</span>
-            <h2>${esc(a.title)}</h2>
-            <p class="muted">${[a.subject,a.className?"Class "+a.className:"",a.chapterName,a.duration].filter(Boolean).map(esc).join(" · ")}</p>
-            <a class="btn primary" href="./?id=${encodeURIComponent(a.slug||a.id)}">${a.type==="quiz"?"Start Quiz":"Open Assessment"}</a>
-          </div>`).join(""):`<p class="muted">No live assessments available right now.</p>`}
-      </div>
+      <h1>Student Dashboard</h1>
+      <p class="muted">Choose a live assessment to begin.</p>
+
+      ${renderGroupedAssessments(live)}
 
       <h1 style="margin-top:34px">My Attempts</h1>
       <div class="assessment-list">
@@ -70,7 +64,6 @@ async function renderDashboard(){
     app.innerHTML=`<div class="error"><b>No live assessments found.</b><br>Please make sure <code>assessments/index.json</code> exists.</div>`;
   }
 }
-
 async function loadAssessment(id){
   try{
     const res=await fetch(`./assessments/${encodeURIComponent(id)}.json`,{cache:"no-store"});
