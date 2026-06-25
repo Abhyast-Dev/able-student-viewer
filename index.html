@@ -3,28 +3,33 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
   <title>ABLE™ iAssess</title>
-  <link rel="icon" type="image/png" href="./favicon.png" />
+
+  <link rel="icon" type="image/png" href="./Favicon.png" />
+  <link rel="manifest" href="./manifest.json" />
+
   <meta name="theme-color" content="#2563eb" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+
   <link rel="stylesheet" href="./styles.css" />
-  <link rel="manifest" href="./manifest.json">
 
-  <meta name="theme-color" content="#2563eb">
-  
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  
-  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <!-- MathJax for Math and Science notation -->
   <script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']]
-    }
-  };
-</script>
-
-<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']]
+      },
+      options: {
+        skipHtmlTags: ['script','noscript','style','textarea','pre']
+      }
+    };
+  </script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
+
 <body>
   <div class="wrap">
     <div class="top no-print">
@@ -36,13 +41,19 @@
         </div>
       </div>
     </div>
-    <div id="timer" class="timer no-print"><b>Timed Assessment</b><span id="timeText">--:--</span></div>
+
+    <div id="timer" class="timer no-print">
+      <b>Timed Assessment</b>
+      <span id="timeText">--:--</span>
+    </div>
+
     <div id="app" class="card">Loading...</div>
+
     <footer class="footer no-print" role="contentinfo">
       <div class="footer-container">
         <div class="footer-links">
           <a href="mailto:contact@abhyast.in">📧 Contact Us</a>
-          
+          <a href="mailto:contact@abhyast.in">contact@abhyast.in</a>
           <a href="https://wa.me/919910686080" target="_blank">💬 WhatsApp Support</a>
         </div>
         <div class="footer-copy">© 2026 Abhyast Private Limited.</div>
@@ -50,6 +61,7 @@
       </div>
     </footer>
   </div>
+
   <script src="./storage.js"></script>
   <script src="./student.js"></script>
 </body>
