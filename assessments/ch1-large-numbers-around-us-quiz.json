@@ -1,0 +1,257 @@
+{
+  "id": "0e946775-6e5c-4c1c-8e43-d495a4cdb218",
+  "slug": "ch1-large-numbers-around-us-quiz",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "Ch1 - Large Numbers Around Us Quiz",
+  "chapterName": "Large Numbers Around Us",
+  "subject": "Mathematics",
+  "className": "VII",
+  "duration": "20 Minutes",
+  "maximumMarks": 1896,
+  "questions": [
+    {
+      "id": "871d416c-6ccf-43fa-81aa-7e999728a245",
+      "number": 1,
+      "type": "mcq",
+      "text": "The smallest 6-digit number is?",
+      "options": [
+        "99",
+        "999",
+        "10",
+        "000"
+      ],
+      "correctAnswer": "1",
+      "marks": 1
+    },
+    {
+      "id": "a413b783-c2b6-4eed-9bb2-3375ce2c2dfc",
+      "number": 2,
+      "type": "fill_blank",
+      "text": "One lakh is equal to ____ thousand.",
+      "options": [],
+      "correctAnswer": "100",
+      "marks": 1
+    },
+    {
+      "id": "24431a99-540a-4ff2-a5e3-c71a1ffb1da6",
+      "number": 3,
+      "type": "true_false",
+      "text": "One crore has 7 zeroes.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "58c62aa5-0906-4fea-9122-f7aa145caf39",
+      "number": 4,
+      "type": "mcq",
+      "text": "Which number is written correctly in the Indian place value system?",
+      "options": [
+        "123",
+        "4567",
+        "12",
+        "34"
+      ],
+      "correctAnswer": "567",
+      "marks": 1234
+    },
+    {
+      "id": "bd068b6c-fb48-49e6-b8ae-796eaa394a23",
+      "number": 5,
+      "type": "fill_blank",
+      "text": "One million is equal to ____ lakh.",
+      "options": [],
+      "correctAnswer": "10",
+      "marks": 1
+    },
+    {
+      "id": "46beb1c1-5f8e-443e-b611-8e22a83cb73c",
+      "number": 6,
+      "type": "true_false",
+      "text": "Every 6-digit number is greater than every 5-digit number.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "49e21a62-25f0-4afd-a3ee-66683345c06b",
+      "number": 7,
+      "type": "mcq",
+      "text": "Which of the following is the largest number?",
+      "options": [
+        "9",
+        "87",
+        "65",
+        "432"
+      ],
+      "correctAnswer": "9",
+      "marks": 78
+    },
+    {
+      "id": "fb9cce4c-a0cf-4d08-8be4-dfb7e9a0e2e8",
+      "number": 8,
+      "type": "00",
+      "text": "The number immediately before 10",
+      "options": [
+        "000 is ____.",
+        "fill_blank"
+      ],
+      "correctAnswer": "",
+      "marks": 1
+    },
+    {
+      "id": "d9e0a104-c329-492b-94a2-a35464746870",
+      "number": 9,
+      "type": "99",
+      "text": "9",
+      "options": [
+        "999 is the greatest 7-digit number.",
+        "true_false"
+      ],
+      "correctAnswer": "",
+      "marks": 1
+    },
+    {
+      "id": "a2d9c26b-89a7-410d-96eb-db2f399b24cc",
+      "number": 10,
+      "type": "mcq",
+      "text": "The Indian place value system places commas in which pattern?",
+      "options": [
+        "3-3-3",
+        "2-2-2",
+        "3-2-2-2",
+        "4-3-2"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "9f5edb5d-734c-45f0-915d-bf614634f533",
+      "number": 11,
+      "type": "00",
+      "text": "The number 1",
+      "options": [
+        "00",
+        "000 is called one ____.",
+        "fill_blank"
+      ],
+      "correctAnswer": "",
+      "marks": 1
+    },
+    {
+      "id": "494f1bfa-5068-49da-98ef-ab5934863416",
+      "number": 12,
+      "type": "true_false",
+      "text": "Approximate values are useful in everyday life.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "164607d5-fda3-4f27-9123-1506285269e0",
+      "number": 13,
+      "type": "mcq",
+      "text": "Which of the following equals one crore?",
+      "options": [
+        "10 lakh",
+        "100 lakh",
+        "1000 lakh",
+        "1 lakh"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "b1600657-f168-4d24-b406-c8add056111a",
+      "number": 14,
+      "type": "72",
+      "text": "The place value of 7 in 5",
+      "options": [
+        "346 is ____.",
+        "fill_blank"
+      ],
+      "correctAnswer": "",
+      "marks": 1
+    },
+    {
+      "id": "505f2d1d-8932-4bf0-8f1c-48add52cc4c2",
+      "number": 15,
+      "type": "true_false",
+      "text": "Commas change the value of a number.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "06ec7a8c-bc2e-49aa-bd98-58c29fe5ce41",
+      "number": 16,
+      "type": "mcq",
+      "text": "Which system uses millions and billions?",
+      "options": [
+        "Indian System",
+        "International System",
+        "Roman System",
+        "Binary System"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "38243a9e-0de0-4186-9ca0-13febbdae56a",
+      "number": 17,
+      "type": "true_false",
+      "text": "One lakh is 100 times one thousand.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "95327e54-5756-42b4-81ae-84c5d951f421",
+      "number": 18,
+      "type": "000",
+      "text": "The international name for 1",
+      "options": [
+        "000 is ____.",
+        "fill_blank"
+      ],
+      "correctAnswer": "",
+      "marks": 1
+    },
+    {
+      "id": "0c1a1157-a0b6-469c-808a-8a754e7e5563",
+      "number": 19,
+      "type": "mcq",
+      "text": "Which number is correctly written in the International System?",
+      "options": [
+        "1",
+        "234",
+        "567",
+        "12"
+      ],
+      "correctAnswer": "34",
+      "marks": 567
+    },
+    {
+      "id": "fdb8391e-de20-4b6c-8e54-b6ee8baceec3",
+      "number": 20,
+      "type": "true_false",
+      "text": "Rounding off numbers helps us estimate calculations quickly.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-06-26T12:14:07.846Z",
+  "status": "live",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 20,
+    "showCorrectAnswersAfterSubmit": true
+  },
+  "publishedOn": "2026-06-26T12:14:15.078Z"
+}
