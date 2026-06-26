@@ -1,5 +1,5 @@
 {
-  "id": "c8b40101-bd8b-4c1d-bbb8-fe35c2da0438",
+  "id": "9e190606-e806-4bb3-b167-1374ea575b64",
   "slug": "ncert-chapter-1-large-numbers-around-us",
   "type": "written",
   "purpose": "Test",
@@ -22,57 +22,57 @@
       "directions": "",
       "questions": [
         {
-          "id": "23a089cc-b2ad-481f-9fb7-e82b8e00c257",
+          "id": "b53f5084-ae74-4801-81af-b085a0371730",
           "number": 1,
           "type": "long_answer",
-          "text": "Multiple Choice The smallest 6-digit number is:a) 99,999b) 10,000c) 1,00,000d) 9,99,999",
+          "text": "Multiple Choice The smallest 6-digit number is: 99,999 10,000 1,00,000 9,99,999",
           "marks": 1,
           "responseLength": "",
           "answerKey": "",
           "teacherNotes": ""
         },
         {
-          "id": "e2e19c80-a8a5-4535-b5f0-4df51c0b7e63",
+          "id": "507d2d5c-d260-4d87-a963-a4b65005e78f",
           "number": 2,
           "type": "long_answer",
-          "text": "Multiple Choice How many zeroes are there in one crore? a) 5b) 6c) 7d) 8",
+          "text": "Multiple Choice How many zeroes are there in one crore? 5 6 7 8",
           "marks": 1,
           "responseLength": "",
           "answerKey": "",
           "teacherNotes": ""
         },
         {
-          "id": "8905c46f-3686-4fc8-8f16-05cd05361b81",
+          "id": "741a5cbf-7c18-49d4-a9f4-ea13230594e7",
           "number": 3,
           "type": "long_answer",
-          "text": "Multiple Choice Which number is written correctly in the Indian place value system? a) 123,4567b) 12,34,567c) 1234,567d) 1,234,567",
+          "text": "Multiple Choice Which number is written correctly in the Indian place value system? 123,4567 12,34,567 1234,567 1,234,567",
           "marks": 1,
           "responseLength": "",
           "answerKey": "",
           "teacherNotes": ""
         },
         {
-          "id": "d737bc12-c28b-4ac3-b3b5-bcbbffc26b5e",
+          "id": "80e53b0a-a91e-4555-96a7-02649ab70eae",
           "number": 4,
           "type": "long_answer",
-          "text": "Multiple Choice One million is equal to: a) One lakhb) Ten lakhc) One crored) Hundred crore",
+          "text": "Multiple Choice One million is equal to: One lakh Ten lakh One crore Hundred crore",
           "marks": 1,
           "responseLength": "",
           "answerKey": "",
           "teacherNotes": ""
         },
         {
-          "id": "fd8cd2d3-10d1-4365-8117-404400e839d1",
+          "id": "394d01d1-f6bb-45c8-b898-23d468c3e9b8",
           "number": 5,
           "type": "long_answer",
-          "text": "Multiple Choice Which number is the largest? a) 9,87,65,432b) 9,78,65,432c) 8,97,65,432d) 9,87,56,432",
+          "text": "Multiple Choice Which number is the largest? 9,87,65,432 9,78,65,432 8,97,65,432 9,87,56,432",
           "marks": 1,
           "responseLength": "",
           "answerKey": "",
           "teacherNotes": ""
         },
         {
-          "id": "a2398666-0db4-41a9-b58e-6e399100f7d2",
+          "id": "825ffdf7-d723-4847-95c4-ef13786978e8",
           "number": 6,
           "type": "long_answer",
           "text": "Fill in the blank One lakh = ________ thousand.",
@@ -82,7 +82,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "09ede04b-dbe0-4d34-901e-d3e8380da5c2",
+          "id": "67508e81-409e-450a-96e0-14743d72a9d1",
           "number": 7,
           "type": "long_answer",
           "text": "Fill in the blank In the Indian system, commas are placed in the pattern ________.",
@@ -92,7 +92,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "33810501-8d48-4bd9-89fc-56171ce87e1e",
+          "id": "8def69c8-be2d-4fc2-89bb-d998c809f9e5",
           "number": 8,
           "type": "long_answer",
           "text": "Fill in the blank The number 1,00,00,000 is called one ________.",
@@ -102,7 +102,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "cfc49dd2-a73e-4530-9f29-db9e09cf3572",
+          "id": "ae29d60e-1bc9-45b2-8358-518c030420f2",
           "number": 9,
           "type": "long_answer",
           "text": "Fill in the blank The number immediately before 10,00,000 is ________.",
@@ -112,7 +112,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "f8eb647b-a5cb-47af-b836-83612db6f9f8",
+          "id": "336ec6cd-59a0-480f-b4f6-e49b85ffc3c1",
           "number": 10,
           "type": "long_answer",
           "text": "True or False One crore is 100 times one lakh.",
@@ -122,7 +122,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "f7778b72-17d0-4524-972c-f98a8b0a57a5",
+          "id": "f569ea67-286f-44c4-8d48-36a77f3de719",
           "number": 11,
           "type": "long_answer",
           "text": "True or False Every 6-digit number is greater than every 5-digit number.",
@@ -132,7 +132,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "356df2fd-868a-4b19-b1cb-9312e798a9bf",
+          "id": "ff181ac1-64ac-4f9f-94f0-a6f2c610d037",
           "number": 12,
           "type": "long_answer",
           "text": "True or False 9,99,999 is the greatest 7-digit number.",
@@ -142,7 +142,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "10724248-3b17-467b-8662-05c3b87a21f0",
+          "id": "3cd98e96-7476-4dfb-baf9-17d1a7969147",
           "number": 13,
           "type": "long_answer",
           "text": "Direct Question What is the place value of 7 in 5,72,346?",
@@ -152,7 +152,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "7211f928-03fb-48ca-bd11-29ebf37a08ac",
+          "id": "b20e5cc3-b30b-48ea-9b98-7052959687c5",
           "number": 14,
           "type": "long_answer",
           "text": "Direct Question Write the international name for 1,000,000.",
@@ -162,7 +162,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "984b75dc-ae38-4584-b1e8-0ec62b7c9678",
+          "id": "caa96cac-31bb-48ae-8a32-84dadfd5c096",
           "number": 15,
           "type": "long_answer",
           "text": "Direct Question Write one real-life example where large numbers are used.",
@@ -178,7 +178,7 @@
       "directions": "Directions (Q16–Q20): Select the correct answer.\n(a) Both A and R are true and R is the correct explanation.\n(b) Both A and R are true but R is not the correct explanation.\n(c) A is true but R is false.\n(d) A is false but R is true.",
       "questions": [
         {
-          "id": "ee11471f-7e8a-4bce-b6b2-e68a4089a774",
+          "id": "dd69bac8-12c7-404a-aa43-806d3ad6a263",
           "number": 1,
           "type": "long_answer",
           "text": " Assertion (A): 99,999 is one less than one lakh. Reason (R): One lakh equals 1,00,000.",
@@ -188,7 +188,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "cb548458-a642-4b72-8a70-132cfbc7a417",
+          "id": "2df52664-6f39-486f-a1a3-275b60f3bd24",
           "number": 2,
           "type": "long_answer",
           "text": " Assertion (A): Commas help us read large numbers easily. Reason (R): Commas change the value of the number.",
@@ -198,7 +198,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "556897c8-5805-4dd4-9336-8f905eb8cff8",
+          "id": "1a8eaa3f-d207-4ea6-97a3-8a3f6046e5e1",
           "number": 3,
           "type": "long_answer",
           "text": " Assertion (A): 5 million is equal to 50 lakh. Reason (R): One million equals ten lakh.",
@@ -208,7 +208,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "1e74b0fb-2a6f-401a-bdc3-f08c8b09baf2",
+          "id": "89d0b943-7342-4f09-a539-fba5c19f77f2",
           "number": 4,
           "type": "long_answer",
           "text": " Assertion (A): Approximate values are useful in everyday life. Reason (R): Exact values are always necessary.",
@@ -218,7 +218,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "1246b42b-16f5-4657-9f94-32cb71fb0b9f",
+          "id": "2710d024-b159-42a8-b245-3bd9fce0fb88",
           "number": 5,
           "type": "long_answer",
           "text": " Assertion (A): Multiplying a 2-digit number by another 2-digit number can produce a 4-digit number. Reason (R): The largest product of two 2-digit numbers is 9801.",
@@ -234,7 +234,7 @@
       "directions": "",
       "questions": [
         {
-          "id": "63d95d5b-e303-47e0-b439-71ea38fa0f12",
+          "id": "9128b193-7ab5-4ff4-9e6c-f19cff478f30",
           "number": 1,
           "type": "long_answer",
           "text": " Explain why commas are used while writing large numbers.",
@@ -244,7 +244,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "00b6933a-c31a-44aa-b0f1-7cd871828d1c",
+          "id": "d4b8442b-1d2a-4090-9206-480bafd89a9c",
           "number": 2,
           "type": "long_answer",
           "text": " Differentiate between the Indian and International place value systems.",
@@ -254,7 +254,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "2ce5ed8a-94c2-4b71-8b73-650fa8aec0ea",
+          "id": "80f9651f-8361-4467-8386-6a50124e36ab",
           "number": 3,
           "type": "long_answer",
           "text": " Explain why one lakh is considered a large number using one example from daily life.",
@@ -264,7 +264,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "d57306ed-3808-4416-aec6-1b0660d0a70d",
+          "id": "2879f9d2-b469-4a0a-afa2-d7f0c1f18b5d",
           "number": 4,
           "type": "long_answer",
           "text": " Describe how place value helps us compare two large numbers.",
@@ -274,7 +274,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "e3ba8734-9e99-4f46-8c2c-9abebf5b1cd6",
+          "id": "f7ac3c62-8d7c-490a-8c03-a2fb16d6097a",
           "number": 5,
           "type": "long_answer",
           "text": " Explain the difference between an exact value and an approximate value.",
@@ -284,7 +284,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "817a3668-daa0-497c-8044-d9cacc942aa8",
+          "id": "0ed1d800-7624-4dcb-be9d-ebd25c6bbecb",
           "number": 6,
           "type": "long_answer",
           "text": " Why do newspapers often use rounded numbers instead of exact numbers?",
@@ -294,7 +294,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "c4f75b32-6551-4ffd-ad43-8321f0d02f28",
+          "id": "013d13db-8255-4d62-9191-0762011e6682",
           "number": 7,
           "type": "long_answer",
           "text": " Explain how rounding helps in estimating large numbers.",
@@ -304,7 +304,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "40d587b5-a25f-4577-967d-fc0b7d6a8a86",
+          "id": "28eebdb5-cd14-42e0-919b-0cfedccfbcf6",
           "number": 8,
           "type": "long_answer",
           "text": " Why is it useful to compare large quantities with familiar objects?",
@@ -314,7 +314,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "3cb9abaf-a0a3-4488-9986-44928195a347",
+          "id": "0cceb6b6-a01b-4858-9311-52d389a6e0a6",
           "number": 9,
           "type": "long_answer",
           "text": " Explain one shortcut used for multiplying numbers by 25, 50 or 125.",
@@ -324,7 +324,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "41cfeedb-dd13-417e-bb76-5a81905e0e4f",
+          "id": "beb1a475-9a45-45e4-a09d-40bea9f5097a",
           "number": 10,
           "type": "long_answer",
           "text": " Why is understanding place value important before performing calculations?",
@@ -340,7 +340,7 @@
       "directions": "",
       "questions": [
         {
-          "id": "e915e1fa-bfd1-4344-90ae-14d846a61a0b",
+          "id": "0eb95da2-e54b-4f37-a541-1824dcd121c3",
           "number": 1,
           "type": "long_answer",
           "text": " The population of a town increased from 98,750 to 1,12,500. Calculate the increase and state whether the new population is more or less than one lakh.",
@@ -350,7 +350,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "c6693e79-f76c-40c4-87bc-997aa84180b0",
+          "id": "bf606c5d-92ed-401c-8e6b-eb6c9cc8f9bd",
           "number": 2,
           "type": "long_answer",
           "text": " A student travelled 245 km every day for 365 days. Estimate the total distance travelled using appropriate rounding. Explain your estimation.",
@@ -360,7 +360,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "e67449f0-b9f4-4db0-96c9-78924d9832bf",
+          "id": "e92cf5dd-d275-49d7-8e30-cacbd1e8f511",
           "number": 3,
           "type": "long_answer",
           "text": " Arrange the following numbers in ascending order and explain your method. 8,75,43,210 8,57,34,210 8,75,34,210 8,57,43,210",
@@ -376,7 +376,7 @@
       "directions": "",
       "questions": [
         {
-          "id": "76d777b4-e4dc-4860-9cf7-ca809ff09a48",
+          "id": "17832eaa-06dd-4c88-9c8b-c672d58bf5ce",
           "number": 1,
           "type": "long_answer",
           "text": " Complete the following table. Number Indian Number Name International Number Name 4,05,06,789 1,20,45,600 9,87,65,432 Analyze the similarities and differences between the two systems.",
@@ -386,7 +386,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "f8febdab-ee98-4b07-a082-748e9c290370",
+          "id": "d26444f4-9c1f-4043-92bc-2910266d5686",
           "number": 2,
           "type": "long_answer",
           "text": " A city's population was: 2010 – 76,450 2015 – 89,900 2020 – 1,08,600 2025 – 1,27,450 Analyze the trend and answer: During which period did the greatest increase occur? Approximately how much did the population increase over the entire period?",
@@ -402,7 +402,7 @@
       "directions": "",
       "questions": [
         {
-          "id": "195979c8-5aa4-41f5-a5ab-27d648d8589b",
+          "id": "bb8cbed6-33c5-4970-9586-24c37b670619",
           "number": 1,
           "type": "long_answer",
           "text": " A newspaper reports the attendance at a sports event as \"about one lakh people.\" Evaluate whether using an approximate number is appropriate. Support your answer with reasons.",
@@ -412,7 +412,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "2984b6f4-0026-430a-a65d-16a78632b7bb",
+          "id": "3c26c62d-07bf-4716-bfde-216902596604",
           "number": 2,
           "type": "long_answer",
           "text": " Two students compare numbers using different methods. Student A compares only the number of digits. Student B compares place values from left to right. Evaluate whose method is more reliable and justify your answer with examples.",
@@ -428,7 +428,7 @@
       "directions": "",
       "questions": [
         {
-          "id": "137f9d5a-7c25-4b7a-acba-87882305986d",
+          "id": "86485a1f-877c-4970-a906-d7a347d54846",
           "number": 1,
           "type": "long_answer",
           "text": " Design a Large Numbers Information Poster for younger students. Include: One lakh One crore Indian place value chart International place value chart One real-life example One interesting large-number fact",
@@ -438,7 +438,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "7c099984-781b-4cb8-8a17-4065d74b07ac",
+          "id": "4293c008-9515-482a-a3df-2a9e4e53d7e5",
           "number": 2,
           "type": "long_answer",
           "text": " Create five real-life problems involving large numbers from different situations such as population, money, distance, sports, or science. Each problem should require the use of place value, comparison, or estimation.",
@@ -450,7 +450,7 @@
       ]
     }
   ],
-  "createdAt": "2026-06-26T16:42:36.281Z",
+  "createdAt": "2026-06-26T16:51:41.123Z",
   "status": "live",
   "submission": {
     "whatsapp": "919910686080",
@@ -461,5 +461,5 @@
     "answerKeyMode": "manual",
     "answerKeyReleased": false
   },
-  "publishedOn": "2026-06-26T16:44:32.103Z"
+  "publishedOn": "2026-06-26T16:53:03.522Z"
 }
