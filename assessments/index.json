@@ -4,13 +4,13 @@
   "assessments": [
     {
       "id": "bb3948b3-8e54-4e39-8591-8875dbbc390b",
-      "slug": "ch2-understanding-the-weather-quiz-subject",
-      "title": "Ch2 -  Understanding the Weather Quiz Subject",
-      "subject": "",
-      "className": "",
-      "chapterName": "",
+      "slug": "understanding-the-weather-quiz",
+      "title": "Understanding the Weather Quiz",
+      "subject": "Social Science (Geography)",
+      "className": "VII",
+      "chapterName": "Understanding the Weather",
       "type": "quiz",
-      "duration": "",
+      "duration": "15 minutes",
       "maximumMarks": 18,
       "status": "live",
       "publishedOn": "2026-06-26T11:02:50.291Z"
