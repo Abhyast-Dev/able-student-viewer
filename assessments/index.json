@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-06-25T14:07:50.528Z",
+  "generatedOn": "2026-06-26T10:54:32.098Z",
   "assessments": [
+    {
+      "id": "9e5ae5bb-e34e-422d-826f-34f6fede7626",
+      "slug": "ncert-ch-2-understanding-the-weather",
+      "title": "NCERT Ch-2: Understanding the Weather",
+      "subject": "Social Science (Geography)",
+      "className": "VII",
+      "chapterName": "Understanding the Weather",
+      "type": "written",
+      "duration": "180 minutes",
+      "maximumMarks": "80",
+      "status": "live",
+      "publishedOn": "2026-06-26T10:54:20.779Z"
+    },
     {
       "id": "6df0dd72-6ce8-4309-94eb-0ab8f5c5106c",
       "slug": "the-invisible-living-world-quiz",
