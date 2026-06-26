@@ -1,0 +1,493 @@
+{
+  "id": "9e5ae5bb-e34e-422d-826f-34f6fede7626",
+  "slug": "ncert-ch-2-understanding-the-weather",
+  "type": "written",
+  "purpose": "Test",
+  "title": "NCERT Ch-2: Understanding the Weather",
+  "chapterName": "Understanding the Weather",
+  "subject": "Social Science (Geography)",
+  "className": "VII",
+  "duration": "180 minutes",
+  "maximumMarks": "80",
+  "instructions": [
+    "Write answers in your notebook.",
+    "All questions are compulsory.",
+    "Read the instructions for each section carefully before answering."
+  ],
+  "sections": [
+    {
+      "title": "Section A: Remembering",
+      "directions": "",
+      "questions": [
+        {
+          "id": "656dc0c7-5342-4632-82ab-9bb6873ad0a5",
+          "number": 1,
+          "type": "mcq",
+          "text": "Which layer of the atmosphere is closest to the Earth's surface and is where almost all weather phenomena take place?",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": "",
+          "options": [
+            "Stratosphere",
+            "Tropopause",
+            "Troposphere",
+            "Ozone Layer"
+          ]
+        },
+        {
+          "id": "188de86d-7767-48e8-bfff-ca2a4edb0a4c",
+          "number": 2,
+          "type": "mcq",
+          "text": "Which instrument is used to measure the speed of the wind?",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": "",
+          "options": [
+            "Wind Vane",
+            "Anemometer",
+            "Barometer",
+            "Hygrometer"
+          ]
+        },
+        {
+          "id": "6bdbdf99-08e9-4841-9b65-5c524d74854c",
+          "number": 3,
+          "type": "mcq",
+          "text": "The normal atmospheric pressure at the sea coast is approximately:",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": "",
+          "options": [
+            "650 mb",
+            "1000 mb",
+            "1013 mb",
+            "5600 mb"
+          ]
+        },
+        {
+          "id": "63fa3aa7-a686-4c8c-8ad9-9dd8a73e50ba",
+          "number": 4,
+          "type": "mcq",
+          "text": "Which scale is commonly used alongside Celsius to measure temperature?",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": "",
+          "options": [
+            "Kelvin",
+            "Fahrenheit",
+            "Millibar",
+            "Relative Humidity"
+          ]
+        },
+        {
+          "id": "b62872e6-2e42-4f1d-8e48-5d45a203d3ab",
+          "number": 5,
+          "type": "mcq",
+          "text": "The India Meteorological Department (IMD) was established in which year?",
+          "marks": 0,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": "",
+          "options": [
+            "1875",
+            "1924",
+            "1947",
+            "2023 Marks: 1"
+          ]
+        },
+        {
+          "id": "46a75b21-a184-4c98-9fa3-f9347b485a3b",
+          "number": 6,
+          "type": "fill_blank",
+          "text": "The amount of water vapour present in the air is known as __________ .",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "1dd02076-bd20-4121-be7d-c5425fbecdd7",
+          "number": 7,
+          "type": "fill_blank",
+          "text": "An instrument called a __________ is used to measure atmospheric pressure.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "5cb6ee98-f415-4ddb-8a74-ca7f5fe13511",
+          "number": 8,
+          "type": "fill_blank",
+          "text": "Natural balls of ice that fall from the sky are called __________ .",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "a27263b4-134f-4b24-8820-72b86c4c0b16",
+          "number": 9,
+          "type": "fill_blank",
+          "text": "The abbreviation used for the unit of atmospheric pressure is __________ .",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "aa22764e-0f82-4850-b7d4-b54ec2ce44e8",
+          "number": 10,
+          "type": "true_false",
+          "text": "Humidity is measured as a percentage, where 100% means the air is saturated with water vapour.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "316fe76e-e960-4208-81ec-64d3444ad80b",
+          "number": 11,
+          "type": "true_false",
+          "text": "A wind sock is primarily used by farmers to predict the arrival of the monsoon.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "b325fdfe-65d5-40f9-bd03-d93f33e4df04",
+          "number": 12,
+          "type": "true_false",
+          "text": "Atmospheric pressure increases as one climbs higher up into the mountains.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "69c44cd6-482b-40dd-a580-2905048fc772",
+          "number": 13,
+          "type": "short_answer",
+          "text": "What does the term ‘Meteorology’ mean?",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "a0b18780-2c60-4417-98ee-34f33694fe6f",
+          "number": 14,
+          "type": "short_answer",
+          "text": "Name one animal behavior that humans have traditionally used to forecast rain.",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "6188ed2d-ba44-40f9-a92c-9073ade06f4d",
+          "number": 15,
+          "type": "short_answer",
+          "text": "Identify the instrument used to measure the depth of rainwater.",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section B: Assertion and Reasoning",
+      "directions": "Directions (Q16–Q20): Select the correct answer from the codes below: (a) Both A and R are true, and R is the correct explanation of A. (b) Both A and R are true, but R is NOT the correct explanation of A. (c) A is true, but R is false. (d) A is false, but R is true.",
+      "questions": [
+        {
+          "id": "47d25df0-131a-4057-910c-918a9c65d97a",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Assertion (A): People often feel breathless or dizzy at very high altitudes like Khardung la. Reason (R): At high altitudes, the air pressure is lower, and there is less oxygen available for the lungs.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e0705aca-4570-46c0-987e-a3ef080ce3c3",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Assertion (A): Wet clothes dry more slowly on a rainy day. Reason (R): When the humidity in the air is already high, water evaporates more slowly.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e3505f24-8c88-4a6a-a809-6871168e86c2",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Assertion (A): The India Meteorological Department's motto is related to the sun. Reason (R): According to ancient texts like the Manusmṛiti, rain arises from the sun.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2df12028-7762-4171-b101-7e94a790dde4",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Assertion (A): Anemometers are used to determine the direction of the wind. Reason (R): Wind speed is measured in kilometres per hour (km/h) based on how fast the metal cups rotate.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "ff2fc30b-8298-4816-abe2-dd5d8c9e0ef9",
+          "number": 5,
+          "type": "long_answer",
+          "text": "Assertion (A): Pine cones are natural indicators of environmental humidity. Reason (R): Pine cones open in humid conditions to protect their seeds from getting wet.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section C: Understanding",
+      "directions": "",
+      "questions": [
+        {
+          "id": "ad1fe0d4-0249-4f2f-b988-291ed4e5011a",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Explain the difference between 'weather' and 'atmosphere' based on the text. Marks: 2",
+          "marks": 0,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d868ff7c-7bf9-478f-8091-dc22ff8bd26f",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Differentiate between 'maximum temperature' and 'minimum temperature' in the context of calculating the 'range of temperature.'",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "b1a7808c-d30b-4b12-8013-2e0299e32e00",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Describe why the troposphere is the most significant layer for land-based life.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "26298ff7-7fc4-4b30-9ecf-e676bb23a0db",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Why is it important for air pilots and sailors to have accurate wind data?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "a368a4fd-4ddf-48fc-8f3f-58d53fa91175",
+          "number": 5,
+          "type": "long_answer",
+          "text": "What is 'relative humidity' and how does it differ in dry versus humid weather?",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "882f1d89-33b4-46f7-8530-d63b04ebf615",
+          "number": 6,
+          "type": "long_answer",
+          "text": "How does a 'depression' or low-pressure system affect the weather?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "604666f1-0ad3-401d-b7cb-9b07871d8843",
+          "number": 7,
+          "type": "long_answer",
+          "text": "Explain why a rain gauge should be placed in an open area away from obstructions.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "3cc20791-b11e-4978-817d-bacf0480d271",
+          "number": 8,
+          "type": "long_answer",
+          "text": "What are 'Automated Weather Stations' (AWS) and why are they useful in remote areas like glacial lakes?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e25e878c-345a-4f5c-bf6e-cec65547f491",
+          "number": 9,
+          "type": "long_answer",
+          "text": "Briefly explain why the body needs to 'acclimatise' when traveling to high altitudes.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "20a0cb8f-7f61-4f6f-89aa-b69cb94d890b",
+          "number": 10,
+          "type": "long_answer",
+          "text": "Why do people in many parts of India still value traditional ways of predicting the monsoon?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section D: Applying",
+      "directions": "",
+      "questions": [
+        {
+          "id": "db1c72ee-0884-44d7-8e68-e090de979d80",
+          "number": 1,
+          "type": "long_answer",
+          "text": "A traveler is deciding between visiting Jaipur (dry) or Kochi (coastal/humid) in October. Both have a temperature of 30°C. Analyze how the humidity will affect their physical comfort (sweating) and the drying of their laundry. Suggest which city would feel \"heavier.\"",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "c9d8111e-76d5-43d6-9914-2e9366c6232d",
+          "number": 2,
+          "type": "long_answer",
+          "text": "If a meteorologist observes that the atmospheric pressure in a coastal town has dropped from 1013 mb to 990 mb, predict the likely change in weather. Explain the science behind why the local government might issue a warning.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "8a6fb08b-80cd-4f32-b8dd-630e0ac8b429",
+          "number": 3,
+          "type": "long_answer",
+          "text": "A student records that a city's maximum temperature is 32°C and its minimum is 18°C. Apply the formulas from the text to calculate the range of temperature and the mean daily temperature for that day.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section E: Analyzing",
+      "directions": "",
+      "questions": [
+        {
+          "id": "175cfc86-8068-4e19-98ab-ba8b54b02c94",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Categorize the following instruments with their specific functions and units of measurement (where applicable): Barometer, Hygrometer, Rain Gauge, Anemometer, Thermometer.",
+          "marks": 6,
+          "responseLength": "Table format or clear categorized list",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "78b10c0b-4206-4da9-a9aa-c34e0b1bdd06",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Analyze the weather data for Jammu and Kashmir on 01-02-2024. Compare Srinagar and Gulmarg in terms of maximum temperature and relative humidity. Which station experienced the most significant departure from normal temperature?",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section F: Evaluating",
+      "directions": "",
+      "questions": [
+        {
+          "id": "a56eafa6-e8a8-49fc-ab62-1243dbd20739",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Evaluate the different site options for setting up a rain gauge: a school vegetable garden, a building terrace, or an open ground with an elevated platform. Which site is best and why? Compare this with why a verandah would be an unsuitable choice.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "c70f1fc7-2470-410f-9dae-75c7dacdf751",
+          "number": 2,
+          "type": "long_answer",
+          "text": "An argument is made that \"modern technology has made traditional nature-based weather observations obsolete.\" Evaluate the scientific accuracy of this by discussing how meteorologists use both nature's clues and \"cool gadgets\" (AWS) to provide early warnings.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section G: Creating",
+      "directions": "",
+      "questions": [
+        {
+          "id": "2168766e-2a7f-4d75-b66f-c29e18b662d8",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Design a Weather Safety Campaign: You are tasked with creating a safety guide for a coastal community expecting a cyclone. Create a list of five key actions or warnings based on IMD protocols to ensure the safety of fishermen and residents.",
+          "marks": 5,
+          "responseLength": "6–8 sentences arranged in a clear numbered list",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "0d5bd3f9-17ca-4135-b202-5db4b8807a12",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Create a ‘Weekly Weather Diary’ Structure: Design a logbook page that a student can use to track the five elements of weather daily. Include columns for instruments used and spaces for calculating weekly statistics like mean temperature.",
+          "marks": 5,
+          "responseLength": "6–8 sentences describing the structure",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-26T10:54:01.244Z",
+  "status": "live",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 180,
+    "answerKeyMode": "manual",
+    "answerKeyReleased": false
+  },
+  "publishedOn": "2026-06-26T10:54:20.779Z"
+}
