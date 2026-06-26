@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-06-26T12:14:28.456Z",
+  "generatedOn": "2026-06-26T16:44:34.957Z",
   "assessments": [
+    {
+      "id": "c8b40101-bd8b-4c1d-bbb8-fe35c2da0438",
+      "slug": "ncert-chapter-1-large-numbers-around-us",
+      "title": "NCERT Chapter 1 – Large Numbers Around Us",
+      "subject": "",
+      "className": "",
+      "chapterName": "Large Numbers Around UsSubject: MathematicsClass: VIIDuration: 180 MinutesMaximum Marks: 80",
+      "type": "written",
+      "duration": "",
+      "maximumMarks": "",
+      "status": "live",
+      "publishedOn": "2026-06-26T16:44:32.103Z"
+    },
     {
       "id": "0e946775-6e5c-4c1c-8e43-d495a4cdb218",
       "slug": "ch1-large-numbers-around-us-quiz",
@@ -14,19 +27,6 @@
       "maximumMarks": 1896,
       "status": "live",
       "publishedOn": "2026-06-26T12:14:15.078Z"
-    },
-    {
-      "id": "f2cb6e87-02c4-4f50-ab5d-e549cfa23c25",
-      "slug": "ncert-chapter-1-large-numbers-around-us",
-      "title": "NCERT Chapter 1 – Large Numbers Around Us",
-      "subject": "Mathematics",
-      "className": "VII",
-      "chapterName": "Large Numbers Around UsSubject: MathematicsClass: VIIDuration: 180 MinutesMaximum Marks: 80",
-      "type": "written",
-      "duration": "180 minutes",
-      "maximumMarks": "80",
-      "status": "live",
-      "publishedOn": "2026-06-26T11:48:24.040Z"
     },
     {
       "id": "bb3948b3-8e54-4e39-8591-8875dbbc390b",
