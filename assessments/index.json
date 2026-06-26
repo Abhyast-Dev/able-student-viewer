@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-06-26T10:54:32.098Z",
+  "generatedOn": "2026-06-26T11:02:57.439Z",
   "assessments": [
+    {
+      "id": "bb3948b3-8e54-4e39-8591-8875dbbc390b",
+      "slug": "ch2-understanding-the-weather-quiz-subject",
+      "title": "Ch2 -  Understanding the Weather Quiz Subject",
+      "subject": "",
+      "className": "",
+      "chapterName": "",
+      "type": "quiz",
+      "duration": "",
+      "maximumMarks": 18,
+      "status": "live",
+      "publishedOn": "2026-06-26T11:02:50.291Z"
+    },
     {
       "id": "9e5ae5bb-e34e-422d-826f-34f6fede7626",
       "slug": "ncert-ch-2-understanding-the-weather",
