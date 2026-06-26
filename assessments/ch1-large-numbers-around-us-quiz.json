@@ -8,7 +8,7 @@
   "subject": "Mathematics",
   "className": "VII",
   "duration": "20 Minutes",
-  "maximumMarks": 1896,
+  "maximumMarks": 20,
   "questions": [
     {
       "id": "871d416c-6ccf-43fa-81aa-7e999728a245",
@@ -16,12 +16,12 @@
       "type": "mcq",
       "text": "The smallest 6-digit number is?",
       "options": [
-        "99",
-        "999",
-        "10",
-        "000"
+        "100000",
+        "999999",
+        "111111",
+        "10000"
       ],
-      "correctAnswer": "1",
+      "correctAnswer": "100000",
       "marks": 1
     },
     {
@@ -48,13 +48,13 @@
       "type": "mcq",
       "text": "Which number is written correctly in the Indian place value system?",
       "options": [
-        "123",
-        "4567",
-        "12",
-        "34"
+        "1,23,456",
+        "12,34,56",
+        "1,234,56",
+        "123,456"
       ],
-      "correctAnswer": "567",
-      "marks": 1234
+      "correctAnswer": "1,23,456",
+      "marks": 1
     },
     {
       "id": "bd068b6c-fb48-49e6-b8ae-796eaa394a23",
@@ -80,63 +80,53 @@
       "type": "mcq",
       "text": "Which of the following is the largest number?",
       "options": [
-        "9",
-        "87",
-        "65",
-        "432"
+        "98765",
+        "98756",
+        "97865",
+        "98675"
       ],
-      "correctAnswer": "9",
-      "marks": 78
+      "correctAnswer": "98765",
+      "marks": 1
     },
     {
       "id": "fb9cce4c-a0cf-4d08-8be4-dfb7e9a0e2e8",
       "number": 8,
-      "type": "00",
-      "text": "The number immediately before 10",
-      "options": [
-        "000 is ____.",
-        "fill_blank"
-      ],
-      "correctAnswer": "",
+      "type": "fill_blank",
+      "text": "The number immediately before 1,00,000 is ____.",
+      "options": [],
+      "correctAnswer": "99999",
       "marks": 1
     },
     {
       "id": "d9e0a104-c329-492b-94a2-a35464746870",
       "number": 9,
-      "type": "99",
-      "text": "9",
-      "options": [
-        "999 is the greatest 7-digit number.",
-        "true_false"
-      ],
-      "correctAnswer": "",
+      "type": "true_false",
+      "text": "99,99,999 is the greatest 7-digit number.",
+      "options": [],
+      "correctAnswer": "TRUE",
       "marks": 1
     },
     {
       "id": "a2d9c26b-89a7-410d-96eb-db2f399b24cc",
       "number": 10,
       "type": "mcq",
-      "text": "The Indian place value system places commas in which pattern?",
+      "text": "The Indian place value system places commas in which pattern from right to left?",
       "options": [
-        "3-3-3",
-        "2-2-2",
-        "3-2-2-2",
-        "4-3-2"
+        "After 3 digits, then every 3 digits",
+        "After 3 digits, then every 2 digits",
+        "After 2 digits, then every 2 digits",
+        "After 4 digits, then every 3 digits"
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "After 3 digits, then every 2 digits",
       "marks": 1
     },
     {
       "id": "9f5edb5d-734c-45f0-915d-bf614634f533",
       "number": 11,
-      "type": "00",
-      "text": "The number 1",
-      "options": [
-        "00",
-        "000 is called one ____.",
-        "fill_blank"
-      ],
-      "correctAnswer": "",
+      "type": "fill_blank",
+      "text": "The number 1,00,000 is called one ____.",
+      "options": [],
+      "correctAnswer": "lakh",
       "marks": 1
     },
     {
@@ -159,19 +149,16 @@
         "1000 lakh",
         "1 lakh"
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "100 lakh",
       "marks": 1
     },
     {
       "id": "b1600657-f168-4d24-b406-c8add056111a",
       "number": 14,
-      "type": "72",
-      "text": "The place value of 7 in 5",
-      "options": [
-        "346 is ____.",
-        "fill_blank"
-      ],
-      "correctAnswer": "",
+      "type": "fill_blank",
+      "text": "The place value of 7 in 57,34,246 is ____.",
+      "options": [],
+      "correctAnswer": "700000",
       "marks": 1
     },
     {
@@ -194,7 +181,7 @@
         "Roman System",
         "Binary System"
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "International System",
       "marks": 1
     },
     {
@@ -209,13 +196,10 @@
     {
       "id": "95327e54-5756-42b4-81ae-84c5d951f421",
       "number": 18,
-      "type": "000",
-      "text": "The international name for 1",
-      "options": [
-        "000 is ____.",
-        "fill_blank"
-      ],
-      "correctAnswer": "",
+      "type": "fill_blank",
+      "text": "The international name for 1,000,000 is one ____.",
+      "options": [],
+      "correctAnswer": "million",
       "marks": 1
     },
     {
@@ -224,13 +208,13 @@
       "type": "mcq",
       "text": "Which number is correctly written in the International System?",
       "options": [
-        "1",
-        "234",
-        "567",
-        "12"
+        "1,234,567",
+        "12,34,567",
+        "1,23,45,67",
+        "1234,567"
       ],
-      "correctAnswer": "34",
-      "marks": 567
+      "correctAnswer": "1,234,567",
+      "marks": 1
     },
     {
       "id": "fdb8391e-de20-4b6c-8e54-b6ee8baceec3",
