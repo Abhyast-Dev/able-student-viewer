@@ -1,5 +1,5 @@
 {
-  "id": "f2cb6e87-02c4-4f50-ab5d-e549cfa23c25",
+  "id": "7b8d4c1f-4bb2-4113-91cf-bd85623cf582",
   "slug": "ncert-chapter-1-large-numbers-around-us",
   "type": "written",
   "purpose": "Test",
@@ -8,7 +8,7 @@
   "subject": "Mathematics",
   "className": "VII",
   "duration": "180 minutes",
-  "maximumMarks": "80",
+  "maximumMarks": 80,
   "instructions": [
     "Write all answers in your answer booklet.",
     "All questions are compulsory.",
@@ -19,10 +19,10 @@
   "sections": [
     {
       "title": "Section A: Remembering",
-      "directions": "15 × 1 = 15 Marks",
+      "directions": "",
       "questions": [
         {
-          "id": "2ff35e81-320c-4a86-a277-dbb721642a40",
+          "id": "a1b2c3d4-e5f6-7a8b-9c0d-e1f2a3b4c5d6",
           "number": 1,
           "type": "mcq",
           "text": "The smallest 6-digit number is:",
@@ -30,10 +30,15 @@
           "responseLength": "",
           "answerKey": "",
           "teacherNotes": "",
-          "options": ["99,999", "10,000", "1,00,000", "9,99,999"]
+          "options": [
+            "99,999",
+            "10,000",
+            "1,00,000",
+            "9,99,999"
+          ]
         },
         {
-          "id": "fa44e73b-a5be-44f0-befa-de141bb31bff",
+          "id": "b2c3d4e5-f67a-8b9c-0d1e-2f3a4b5c6d7e",
           "number": 2,
           "type": "mcq",
           "text": "How many zeroes are there in one crore?",
@@ -41,10 +46,15 @@
           "responseLength": "",
           "answerKey": "",
           "teacherNotes": "",
-          "options": ["5", "6", "7", "8"]
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ]
         },
         {
-          "id": "e9dd0777-1038-412f-b6c4-324e2c182636",
+          "id": "c3d4e5f6-7a8b-9c0d-e1f2-3a4b5c6d7e8f",
           "number": 3,
           "type": "mcq",
           "text": "Which number is written correctly in the Indian place value system?",
@@ -52,10 +62,15 @@
           "responseLength": "",
           "answerKey": "",
           "teacherNotes": "",
-          "options": ["123,4567", "12,34,567", "1234,567", "1,234,567"]
+          "options": [
+            "123,4567",
+            "12,34,567",
+            "1234,567",
+            "1,234,567"
+          ]
         },
         {
-          "id": "68795387-2c30-4ba2-8e03-e0747ce8eed7",
+          "id": "d4e5f67a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
           "number": 4,
           "type": "mcq",
           "text": "One million is equal to:",
@@ -63,10 +78,15 @@
           "responseLength": "",
           "answerKey": "",
           "teacherNotes": "",
-          "options": ["One lakh", "Ten lakh", "One crore", "Hundred crore"]
+          "options": [
+            "One lakh",
+            "Ten lakh",
+            "One crore",
+            "Hundred crore"
+          ]
         },
         {
-          "id": "53123968-3ee7-4242-87f5-cd5496605901",
+          "id": "e5f67a8b-9c0d-e1f2-3a4b-5c6d7e8f9a0b",
           "number": 5,
           "type": "mcq",
           "text": "Which number is the largest?",
@@ -74,10 +94,15 @@
           "responseLength": "",
           "answerKey": "",
           "teacherNotes": "",
-          "options": ["9,87,65,432", "9,78,65,432", "8,97,65,432", "9,87,56,432"]
+          "options": [
+            "9,87,65,432",
+            "9,78,65,432",
+            "8,97,65,432",
+            "9,87,56,432"
+          ]
         },
         {
-          "id": "bc55fdfb-bd32-4374-a709-01927b6f332b",
+          "id": "f67a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
           "number": 6,
           "type": "fill_blank",
           "text": "One lakh = ________ thousand.",
@@ -87,7 +112,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "30eeeb09-823d-49a5-a431-5559351ac3d7",
+          "id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
           "number": 7,
           "type": "fill_blank",
           "text": "In the Indian system, commas are placed in the pattern ________.",
@@ -97,7 +122,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "a34b6e6a-1208-4f4c-b285-8ce4ea051e9d",
+          "id": "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
           "number": 8,
           "type": "fill_blank",
           "text": "The number 1,00,00,000 is called one ________.",
@@ -107,17 +132,17 @@
           "teacherNotes": ""
         },
         {
-          "id": "a024b03d-516f-4111-8bd1-4e5a4d90e451",
+          "id": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
           "number": 9,
           "type": "fill_blank",
-          "text": "The number immediately before 10,00,000 is ________.",
+          "text": "The number immediately before 10,0,000 is ________.",
           "marks": 1,
           "responseLength": "",
           "answerKey": "",
           "teacherNotes": ""
         },
         {
-          "id": "771a5115-79aa-413f-9d23-015dd84e304c",
+          "id": "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
           "number": 10,
           "type": "true_false",
           "text": "One crore is 100 times one lakh.",
@@ -127,7 +152,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "313f73ed-53e0-4f58-b17c-6055a71620b7",
+          "id": "1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6b",
           "number": 11,
           "type": "true_false",
           "text": "Every 6-digit number is greater than every 5-digit number.",
@@ -137,7 +162,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "f606cbfd-6900-4d79-b16d-5fa270262e2e",
+          "id": "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c",
           "number": 12,
           "type": "true_false",
           "text": "9,99,999 is the greatest 7-digit number.",
@@ -147,7 +172,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "89c678e2-129f-48ac-93ee-b38a09fc1bb5",
+          "id": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
           "number": 13,
           "type": "short_answer",
           "text": "What is the place value of 7 in 5,72,346?",
@@ -157,7 +182,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "a1e9e624-d182-49cb-a955-b0b5437d3640",
+          "id": "4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e",
           "number": 14,
           "type": "short_answer",
           "text": "Write the international name for 1,000,000.",
@@ -167,7 +192,7 @@
           "teacherNotes": ""
         },
         {
-          "id": "ab1840b6-5d37-42eb-a98e-18cd43d1144e",
+          "id": "5b6c7d8e-9f0a-1b2c-3d4e-5f6a7b8c9d0e",
           "number": 15,
           "type": "short_answer",
           "text": "Write one real-life example where large numbers are used.",
@@ -177,10 +202,285 @@
           "teacherNotes": ""
         }
       ]
+    },
+    {
+      "title": "Section B: Assertion and Reasoning",
+      "directions": "Directions (Q16–Q20): For the following questions, two statements are given: one labelled Assertion (A) and the other labelled Reason (R). Select the correct answer from the codes (a), (b), (c), and (d) as given below:\n(a) Both A and R are true, and R is the correct explanation of A.\n(b) Both A and R are true, but R is NOT the correct explanation of A.\n(c) A is true, but R is false.\n(d) A is false, but R is true.",
+      "questions": [
+        {
+          "id": "6c7d8e9f-0a1b-2c3d-4e5f-6a7b8c9d0e1f",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Assertion (A): 99,999 is one less than one lakh. Reason (R): One lakh equals 1,00,000.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "7d8e9f0a-1b2c-3d4e-5f6a-7b8c9d0e1f2a",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Assertion (A): Commas help us read large numbers easily. Reason (R): Commas change the value of the number.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "8e9f0a1b-2c3d-4e5f-6a7b-8c9d0e1f2a3b",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Assertion (A): 5 million is equal to 50 lakh. Reason (R): One million equals ten lakh.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "9f0a1b2c-3d4e-5f6a-7b8c-9d0e1f2a3b4c",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Assertion (A): Approximate values are useful in everyday life. Reason (R): Exact values are always necessary.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+          "number": 5,
+          "type": "long_answer",
+          "text": "Assertion (A): Multiplying a 2-digit number by another 2-digit number can produce a 4-digit number. Reason (R): The largest product of two 2-digit numbers is 9801.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section C: Understanding",
+      "directions": "",
+      "questions": [
+        {
+          "id": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Explain why commas are used while writing large numbers.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Differentiate between the Indian and International place value systems.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "3c4d5e6f-7a8b-9c0d-e1f2-3a4b5c6d7e8f",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Explain why one lakh is considered a large number using one example from daily life.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Describe how place value helps us compare two large numbers.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "5e6f7a8b-9c0d-e1f2-3a4b-5c6d7e8f9a0b",
+          "number": 5,
+          "type": "long_answer",
+          "text": "Explain the difference between an exact value and an approximate value.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+          "number": 6,
+          "type": "long_answer",
+          "text": "Why do newspapers often use rounded numbers instead of exact numbers?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+          "number": 7,
+          "type": "long_answer",
+          "text": "Explain how rounding helps in estimating large numbers.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+          "number": 8,
+          "type": "long_answer",
+          "text": "Why is it useful to compare large quantities with familiar objects?",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+          "number": 9,
+          "type": "long_answer",
+          "text": "Explain one shortcut used for multiplying numbers by 25, 50 or 125.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+          "number": 10,
+          "type": "long_answer",
+          "text": "Why is understanding place value important before performing calculations?",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section D: Applying",
+      "directions": "",
+      "questions": [
+        {
+          "id": "1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6b",
+          "number": 1,
+          "type": "long_answer",
+          "text": "The population of a town increased from 98,750 to 1,12,500. Calculate the increase and state whether the new population is more or less than one lakh.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c",
+          "number": 2,
+          "type": "long_answer",
+          "text": "A student travelled 245 km every day for 365 days. Estimate the total distance travelled using appropriate rounding. Explain your estimation.",
+          "marks": 3,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Arrange the following numbers in ascending order and explain your method:\n8,75,43,210\n8,57,34,210\n8,75,34,210\n8,57,43,210",
+          "marks": 3,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section E: Analyzing",
+      "directions": "",
+      "questions": [
+        {
+          "id": "4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Complete the following breakdown for the numbers: 4,05,06,789; 1,20,45,600; and 9,87,65,432. For each number, map out its complete structural title profile under both the Indian Number System and the International Number System. Conclude your layout by analyzing the exact structural similarities and operational divergence rules between the punctuation partitions of both configuration domains.",
+          "marks": 5,
+          "responseLength": "Clear categorized breakdowns accompanied by a detailed evaluation statement",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
+          "number": 2,
+          "type": "long_answer",
+          "text": "A city's recorded population metrics were listed as follows:\n2010 – 76,450\n2015 – 89,900\n2020 – 1,08,600\n2025 – 1,27,450\n\nAnalyze this data matrix trajectory to calculate and determine:\n1. During which specific five-year benchmark interval segment did the absolute greatest numeric expansion happen?\n2. What is the total estimated overall scaling variance parameter delta calculation spanning across the entirety of the tracked monitoring timeframe?",
+          "marks": 5,
+          "responseLength": "Multi-part calculation and analysis breakdown",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section F: Evaluating",
+      "directions": "",
+      "questions": [
+        {
+          "id": "6d7e8f9a-0b1c-2d3e-4f5a-6b7c8d9e0f1a",
+          "number": 1,
+          "type": "long_answer",
+          "text": "A major print newspaper outlet documents the public attendance metrics tracking profile at a highly populated outdoor municipal festival arena as being \"about one lakh individuals.\" Evaluate with strict technical parameters whether relying explicitly on a rounded estimation metric serves an appropriate utility target versus deploying an absolute precise unit count index. Defend your structural baseline validation profile arguments with concrete system rationale criteria statements.",
+          "marks": 5,
+          "responseLength": "5–6 sentences"
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Two standard primary analytics metrics frameworks compare numeric assets using distinctly variant methodologies. Framework A evaluates records criteria profile logic checking uniquely by processing total structural field digit-lengths. Framework B runs character parsing tracking structural metrics checks step-by-step from structural leftmost high-value positions directly rightward toward minimum digits spaces. Critically evaluate which processing architecture system shows an inherently absolute verification stability paradigm over edge-case collisions, and substantiate your architecture classification choice with explicit sample test profiles.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section G: Creating",
+      "directions": "",
+      "questions": [
+        {
+          "id": "8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Design a complete conceptual blueprints schema framework mapping data layout positions for a structural 'Large Numbers Educational Poster Module' optimized for consumption by entry-level primary class configurations. Your structured technical layout blueprint asset checklist must distinctly specify presentation formatting containers accommodating calculations examples, distinct visual partition columns for an Indian Place Value Grid System, an International Data Distribution Matrix Grid System, definitions spaces for 'One Lakh' and 'One Crore' variables tracking units, one concrete field execution situational model tracking transactional scales, and a specialized numerical data processing curiosity fact statement.",
+          "marks": 6,
+          "responseLength": "Comprehensive architectural layout overview structure",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Formulate a custom specialized set of exactly five authentic non-duplicated original descriptive real-world scenario evaluation word problems processing extensive numerical value scales across a variety of transactional domains (such as dynamic population density scaling metrics, sovereign currency investment parameters, astronomical deep space distance telemetry systems, seasonal sports spectator matrix trends, or macro environmental metrics targets). Every individual situational statement must explicitly require the candidate to deploy operational calculations processing either strategic estimation rounding parameters, place value alignment matrices, or direct high-scale numeric sorting validations.",
+          "marks": 6,
+          "responseLength": "Five comprehensive original structured scenario word questions",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
     }
   ],
-  "createdAt": "2026-06-26T11:47:32.446Z",
-  "status": "live",
+  "createdAt": "2026-06-26T16:32:00.000Z",
   "submission": {
     "whatsapp": "919910686080",
     "drive": ""
@@ -189,6 +489,5 @@
     "durationMinutes": 180,
     "answerKeyMode": "manual",
     "answerKeyReleased": false
-  },
-  "publishedOn": "2026-06-26T11:48:24.040Z"
+  }
 }
