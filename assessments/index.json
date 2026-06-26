@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-06-26T11:48:32.428Z",
+  "generatedOn": "2026-06-26T12:14:28.456Z",
   "assessments": [
+    {
+      "id": "0e946775-6e5c-4c1c-8e43-d495a4cdb218",
+      "slug": "ch1-large-numbers-around-us-quiz",
+      "title": "Ch1 - Large Numbers Around Us Quiz",
+      "subject": "Mathematics",
+      "className": "VII",
+      "chapterName": "Large Numbers Around Us",
+      "type": "quiz",
+      "duration": "20 Minutes",
+      "maximumMarks": 1896,
+      "status": "live",
+      "publishedOn": "2026-06-26T12:14:15.078Z"
+    },
     {
       "id": "f2cb6e87-02c4-4f50-ab5d-e549cfa23c25",
       "slug": "ncert-chapter-1-large-numbers-around-us",
