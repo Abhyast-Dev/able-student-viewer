@@ -1,13 +1,13 @@
 {
   "id": "bb3948b3-8e54-4e39-8591-8875dbbc390b",
-  "slug": "ch2-understanding-the-weather-quiz-subject",
+  "slug": "understanding-the-weather-quiz",
   "type": "quiz",
   "purpose": "Test",
-  "title": "Ch2 -  Understanding the Weather Quiz Subject",
-  "chapterName": "",
-  "subject": "",
-  "className": "",
-  "duration": "",
+  "title": "Understanding the Weather Quiz",
+  "chapterName": "Understanding the Weather",
+  "subject": "Social Science",
+  "className": "VII",
+  "duration": "15 minutes",
   "maximumMarks": 18,
   "questions": [
     {
