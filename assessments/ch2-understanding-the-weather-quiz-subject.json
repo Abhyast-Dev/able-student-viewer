@@ -1,0 +1,228 @@
+{
+  "id": "bb3948b3-8e54-4e39-8591-8875dbbc390b",
+  "slug": "ch2-understanding-the-weather-quiz-subject",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "Ch2 -  Understanding the Weather Quiz Subject",
+  "chapterName": "",
+  "subject": "",
+  "className": "",
+  "duration": "",
+  "maximumMarks": 18,
+  "questions": [
+    {
+      "id": "553f88b2-f679-437b-a666-5ef35e02ea18",
+      "number": 1,
+      "type": "mcq",
+      "text": "Which layer of the atmosphere is closest to Earth and is where almost all weather phenomena take place?",
+      "options": [
+        "Stratosphere",
+        "Troposphere",
+        "Exosphere",
+        "Mesosphere"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "94d4abd2-8683-453d-a49c-5550411af3a8",
+      "number": 2,
+      "type": "fill_blank",
+      "text": "The amount of water vapour present in the air is known as ____.",
+      "options": [],
+      "correctAnswer": "humidity",
+      "marks": 1
+    },
+    {
+      "id": "edfb1f09-3daf-4311-b281-19ebf142ba0d",
+      "number": 3,
+      "type": "fill_blank",
+      "text": "The unit of measurement generally displayed on a barometer is the ____.",
+      "options": [],
+      "correctAnswer": "millibar",
+      "marks": 1
+    },
+    {
+      "id": "f45f3f2b-a206-4d86-9c12-32ff6e73b150",
+      "number": 4,
+      "type": "true_false",
+      "text": "Atmospheric pressure increases as you climb higher up into the mountains.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "a1f8d0ff-aaea-4e30-a0d3-82cf56121a22",
+      "number": 5,
+      "type": "fill_blank",
+      "text": "The maximum temperature minus the minimum temperature during a 24-hour period is called the ____ of temperature.",
+      "options": [],
+      "correctAnswer": "range",
+      "marks": 1
+    },
+    {
+      "id": "ab39ef2c-e97e-4852-b21b-fe1c5c16d278",
+      "number": 6,
+      "type": "mcq",
+      "text": "What is the term for small hard balls of ice that fall from the sky like rain?",
+      "options": [
+        "Sleet",
+        "Hail",
+        "Snow",
+        "Dew"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "febdef67-0ac4-4f0d-bbac-96b5447def9a",
+      "number": 7,
+      "type": "mcq",
+      "text": "Humid weather usually falls between which range of relative humidity?",
+      "options": [
+        "0% to 20%",
+        "20% to 40%",
+        "40% to 60%",
+        "60% to 80%"
+      ],
+      "correctAnswer": "D",
+      "marks": 1
+    },
+    {
+      "id": "dab9d8fe-9dee-458b-ba69-560464a07525",
+      "number": 8,
+      "type": "true_false",
+      "text": "A wind vane is used to measure the speed of the wind.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "2aa52246-114c-476e-bd79-2d6b6bb8fab4",
+      "number": 9,
+      "type": "fill_blank",
+      "text": "The systematic study of weather and its evolution is called ____.",
+      "options": [],
+      "correctAnswer": "meteorology",
+      "marks": 1
+    },
+    {
+      "id": "1e346746-eec3-4a3c-9c05-9548d1a249ba",
+      "number": 10,
+      "type": "mcq",
+      "text": "Which of the following natural clues indicates an expectation of heavy rain?",
+      "options": [
+        "Squirrels gathering nuts",
+        "Ants shifting eggs to higher ground",
+        "Pine cones opening",
+        "Birds flying high"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "f42dae0e-3081-40db-8c4e-89b78f53c626",
+      "number": 11,
+      "type": "mcq",
+      "text": "Normal atmospheric pressure at the sea coast is approximately how many millibars (mb)?",
+      "options": [
+        "990 mb",
+        "1000 mb",
+        "1013 mb",
+        "1050 mb"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "297551a7-678a-4b74-8019-fb7b71a5fe78",
+      "number": 12,
+      "type": "true_false",
+      "text": "An Automated Weather Station (AWS) provides weather information without the need for human intervention.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "42c6fb68-7b77-4eea-8b12-6da318ec8a23",
+      "number": 13,
+      "type": "fill_blank",
+      "text": "Humidity of the air is measured using an instrument called a ____.",
+      "options": [],
+      "correctAnswer": "hygrometer",
+      "marks": 1
+    },
+    {
+      "id": "58d33bbf-2be8-4049-a884-6b3155c6d039",
+      "number": 14,
+      "type": "mcq",
+      "text": "What is the wind vane on a tarmac called that gives pilots an indication of wind direction?",
+      "options": [
+        "Anemometer",
+        "Wind sock",
+        "Rain gauge",
+        "Thermometer"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "5b9f2077-da77-4853-930f-cf3e2cf4fdbe",
+      "number": 15,
+      "type": "mcq",
+      "text": "A pressure reading below which value indicates a depression or low-pressure system?",
+      "options": [
+        "1013 mb",
+        "1005 mb",
+        "1000 mb",
+        "1020 mb"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "ac5abc89-d2c3-46a4-bb63-f7e9d96ab9bb",
+      "number": 16,
+      "type": "true_false",
+      "text": "Rain gauges should be placed in an open area away from objects that might obstruct rain.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "407844b3-012c-43d9-82b0-ca2d94e9e6d7",
+      "number": 17,
+      "type": "fill_blank",
+      "text": "Wind is the movement of air from areas of high pressure to areas of ____ pressure.",
+      "options": [],
+      "correctAnswer": "low",
+      "marks": 1
+    },
+    {
+      "id": "5e851267-8dc7-41f3-8acb-daa19cc75c6c",
+      "number": 18,
+      "type": "mcq",
+      "text": "What does the IMD motto ādityāt jāyate vriṣhti mean?",
+      "options": [
+        "The wind brings life",
+        "From the sun arises rain",
+        "Water is the ultimate treasure",
+        "Nature provides for all"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-06-26T11:02:31.374Z",
+  "status": "live",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 40,
+    "showCorrectAnswersAfterSubmit": true
+  },
+  "publishedOn": "2026-06-26T11:02:50.291Z"
+}
