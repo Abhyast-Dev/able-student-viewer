@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T10:33:04.211Z",
+  "generatedOn": "2026-08-01T10:58:00.950Z",
   "assessments": [
+    {
+      "id": "cd8c3ca5-5cea-456d-8c51-32b7ec793a8b",
+      "slug": "we-distribute-yet-things-multiply-quiz",
+      "title": "We Distribute Yet Things Multiply Quiz",
+      "subject": "Mathematics",
+      "className": "VIII",
+      "chapterName": "We Distribute Yet Things Multiply",
+      "type": "quiz",
+      "duration": "20 Minutes",
+      "maximumMarks": 15,
+      "status": "live",
+      "publishedOn": "2026-08-01T10:57:58.008Z"
+    },
     {
       "id": "41498fe3-9f13-40e0-b12b-9accf1b6bc0d",
       "slug": "comprehensive-mathematics-assessment",
@@ -14,19 +27,6 @@
       "maximumMarks": "80",
       "status": "live",
       "publishedOn": "2026-08-01T10:33:01.346Z"
-    },
-    {
-      "id": "c9ffbfe6-b5ca-477f-8984-7b38ba5affbd",
-      "slug": "we-distribute-yet-things-multiply-quiz",
-      "title": "We Distribute Yet Things Multiply Quiz",
-      "subject": "Mathematics",
-      "className": "VIII",
-      "chapterName": "We Distribute Yet Things Multiply",
-      "type": "quiz",
-      "duration": "20 Minutes",
-      "maximumMarks": 15,
-      "status": "live",
-      "publishedOn": "2026-08-01T08:46:15.637Z"
     },
     {
       "id": "66b468bc-950d-49f9-9a16-b6f5ca4676cd",
