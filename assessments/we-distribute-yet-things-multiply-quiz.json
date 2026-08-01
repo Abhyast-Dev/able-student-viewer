@@ -1,0 +1,186 @@
+{
+  "id": "c9ffbfe6-b5ca-477f-8984-7b38ba5affbd",
+  "slug": "we-distribute-yet-things-multiply-quiz",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "We Distribute Yet Things Multiply Quiz",
+  "chapterName": "We Distribute Yet Things Multiply",
+  "subject": "Mathematics",
+  "className": "VIII",
+  "duration": "20 Minutes",
+  "maximumMarks": 15,
+  "questions": [
+    {
+      "id": "3bd08864-1260-43b0-9d8b-c80b60af67eb",
+      "number": 1,
+      "type": "fill_blank",
+      "text": "The property a(b + c) = ab + ac is known as the ____ property of multiplication over addition.",
+      "options": [],
+      "correctAnswer": "distributive",
+      "marks": 1
+    },
+    {
+      "id": "c1e82ec8-9acb-4c54-af85-0733e85b321b",
+      "number": 2,
+      "type": "mcq",
+      "text": "Which of the following is the correct algebraic expansion for (a+b)^2?",
+      "options": [
+        "a^2 + b^2",
+        "a^2 - 2ab + b^2",
+        "a^2 + 2ab + b^2",
+        "a^2 + ab + b^2"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "61c05189-46af-4fe6-b8cc-81aee36e81c1",
+      "number": 3,
+      "type": "true_false",
+      "text": "The expansion of (a-b)^2 is equal to a^2 + b^2 + 2ab.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "a3728c60-f0e6-47fe-9332-6c11a1e9571a",
+      "number": 4,
+      "type": "fill_blank",
+      "text": "Mathematical statements that express the equality of two algebraic expressions for all values are called ____.",
+      "options": [],
+      "correctAnswer": "identities",
+      "marks": 1
+    },
+    {
+      "id": "98e30c90-8bec-4c51-bbb7-fb3e6f6917f6",
+      "number": 5,
+      "type": "mcq",
+      "text": "What is the expanded form of (a+b)(a-b)?",
+      "options": [
+        "a^2 - b^2",
+        "a^2 + b^2",
+        "a^2 - 2ab + b^2",
+        "a^2 + 2ab - b^2"
+      ],
+      "correctAnswer": "A",
+      "marks": 1
+    },
+    {
+      "id": "c5a225d8-4b37-4388-87e8-40d728f81c76",
+      "number": 6,
+      "type": "fill_blank",
+      "text": "Brahmagupta referred to the use of the distributive property for fast multiplication in parts as ____.",
+      "options": [],
+      "correctAnswer": "khanda-gunanam",
+      "marks": 1
+    },
+    {
+      "id": "8418ec8d-a6c5-44d1-9b46-ce4d11893d58",
+      "number": 7,
+      "type": "fill_blank",
+      "text": "In algebraic expressions terms having the exact same letter-numbers are known as ____ terms.",
+      "options": [],
+      "correctAnswer": "like",
+      "marks": 1
+    },
+    {
+      "id": "e1d18a4e-6080-46b9-98ab-6d161796d161",
+      "number": 8,
+      "type": "true_false",
+      "text": "The equation 2(a^2 + b^2) = (a + b)^2 + (a - b)^2 is a true mathematical identity.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "837820a9-9f88-43b6-9f7a-dce9fc4553fc",
+      "number": 9,
+      "type": "mcq",
+      "text": "To compute 98 x 102 easily using an identity we can express the numbers as:",
+      "options": [
+        "(100 - 2)(100 + 2)",
+        "(90 + 8)(100 + 2)",
+        "(100 - 2)^2",
+        "90 x 100 + 8 x 2"
+      ],
+      "correctAnswer": "A",
+      "marks": 1
+    },
+    {
+      "id": "fa219855-bca6-4550-9cb5-55f82687161e",
+      "number": 10,
+      "type": "true_false",
+      "text": "The product ab increases by a + b + 1 when each of a and b are increased by 1.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "88e1f050-e47f-4c64-926e-4231709343cc",
+      "number": 11,
+      "type": "mcq",
+      "text": "Which ancient Indian mathematician explicitly stated the distributive property in Brahmasphutasiddhanta?",
+      "options": [
+        "Aryabhata",
+        "Bhaskaracharya",
+        "Brahmagupta",
+        "Sridharacharya"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "51655cb1-56cb-44a9-a9c2-d239e01b2b15",
+      "number": 12,
+      "type": "true_false",
+      "text": "Sridharacharya gave an interesting method to compute squares using the modified identity a^2 = (a+b)(a-b) + b^2.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "95e8086d-3bca-43fb-a6bc-fd3094ac3729",
+      "number": 13,
+      "type": "fill_blank",
+      "text": "When expanding (a + u)(b - v) the result is ab + ub - av - ____.",
+      "options": [],
+      "correctAnswer": "uv",
+      "marks": 1
+    },
+    {
+      "id": "97cecc94-bb73-4a8e-a165-9b57b9d48a5b",
+      "number": 14,
+      "type": "mcq",
+      "text": "Which identity can be geometrically visualized by taking a larger square and removing two rectangular regions?",
+      "options": [
+        "(a+b)^2",
+        "(a-b)^2",
+        "(a+b)(a-b)",
+        "None of the above"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "da51df9d-f1aa-4da5-8526-44b37e185b90",
+      "number": 15,
+      "type": "true_false",
+      "text": "The product of 3874 and 11 can be computed quickly using the distributive property by expressing 11 as (10 + 1).",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-08-01T08:45:58.282Z",
+  "status": "live",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 20,
+    "showCorrectAnswersAfterSubmit": true
+  },
+  "publishedOn": "2026-08-01T08:46:15.637Z"
+}
