@@ -14,7 +14,7 @@
       "id": "1dba65f8-3328-492f-b041-a54a0515b601",
       "number": 1,
       "type": "fill_blank",
-      "text": "The property a(b + c) = ab + ac is known as the ____ property of multiplication over addition.",
+      "text": "The property \\(a(b+c)=ab+ac\\) is known as the ____ property of multiplication over addition.",
       "options": [],
       "correctAnswer": "distributive",
       "marks": 1
@@ -23,12 +23,12 @@
       "id": "2e06ca70-7d8a-4c2e-b547-aa64d2d0c279",
       "number": 2,
       "type": "mcq",
-      "text": "Which of the following is the correct algebraic expansion for (a+b)^2?",
+      "text": "Which of the following is the correct algebraic expansion for \\((a+b)^2\\)?",
       "options": [
-        "a^2 + b^2",
-        "a^2 - 2ab + b^2",
-        "a^2 + 2ab + b^2",
-        "a^2 + ab + b^2"
+        "\\(a^2+b^2\\)",
+        "\\(a^2-2ab+b^2\\)",
+        "\\(a^2+2ab+b^2\\)",
+        "\\(a^2+ab+b^2\\)"
       ],
       "correctAnswer": "C",
       "marks": 1
@@ -37,7 +37,7 @@
       "id": "32fcad0b-90ad-49b3-b8aa-05122949946b",
       "number": 3,
       "type": "true_false",
-      "text": "The expansion of (a-b)^2 is equal to a^2 + b^2 + 2ab.",
+      "text": "The expansion of \\((a-b)^2\\) is equal to \\(a^2+b^2+2ab\\).",
       "options": [],
       "correctAnswer": "FALSE",
       "marks": 1
@@ -55,12 +55,12 @@
       "id": "6c3df331-7116-4282-985f-760b5599cb73",
       "number": 5,
       "type": "mcq",
-      "text": "What is the expanded form of (a+b)(a-b)?",
+      "text": "What is the expanded form of \\((a+b)(a-b)\\)?",
       "options": [
-        "a^2 - b^2",
-        "a^2 + b^2",
-        "a^2 - 2ab + b^2",
-        "a^2 + 2ab - b^2"
+        "\\(a^2-b^2\\)",
+        "\\(a^2+b^2\\)",
+        "\\(a^2-2ab+b^2\\)",
+        "\\(a^2+2ab-b^2\\)"
       ],
       "correctAnswer": "A",
       "marks": 1
@@ -78,7 +78,7 @@
       "id": "d0af97ac-fd71-4593-99d7-d4a2ebfcd646",
       "number": 7,
       "type": "fill_blank",
-      "text": "In algebraic expressions terms having the exact same letter-numbers are known as ____ terms.",
+      "text": "In algebraic expressions, terms having the exact same letter-numbers are known as ____ terms.",
       "options": [],
       "correctAnswer": "like",
       "marks": 1
@@ -87,7 +87,7 @@
       "id": "807f4792-429f-4f65-bbbd-500a37486b0c",
       "number": 8,
       "type": "true_false",
-      "text": "The equation 2(a^2 + b^2) = (a + b)^2 + (a - b)^2 is a true mathematical identity.",
+      "text": "The equation \\(2(a^2+b^2)=(a+b)^2+(a-b)^2\\) is a true mathematical identity.",
       "options": [],
       "correctAnswer": "TRUE",
       "marks": 1
@@ -96,12 +96,12 @@
       "id": "b702564b-c43b-4431-af0e-63046c7c93c5",
       "number": 9,
       "type": "mcq",
-      "text": "To compute 98 x 102 easily using an identity we can express the numbers as:",
+      "text": "To compute \\(98 \\times 102\\) easily using an identity, we can express the numbers as:",
       "options": [
-        "(100 - 2)(100 + 2)",
-        "(90 + 8)(100 + 2)",
-        "(100 - 2)^2",
-        "90 x 100 + 8 x 2"
+        "\\((100-2)(100+2)\\)",
+        "\\((90+8)(100+2)\\)",
+        "\\((100-2)^2\\)",
+        "\\(90 \\times 100+8 \\times 2\\)"
       ],
       "correctAnswer": "A",
       "marks": 1
@@ -110,7 +110,7 @@
       "id": "b0ed0700-fef1-4cb6-8f36-110f95f47e06",
       "number": 10,
       "type": "true_false",
-      "text": "The product ab increases by a + b + 1 when each of a and b are increased by 1.",
+      "text": "The product \\(ab\\) increases by \\(a+b+1\\) when each of \\(a\\) and \\(b\\) is increased by \\(1\\).",
       "options": [],
       "correctAnswer": "TRUE",
       "marks": 1
@@ -133,7 +133,7 @@
       "id": "a096c76f-40eb-4310-900f-7bae9f2dc987",
       "number": 12,
       "type": "true_false",
-      "text": "Sridharacharya gave an interesting method to compute squares using the modified identity a^2 = (a+b)(a-b) + b^2.",
+      "text": "Sridharacharya gave an interesting method to compute squares using the modified identity \\(a^2=(a+b)(a-b)+b^2\\).",
       "options": [],
       "correctAnswer": "TRUE",
       "marks": 1
@@ -142,7 +142,7 @@
       "id": "27c2c264-410c-4fe5-9fa0-cdf56e8351a9",
       "number": 13,
       "type": "fill_blank",
-      "text": "When expanding (a + u)(b - v) the result is ab + ub - av - ____.",
+      "text": "When expanding \\((a+u)(b-v)\\), the result is \\(ab+ub-av-\\) ____.",
       "options": [],
       "correctAnswer": "uv",
       "marks": 1
@@ -153,9 +153,9 @@
       "type": "mcq",
       "text": "Which identity can be geometrically visualized by taking a larger square and removing two rectangular regions?",
       "options": [
-        "(a+b)^2",
-        "(a-b)^2",
-        "(a+b)(a-b)",
+        "\\((a+b)^2\\)",
+        "\\((a-b)^2\\)",
+        "\\((a+b)(a-b)\\)",
         "None of the above"
       ],
       "correctAnswer": "B",
@@ -165,7 +165,7 @@
       "id": "35b9c110-f1a0-4515-aaf6-898e596d79de",
       "number": 15,
       "type": "true_false",
-      "text": "The product of 3874 and 11 can be computed quickly using the distributive property by expressing 11 as (10 + 1).",
+      "text": "The product of \\(3874\\) and \\(11\\) can be computed quickly using the distributive property by expressing \\(11\\) as \\((10+1)\\).",
       "options": [],
       "correctAnswer": "TRUE",
       "marks": 1
