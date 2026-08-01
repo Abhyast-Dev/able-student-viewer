@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T10:58:00.950Z",
+  "generatedOn": "2026-08-01T11:04:04.424Z",
   "assessments": [
+    {
+      "id": "e4a903ce-c4db-41ec-9503-d8bb6830b09f",
+      "slug": "power-play-quiz",
+      "title": "Power Play Quiz",
+      "subject": "Mathematics",
+      "className": "VIII",
+      "chapterName": "Power Play",
+      "type": "quiz",
+      "duration": "20 Minutes",
+      "maximumMarks": 15,
+      "status": "live",
+      "publishedOn": "2026-08-01T11:04:01.812Z"
+    },
     {
       "id": "cd8c3ca5-5cea-456d-8c51-32b7ec793a8b",
       "slug": "we-distribute-yet-things-multiply-quiz",
