@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T12:32:29.814Z",
+  "generatedOn": "2026-08-01T13:18:45.790Z",
   "assessments": [
+    {
+      "id": "7a168cd7-dc31-4ee3-878d-be10fd27baf9",
+      "slug": "comprehensive-political-science-assessment",
+      "title": "Comprehensive Political Science Assessment",
+      "subject": "Social Science",
+      "className": "VIII",
+      "chapterName": "Universal Franchise and India’s Electoral System",
+      "type": "written",
+      "duration": "180 Minutes",
+      "maximumMarks": "80",
+      "status": "live",
+      "publishedOn": "2026-08-01T13:18:43.037Z"
+    },
     {
       "id": "f352585d-6fa8-4bb2-a645-b4a0fba8c2dd",
       "slug": "the-rise-of-the-marathas-quiz",
