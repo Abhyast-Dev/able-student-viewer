@@ -1,0 +1,463 @@
+{
+  "id": "7a168cd7-dc31-4ee3-878d-be10fd27baf9",
+  "slug": "comprehensive-political-science-assessment",
+  "type": "written",
+  "purpose": "Test",
+  "title": "Comprehensive Political Science Assessment",
+  "chapterName": "Universal Franchise and India’s Electoral System",
+  "subject": "Social Science",
+  "className": "VIII",
+  "duration": "180 Minutes",
+  "maximumMarks": "80",
+  "instructions": [
+    "Write answers in your notebook.",
+    "All questions are compulsory.",
+    "Read the instructions for each section carefully before answering."
+  ],
+  "sections": [
+    {
+      "title": "Section A: Remembering (15 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "18cd0280-79ae-4dde-b12c-a865604d3ce2",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Multiple Choice What is the minimum age for a citizen to vote in India? a) 21 years b) 25 years c) 18 years d) 16 years",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "948d6cce-a30f-4cec-9533-05c66b26a3e2",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Multiple Choice Which electoral system is used in India for the Lok Sabha elections? a) Single Transferable Vote b) First-Past-the-Post c) Proportional Representation d) Electoral College",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e92c2950-d631-4cfc-b32e-388dd2c99902",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Multiple Choice Who nominates 12 distinguished members to the Rajya Sabha? a) The Prime Minister b) The Chief Election Commissioner c) The Vice President d) The President of India",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "b5dbee13-1a67-440d-b8fc-0e3d30868d93",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Multiple Choice Which independent constitutional body is responsible for conducting free and fair elections in India? a) The Supreme Court of India b) The Election Commission of India c) The Parliament d) The NITI Aayog",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e3f51805-c249-482f-a845-ce5be3d21b11",
+          "number": 5,
+          "type": "long_answer",
+          "text": "Multiple Choice Which option on the EVM allows voters to reject all contesting candidates if they are not satisfied with any of them? a) VVPAT b) NOTA c) MCC d) ERO",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "dc139043-275b-4b98-9ab8-9721c15351e2",
+          "number": 6,
+          "type": "long_answer",
+          "text": "Fill in the Blank A __________ is an area whose voters elect a representative to a legislative body.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "42cc51b8-887c-4d83-ba59-c645b6778e5d",
+          "number": 7,
+          "type": "long_answer",
+          "text": "Fill in the Blank To ensure free and fair elections, the Election Commission enforces the Model Code of __________.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "4e0e2144-340a-4efb-84a0-27f33144bcf5",
+          "number": 8,
+          "type": "long_answer",
+          "text": "Fill in the Blank The Rajya Sabha is also known as the __________ House because it is never dissolved.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "5c278068-4b27-4d96-a9cc-e391fd1b00bf",
+          "number": 9,
+          "type": "long_answer",
+          "text": "Fill in the Blank While Members of the Lok Sabha are directly elected, members of the Rajya Sabha are chosen through __________ elections.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "ba057006-6583-411f-bfef-49c7e22b4004",
+          "number": 10,
+          "type": "long_answer",
+          "text": "True or False The President of India is directly elected by the common citizens of the country.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "7503c3c9-d2e5-45df-8d92-1e943df6bec2",
+          "number": 11,
+          "type": "long_answer",
+          "text": "True or False India was among the early nations to grant women the right to vote, ensuring this right from the very beginning of its independence.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "ff4b4d5b-2f16-49ee-9ee7-44719c4ba954",
+          "number": 12,
+          "type": "long_answer",
+          "text": "True or False Candidates elected to state legislative assemblies are known as Members of Parliament (MPs).",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "da239246-a959-4fbc-969a-2ffc72c530a9",
+          "number": 13,
+          "type": "long_answer",
+          "text": "Direct Question Name the system that produces a physical paper record allowing voters to verify that their electronic votes were cast correctly.",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "8e6306c4-e368-47d6-ab37-69928bbf082b",
+          "number": 14,
+          "type": "long_answer",
+          "text": "Direct Question Into how many parliamentary constituencies is the country divided for the Lok Sabha elections?",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "384f8fe1-f1a9-458e-a4b4-fc1eaea103e4",
+          "number": 15,
+          "type": "long_answer",
+          "text": "Direct Question Which Chief Election Commissioner, appointed in 1990, is remembered for bringing strict reforms like voter IDs and spending vigilance to make Indian elections fairer?",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section B: Assertion and Reasoning (5 Marks)",
+      "directions": "Directions (Q16–Q20)\nFor each question, select the correct answer:\n(a) Both A and R are true, and R is the correct explanation of A.\n(b) Both A and R are true, but R is NOT the correct explanation of A.\n(c) A is true, but R is false.\n(d) A is false, but R is true.",
+      "questions": [
+        {
+          "id": "1e2e96c2-f459-4a50-a407-3aed388d2c5f",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Assertion (A): India’s Constitution makers adopted universal adult franchise right from the outset of democracy. Reason (R): They believed that every adult citizen should get one vote and all votes should have equal value, irrespective of caste, creed, gender, or education.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "44394643-8550-4a96-b746-059cd58b4431",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Assertion (A): A candidate can win a Lok Sabha election without securing even 50 per cent of the total votes cast. Reason (R): India uses the ‘First-Past-the-Post’ electoral system, wherein the candidate receiving the most votes in a constituency wins.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "b77ed0e7-1d59-4d52-bbdd-c77c64bb8615",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Assertion (A): The Vice President of India is directly elected by the citizens of India. Reason (R): The Vice President serves as the chairperson of the Rajya Sabha.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2c1fb300-2347-4941-b06f-6063265f47fd",
+          "number": 4,
+          "type": "long_answer",
+          "text": " Assertion (A): During elections, the party in government is allowed to announce new schemes and projects to impress voters. Reason (R): The Model Code of Conduct ensures that the resources available to the government are not misused to influence voters.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "ae680fbf-3006-4b15-81e0-b2b1f02ec9e8",
+          "number": 5,
+          "type": "long_answer",
+          "text": " Assertion (A): Nominated members of the Rajya Sabha and State Legislative Assemblies are not involved in electing the President of India. Reason (R): The President represents the will of the people, so the Constitution ensures that only directly elected representatives vote in the Presidential election.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section C: Understanding (20 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "587f8d0f-65e4-489a-9ee0-a232ad4e2d18",
+          "number": 1,
+          "type": "long_answer",
+          "text": " What is meant by the term 'Universal Adult Franchise'?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "c74cae60-a308-4b2e-8a15-bb19fdf8c2c7",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Why is the concept of a 'secret ballot' important in a democratic election?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "7243f462-28de-4f0d-98a0-f59c3731e9f7",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Explain briefly how the members of the Rajya Sabha are elected.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "78311475-2fdb-4c8e-968c-0af59a3ab710",
+          "number": 4,
+          "type": "long_answer",
+          "text": " Differentiate between a Member of Parliament (MP) and a Member of Legislative Assembly (MLA).",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "1ce2664f-a97b-45fd-ba51-467d7c2c536e",
+          "number": 5,
+          "type": "long_answer",
+          "text": " What is the Model Code of Conduct (MCC)? State any one rule that candidates or parties must follow under it.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "26240362-2afa-48ac-80f7-e29c87092c43",
+          "number": 6,
+          "type": "long_answer",
+          "text": " State two innovative measures taken by the Election Commission of India to ensure voting accessibility for the elderly and people with disabilities.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "fd5def78-a43f-415c-85bf-9e6ee4b9108f",
+          "number": 7,
+          "type": "long_answer",
+          "text": " Who comprises the Electoral College responsible for the election of the President of India?",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "5b5cbb09-7a9a-44e8-b954-8fe2be55b75a",
+          "number": 8,
+          "type": "long_answer",
+          "text": " Explain how the government is formed at the national level after the Lok Sabha elections are concluded.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e1106a7a-68d8-4523-bdac-962f8fa06925",
+          "number": 9,
+          "type": "long_answer",
+          "text": " Mention any two crucial tasks performed by the Election Commission of India.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "10dcef64-cc06-4f0f-a78d-e5eb8fe4aed9",
+          "number": 10,
+          "type": "long_answer",
+          "text": " Why is the Rajya Sabha referred to as the 'Permanent House' of the Parliament?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section D: Applying (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "a9ae9743-4f3c-4b38-8996-e60c6c2dd8f3",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Scenario: A candidate running for a State Assembly election is found distributing bundles of cash and household appliances from the trunk of his car to voters in his constituency a day before the voting. Task: Apply your knowledge of the Model Code of Conduct to explain why this action is a violation. What is the main purpose of enforcing this code during elections?",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "f236b27c-380e-4484-bc5e-64b6656a9d77",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Scenario: An 85-year-old grandmother and her 20-year-old visually impaired grandson want to vote in the upcoming Lok Sabha elections, but travelling to the crowded polling booth is very difficult for them. Task: Based on the accessibility measures introduced by the ECI, explain what specific options and assistive technologies are available for both of them to successfully exercise their franchise.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "f05669d9-684d-4666-81f0-b6843f8fb680",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Scenario: In a mock school election with 50 students, Candidate A gets 20 votes, Candidate B gets 18 votes, and Candidate C gets 12 votes. Candidate A is declared the winner despite not securing a 50 per cent majority (which would be 26 votes). Task: Identify which Indian electoral system this scenario mirrors, and explain how it allows a candidate to win without securing a majority of the total votes.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section E: Analyzing (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "16d10436-8470-4362-861e-98a93e20e3f1",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Categorize/Classify/Compare/Analyze the following: Compare the Lok Sabha and the Rajya Sabha based on the following three parameters: (1) The type of election used to choose their members (Direct vs. Indirect). (2) The term of the members and the dissolution rules of the house. (3) The primary focus of the representatives (National issues vs. State representation).",
+          "marks": 6,
+          "responseLength": "Table format or clear categorized list",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "21f3b23f-4e6c-4dc6-be07-9418a0cd5de3",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Analyze the following situation/concept: In 1947, India's literacy rate was only about 14 per cent. Despite arguments that voting rights should be restricted only to literate people, the Constitution makers decided to grant universal adult franchise immediately. Analyze the reasons behind this bold decision and explain how universal franchise fosters equality and civic engagement in a highly diverse country.",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section F: Evaluating (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "2859c9f5-09d5-4239-86ff-17b99b545205",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Evaluate the following scenario: A citizen believes that none of the candidates contesting in their constituency are honest, capable, or worthy of a vote. To show their protest, they decide to boycott the election and stay home on voting day. Evaluate this decision. Suggest a better democratic alternative available on the EVM for this citizen, and explain how using this alternative sends a stronger message to political parties.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "ca12df29-08bf-47e8-846b-b03d6917716a",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Evaluate the following statement: \"The President of India is the head of the country and therefore should be directly elected by the common citizens, rather than through an Electoral College.\" Evaluate the validity of this statement. Discuss the current indirect election method, explain who votes in the Electoral College, and justify why the Constitution makers opted for this specific method for the President's election.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section G: Creating (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "69ba3847-49ea-42d9-a8a5-9bb07ba9553d",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Creative Task: Design/Create/Prepare: Design an outline for a voter awareness poster targeting young citizens (18-year-olds) who are eligible to vote for the first time. Your outline must include: A catchy slogan or title. Two compelling reasons explaining why their single vote matters in shaping the country's future. A brief instruction on the basic requirement they must fulfill before voting (e.g., getting registered in their constituency).",
+          "marks": 5,
+          "responseLength": "6–8 sentences arranged in a numbered list or suitable format",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "41e40571-5db0-44be-b3da-9f09876b71ea",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Creative Task: Design/Create/Prepare: Create a step-by-step sequential checklist for a Presiding Officer to follow inside a polling booth to ensure a smooth, secure, and fair voting process for every voter who walks in. Include at least four specific steps detailing what the polling officers must check (like ID proof), what they must apply on the voter, and how the voter will use the EVM/VVPAT machines.",
+          "marks": 5,
+          "responseLength": "6–8 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-01T13:18:30.929Z",
+  "status": "live",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 180,
+    "answerKeyMode": "manual",
+    "answerKeyReleased": false
+  },
+  "publishedOn": "2026-08-01T13:18:43.037Z"
+}
