@@ -1,0 +1,463 @@
+{
+  "id": "1885128b-e31b-4fee-b391-a88eae2406b6",
+  "slug": "comprehensive-mathematics-assessment",
+  "type": "written",
+  "purpose": "Test",
+  "title": "Comprehensive Mathematics Assessment",
+  "chapterName": "Power Play",
+  "subject": "Mathematics",
+  "className": "VIII",
+  "duration": "180 Minutes",
+  "maximumMarks": "80",
+  "instructions": [
+    "Write answers in your notebook.",
+    "All questions are compulsory.",
+    "Read the instructions for each section carefully before answering."
+  ],
+  "sections": [
+    {
+      "title": "Section A: Remembering (15 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "6430b704-a736-4684-84d2-52e5d65f37bb",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Multiple Choice In the exponential form $5^4$, what does the number 4 represent? a) The base b) The coefficient c) The exponent/power d) The multiplier",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "8c87198b-66de-413c-8263-59a817af1911",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Multiple Choice According to the laws of exponents, what is the value of $x^0$ (where $x \\neq 0$)? a) 0 b) $x$ c) 1 d) $-1$",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "245b56d3-d01b-4f4e-b6e3-ffae3bc4ebdb",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Multiple Choice Which of the following represents the correct general form for multiplying powers with the same base, $n^a \\times n^b$? a) $n^{a \\times b}$ b) $n^{a + b}$ c) $(2n)^{a+b}$ d) $n^{a - b}$",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2548f590-2c13-46c2-a04f-673e9177db35",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Multiple Choice In scientific notation, a number is written in the form $x \\times 10^y$. What is the allowed range for the coefficient $x$? a) $0 \\le x \\le 10$ b) $x \\ge 1$ and $x < 10$ c) $1 \\le x \\le 100$ d) $x > 0$",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2da60191-373c-4fdc-9504-f2b4d2b674e2",
+          "number": 5,
+          "type": "long_answer",
+          "text": "Multiple Choice What is the equivalent positive exponent form of the expression $n^{-a}$ (where $n \\neq 0$)? a) $-n^a$ b) $n \\div a$ c) $\\frac{1}{n^a}$ d) $1 - n^a$",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "c7ed569d-ee8d-471c-8c1e-0deaf1162c1c",
+          "number": 6,
+          "type": "long_answer",
+          "text": "Fill in the Blank Growth where a quantity increases by multiplying by a fixed factor repeatedly (like paper thickness doubling with every fold) is called __________ growth.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2f585a68-1ce4-44b5-83ac-dab69e73dac0",
+          "number": 7,
+          "type": "long_answer",
+          "text": "Fill in the Blank According to the law of exponents for a power of a power, $(n^a)^b$ is equal to __________.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e6490fb0-8832-4651-8514-686bbfc16e7f",
+          "number": 8,
+          "type": "long_answer",
+          "text": "Fill in the Blank To simplify reading very large numbers like $59,76,00,00,00,00,00,00,00,00,00,000$ kg, we express them in __________ form or scientific notation.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "20422f52-2c91-489f-9490-f896cdaade2c",
+          "number": 9,
+          "type": "long_answer",
+          "text": "Fill in the Blank The number $10^{100}$ is mathematically referred to as a __________.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "de6e5994-6438-4a51-9807-88b70c305814",
+          "number": 10,
+          "type": "long_answer",
+          "text": "True or False The expression $(-1)^5$ evaluates to a positive number.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e0800a44-b828-4dcc-93c1-a60942c64bab",
+          "number": 11,
+          "type": "long_answer",
+          "text": "True or False If you have a 2-digit lock with digits 0 to 9, the total number of possible password combinations is 100.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2d871451-b2cb-47fe-9d02-0d0d8473d827",
+          "number": 12,
+          "type": "long_answer",
+          "text": "True or False The expression $(3^2)^5$ gives the exact same numerical value as $(3^5)^2$.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "58a1c347-57a2-4db1-8bfb-5f4403951fb9",
+          "number": 13,
+          "type": "long_answer",
+          "text": "Direct Question Write the exponential form of the expression: $a \\times a \\times b \\times b \\times b \\times b$.",
+          "marks": 0,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e981acde-da1a-42a1-9524-8eb58c0b80bf",
+          "number": 14,
+          "type": "long_answer",
+          "text": "Direct Question What is the numerical value of $(-2)^4$?",
+          "marks": 0,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "00ff4b5b-01e0-4963-9013-18323f73199a",
+          "number": 15,
+          "type": "long_answer",
+          "text": "Direct Question Express $\\frac{1}{7^2}$ using a negative exponent.",
+          "marks": 0,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section B: Assertion and Reasoning (5 Marks)",
+      "directions": "Directions (Q16–Q20)\nFor each question, select the correct answer: (a) Both A and R are true, and R is the correct explanation of A. (b) Both A and R are true, but R is NOT the correct explanation of A. (c) A is true, but R is false. (d) A is false, but R is true.",
+      "questions": [
+        {
+          "id": "c3ca0ad0-7ad2-4275-95e8-3b6eea8b15a0",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Assertion (A): A piece of paper folded 10 times increases its initial thickness by 1024 times. Reason (R): The thickness doubles after every fold, which represents exponential growth calculated as $2^{10} = 1024$.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "80d61a0d-03a9-4476-91e3-d905d7079188",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Assertion (A): The standard form of $34,30,000$ is written as $3.43 \\times 10^6$. Reason (R): In scientific notation, a number is written as $x \\times 10^y$, where $1 \\le x < 10$ and $y$ indicates the number of places the decimal point has moved.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e6bc53b1-0610-41e5-86cf-8ea0842bf316",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Assertion (A): The value of $10^{-3}$ is greater than $10^{-2}$. Reason (R): A negative exponent $n^{-a}$ represents the reciprocal $\\frac{1}{n^a}$, and $\\frac{1}{1000}$ is smaller than $\\frac{1}{100}$.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "fa56e207-5bd4-40bd-8611-65fe7dabd526",
+          "number": 4,
+          "type": "long_answer",
+          "text": " Assertion (A): The exponential expressions $4^6$ and $8^4$ represent the exact same numerical value. Reason (R): Both can be reduced to a base of 2, since $4^6 = (2^2)^6 = 2^{12}$ and $8^4 = (2^3)^4 = 2^{12}$.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "cc2d8c8f-3b40-47df-a8d0-a4606794524b",
+          "number": 5,
+          "type": "long_answer",
+          "text": " Assertion (A): When a line of length $2^4$ units is halved 4 times, the resulting length is 0 units. Reason (R): Any non-zero number raised to the power of 0 equals 1 ($x^0 = 1$).",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section C: Understanding (20 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "c49d60d2-5a57-4587-8f57-08e782ea9b26",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Express the number $648$ as a product of powers of its prime factors in exponential form.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "0fd49609-f613-46bc-954e-cea558eddd61",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Simplify the expression $3^2 \\times 3^{-5} \\times 3^6$ and write the final answer in exponential form.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "4585e95e-5020-473f-8063-4ace11cabcee",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Simplify the ratio $\\frac{10^4}{5^4}$ using the laws of exponents and write the answer in exponential form.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "3ab571d2-fb9b-48a4-9c41-126e3d0dbd22",
+          "number": 4,
+          "type": "long_answer",
+          "text": " Estu has 7 dresses, 2 hats, and 3 pairs of shoes. Calculate the total number of different combinations Estu can use to dress up.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "cb014cd6-b96d-4aba-ba63-efb7911ddb70",
+          "number": 5,
+          "type": "long_answer",
+          "text": " Write the expanded form of the decimal number $561.903$ using powers of 10.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "947301e6-ae22-44db-8226-de8b5c3f02d2",
+          "number": 6,
+          "type": "long_answer",
+          "text": " Simplify the expression $p^3 \\times p^{-10}$ and write the answer with a positive exponent.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "a6a9f40d-fcbb-4e70-9028-5d7335a62c03",
+          "number": 7,
+          "type": "long_answer",
+          "text": " Identify which number is greater: $4^3$ or $3^4$. Show the numerical value of both to justify your answer.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "c3761dab-300e-4d33-bdc9-0e7f4e193d6e",
+          "number": 8,
+          "type": "long_answer",
+          "text": " If it is given that $12^2 = 144$, find the numerical value of $(0.12)^2$. Show your calculation steps.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "a698db8a-a6d2-48fa-bb9b-5aeeb038286a",
+          "number": 9,
+          "type": "long_answer",
+          "text": " A magical pond has lotuses that double every day. If the pond is completely covered on the 30th day, write the exponential expression for the number of lotuses when the pond was half covered.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "0b43779a-cd49-40d0-ae4c-4c453206a13a",
+          "number": 10,
+          "type": "long_answer",
+          "text": " Write the number $70,04,00,00,000$ in standard scientific notation.",
+          "marks": 2,
+          "responseLength": "1-2 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section D: Applying (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "c44867ca-dd97-436a-b3cf-e0d481fa14c1",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Scenario: Astronomers are comparing the distances of planets. The distance between the Sun and Saturn is $1.4335 \\times 10^{12}$ m. The distance between the Sun and Earth is $1.496 \\times 10^{11}$ m. Task: Determine which of the two planets is closer to the Sun. Then, calculate the difference in their distances from the Sun. Write your final calculated difference in scientific notation.",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "0a78beeb-b099-496b-9b40-8d9cabdf809e",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Scenario: A dairy company plans to produce $8.5 \\times 10^9$ packets of milk in a single year. They need to assign a unique numeric ID code to each packet using only the digits 0 to 9. Task: Calculate the minimum number of digits their security code must contain so that every packet gets a unique ID. Use the concept of exponential combinations to justify your answer.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "46bb302b-e658-4fd0-aa7d-3239c25c9c4e",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Scenario: The global population of starlings is estimated to be $1.3 \\times 10^9$ birds. Starlings often fly in massive, swirling synchronized groups called murmurations. Task: If an average flock (murmuration) contains $10^4$ birds, calculate the total number of such flocks that could exist in the world. Show your calculation steps using laws of exponents.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section E: Analyzing (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "2180df61-0bb8-46d5-824b-40d3149de7df",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Categorize/Classify/Compare/Analyze the following: Consider the powers of 7: $7^2, 7^3, 7^{-2}$, and larger values. Part 1: Prove algebraically that $\\frac{16807}{49} = 7^3$ by expressing both numbers as powers of 7 first. Part 2: Verify the exponent law $n^a \\times n^b = n^{a+b}$ by analyzing the expression $\\frac{1}{343} \\times \\frac{1}{343}$. Show the steps and leave your final answer as a negative exponent of 7.",
+          "marks": 6,
+          "responseLength": "Step-by-step mathematical calculations",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "df29d9ae-7637-43d9-b6b9-9f9d2b50fb71",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Analyze the following situation/concept: Examine the mathematical statement: \"Fourth powers of a number are also square numbers.\" Analyze this statement using the laws of exponents to prove whether it is 'Always True', 'Only Sometimes True', or 'Never True'. Provide a general algebraic proof (using $n^4$) and one numerical example to support your reasoning.",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section F: Evaluating (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "9d610405-d024-41b4-a43a-85fe65a3788f",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Evaluate the following scenario: A student is asked to simplify the expression $2^{-4} \\times 2^7$ and writes their final answer as $4^3$. Evaluate the student's mathematical work. Identify the specific mistake they made regarding the bases. Explain the correct algebraic rule they failed to apply, and solve the expansion correctly to find the true exponential form and numerical value.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "3113b545-9060-4f64-bf1b-c08e597ef3ec",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Evaluate the following statement: \"To compute the value of $4^6$, Student A evaluates it as $(4^2)^3$, while Student B evaluates it as $(4^3)^2$.\" Evaluate both methods by showing the step-by-step numerical working for each. Determine if both methods produce the exact same final answer, state the specific law of exponents both students relied upon, and conclude if one method is more mathematically valid than the other.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section G: Creating (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "5fd97504-c4d7-4761-a182-4dd5e8234c75",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Creative Task: Design/Create/Prepare: Design a combination lock puzzle for a digital safe. The lock requires an alphanumeric passcode of length 3. Create the rules for your lock such that the first slot must be an English alphabet letter (A-Z), and the remaining two slots must be digits (0-9). Based on your design, formulate the mathematical expression and calculate the total number of unique passwords possible for this safe.",
+          "marks": 5,
+          "responseLength": "4–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "b07d838f-c6fe-4bb8-9ba2-48afd338128a",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Creative Task: Design/Create/Prepare: Design an investigation to show the power of exponential growth versus linear growth using a \"Magical Pond\" scenario. In your scenario, Pond A's lotus count triples every day, starting with 1 lotus on Day 0. Pond B adds exactly 3 lotuses every day, starting with 1 lotus on Day 0. Create a data table comparing the number of lotuses in both ponds for Day 1, Day 2, Day 3, and Day 4. Draw a mathematical conclusion about how the two types of growth differ drastically by Day 4.",
+          "marks": 5,
+          "responseLength": "6–8 sentences and a comparative data table",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-01T16:56:59.584Z",
+  "status": "live",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 180,
+    "answerKeyMode": "manual",
+    "answerKeyReleased": false
+  },
+  "publishedOn": "2026-08-01T16:58:16.333Z"
+}
