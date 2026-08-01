@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T17:41:48.284Z",
+  "generatedOn": "2026-08-01T17:47:16.245Z",
   "assessments": [
+    {
+      "id": "ecf685bd-1686-4cbf-99d1-9f4d9b784db1",
+      "slug": "natural-resources-and-their-use-quiz",
+      "title": "Natural Resources and Their Use Quiz",
+      "subject": "Social Science",
+      "className": "VIII",
+      "chapterName": "Natural Resources and Their Use",
+      "type": "quiz",
+      "duration": "20 Minutes",
+      "maximumMarks": 15,
+      "status": "live",
+      "publishedOn": "2026-08-01T17:47:13.972Z"
+    },
     {
       "id": "dc5ea269-9fe2-4955-9f5f-67d5181877c5",
       "slug": "ncert-ch-1-social-science-assessment",
