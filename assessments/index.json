@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T16:58:19.285Z",
+  "generatedOn": "2026-08-01T17:09:49.392Z",
   "assessments": [
+    {
+      "id": "c46b2782-2224-4a6a-879f-336de0dd2fab",
+      "slug": "a-square-and-a-cube-quiz",
+      "title": "A Square and A Cube Quiz",
+      "subject": "Mathematics",
+      "className": "VIII",
+      "chapterName": "A Square and A Cube",
+      "type": "quiz",
+      "duration": "20 Minutes",
+      "maximumMarks": 15,
+      "status": "live",
+      "publishedOn": "2026-08-01T17:09:46.538Z"
+    },
     {
       "id": "1885128b-e31b-4fee-b391-a88eae2406b6",
       "slug": "comprehensive-mathematics-assessment",
