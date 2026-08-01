@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T11:04:04.424Z",
+  "generatedOn": "2026-08-01T11:27:20.560Z",
   "assessments": [
+    {
+      "id": "80ab93d7-3412-49e2-9a3a-1bd4a462668c",
+      "slug": "comprehensive-history-assessment",
+      "title": "Comprehensive History Assessment",
+      "subject": "Social Science",
+      "className": "VIII",
+      "chapterName": "The Rise of the Marathas 3",
+      "type": "written",
+      "duration": "180 Minutes",
+      "maximumMarks": "80",
+      "status": "live",
+      "publishedOn": "2026-08-01T11:27:17.745Z"
+    },
     {
       "id": "e4a903ce-c4db-41ec-9503-d8bb6830b09f",
       "slug": "power-play-quiz",
