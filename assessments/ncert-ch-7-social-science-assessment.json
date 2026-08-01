@@ -1,0 +1,463 @@
+{
+  "id": "7584fc8b-92a9-41fa-ab7b-9336cc2c9fc4",
+  "slug": "ncert-ch-7-social-science-assessment",
+  "type": "written",
+  "purpose": "Test",
+  "title": "NCERT CH 7  Social Science Assessment",
+  "chapterName": "Factors of Production",
+  "subject": "Social Science",
+  "className": "VIII",
+  "duration": "180 Minutes",
+  "maximumMarks": "80",
+  "instructions": [
+    "Write answers in your notebook.",
+    "All questions are compulsory.",
+    "Read the instructions for each section carefully before answering."
+  ],
+  "sections": [
+    {
+      "title": "Section A: Remembering (15 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "2ac5e048-c511-477b-928a-46dafc5dff4f",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Multiple Choice Which factor of production includes natural resources like soil, water, forests, and minerals? a) Labour b) Land c) Capital d) Entrepreneurship",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "6531a995-1697-4576-9252-dbc3c4e7f092",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Multiple Choice What is the Japanese concept adopted since the mid-1940s which means 'continuous improvement'? a) Kaizen b) Vidyā c) Kalā d) SWAYAM",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "04297dee-d7d5-4fe9-aba9-38d1069d3a6b",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Multiple Choice Which of the following is considered 'capital' in economics? a) Rivers and forests b) Physical effort of workers c) Machinery, tools, and office buildings d) The vision of an entrepreneur",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "b55bb886-6afb-4ce5-8054-1a201ef58793",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Multiple Choice In 1932, J.R.D. Tata started India’s first airline, which later became known as: a) Indigo b) Vistara c) Air India d) SpiceJet",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "bc34e5bf-4f09-4f32-b61d-0befa4b97573",
+          "number": 5,
+          "type": "long_answer",
+          "text": "Multiple Choice India was the first nation in the world to bring a law mandating companies to spend 2 per cent of their average profits on: a) Dividends b) Corporate Social Responsibility (CSR) c) Stock market shares d) Employee salaries",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "4e26b695-e76a-4983-b2a9-9ed1df5dd5dc",
+          "number": 6,
+          "type": "long_answer",
+          "text": "Fill in the Blank The __________ dividend refers to the benefit a country gets when it has a large number of young and working people.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "33101db5-487e-42c9-9834-671d03994ea4",
+          "number": 7,
+          "type": "long_answer",
+          "text": "Fill in the Blank In ancient India, creating products involved a unique blend of kalā (art) and __________ (knowledge).",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "3ec71c25-3547-4d6d-8b4c-ee62764d28bb",
+          "number": 8,
+          "type": "long_answer",
+          "text": "Fill in the Blank Large companies raise money from the public by offering them a share of the profits, called a __________.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "43cd59b3-aae4-4cdc-b578-4dee59015bf1",
+          "number": 9,
+          "type": "long_answer",
+          "text": "Fill in the Blank A __________ is an entrepreneurial venture with limited resources that aims at rapid growth and expansion while leveraging technology.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "80ab07fe-33e3-4bec-ad8e-ddbbae9f2b3d",
+          "number": 10,
+          "type": "long_answer",
+          "text": "True or False Human capital refers solely to the physical strength of a worker, without considering their knowledge or skills.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "eaab4bdd-7910-4678-8b72-21dd9d240e4d",
+          "number": 11,
+          "type": "long_answer",
+          "text": "True or False The ancient Indian stitched shipbuilding technique used cords instead of nails to make the ships flexible.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "17de5cfd-7832-4e8e-a229-bbfb80038be1",
+          "number": 12,
+          "type": "long_answer",
+          "text": "True or False According to the 2023 World Bank estimates, the Adult Literacy Rate in India is 85 per cent for males and 70 per cent for females.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e67acecb-c43f-4d84-9f5e-27bf0b2fcd5f",
+          "number": 13,
+          "type": "long_answer",
+          "text": "Direct Question Name the ancient Indian texts that contain detailed design guidelines on sculptures, paintings, and buildings.",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e14f9a52-4715-4ae6-bac9-f1e186fd0c04",
+          "number": 14,
+          "type": "long_answer",
+          "text": "Direct Question What is the term used for the network of individuals, organisations, resources, and technology involved in the production and sale of goods?",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e0d06c9e-5702-41d7-8e69-5b33b9a608d4",
+          "number": 15,
+          "type": "long_answer",
+          "text": "Direct Question Name the government online platform that offers free courses to help learners explore subjects like robotics and aquaculture.",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section B: Assertion and Reasoning (5 Marks)",
+      "directions": "Directions (Q16–Q20)\nFor each question, select the correct answer:\n(a) Both A and R are true, and R is the correct explanation of A.\n(b) Both A and R are true, but R is NOT the correct explanation of A.\n(c) A is true, but R is false.\n(d) A is false, but R is true.",
+      "questions": [
+        {
+          "id": "bc6b6752-55cd-4572-b17b-528968929ad4",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Assertion (A): Good healthcare systems contribute significantly to the development of human capital. Reason (R): Healthy workers are physically and mentally sound, enabling them to work efficiently and creatively without being away from work due to illness.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e4b79c81-8ac8-4ab7-9bea-4d96bac08d7e",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Assertion (A): The production of semiconductor chips or satellites is highly labour-intensive. Reason (R): The proportion of the different factors of production used depends directly on the specific product being made.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "174c1764-5ccc-4292-9f50-47527f666ff8",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Assertion (A): Businesses must adopt sustainable practices and reduce waste while producing goods. Reason (R): Natural resources like land and minerals are unlimited and cannot be degraded, no matter how much we use them.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "f52871bf-a5e1-4076-9102-ef8fcc104254",
+          "number": 4,
+          "type": "long_answer",
+          "text": " Assertion (A): J.R.D. Tata received the Bharat Ratna in 1992 for his great service to the nation. Reason (R): He believed that businesses should solely focus on making money and maximizing profits, without worrying about society or worker conditions.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "45970bcb-235b-45de-b6ab-df1c104b282f",
+          "number": 5,
+          "type": "long_answer",
+          "text": " Assertion (A): The stitched shipbuilding technique helped ancient Indian ships navigate the Indian Ocean with ease. Reason (R): Stitching wooden planks together using cords made the ships highly flexible.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section C: Understanding (20 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "e1b27316-b418-4cb4-8eef-b9939d36c917",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Differentiate between 'labour' and 'human capital' in the context of economic production.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d73a39b0-3174-40e2-9471-e38e76f85a07",
+          "number": 2,
+          "type": "long_answer",
+          "text": " How does education act as a facilitator of human capital? Give one example from the chapter.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "5fad1364-07f5-4a6b-a677-d9fb5bd822b7",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Define the term 'entrepreneur'. State any two tasks performed by an entrepreneur to make a startup successful.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "c5002940-5fdb-4a56-b52d-7681098de694",
+          "number": 4,
+          "type": "long_answer",
+          "text": " Why is technology referred to as an \"enabler\" of production? Give one example.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "007cf81f-9518-4a18-ab25-f9ee4444552d",
+          "number": 5,
+          "type": "long_answer",
+          "text": " Explain the concept of a 'demographic dividend'. How can India benefit from its current demographic structure?",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "44f3d053-5059-447b-be0f-69157f3efcd5",
+          "number": 6,
+          "type": "long_answer",
+          "text": " What are the various sources from which businesses (both small and large) can raise 'capital' for their operations?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "f6c0eb56-dc26-47eb-a733-c4e37dfd05b7",
+          "number": 7,
+          "type": "long_answer",
+          "text": " Describe the ancient Indian perspective on work and craftsmanship, mentioning how knowledge and perfection were treated.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "6969cfc1-0c47-4eef-8daf-8cc52af1846b",
+          "number": 8,
+          "type": "long_answer",
+          "text": " State any two responsibilities that businesses have towards their workers and employees regarding workplace conditions.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "8175d99e-675c-4c87-b29c-b55903371e2e",
+          "number": 9,
+          "type": "long_answer",
+          "text": " How do social and cultural influences, like the German work ethic, impact the human capital of a country?",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "b68453b2-8097-4c6b-8c48-9b4b855b50de",
+          "number": 10,
+          "type": "long_answer",
+          "text": " What is Corporate Social Responsibility (CSR)? Briefly explain its purpose.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section D: Applying (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "a19b1f57-37d1-4560-ab85-58c30c33923e",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Scenario: Anika wants to open a modern organic bakery in her city. She has excellent baking skills and a great vision, but she lacks the physical space to set up the kitchen, the large ovens required for baking, and the money to hire staff. Task: Identify the specific factors of production Anika is currently missing. Apply your knowledge of economics to explain the steps she can take to acquire these missing factors, including how she might raise the necessary financial resources to start her bakery.",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d1a6381a-594b-4e5b-af7e-16679e40559b",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Scenario: During a global health crisis, a major mobile phone manufacturing company in India is suddenly unable to get specific electronic microchips because international borders are closed and flights are halted. Production comes to a complete stop. Task: Apply your knowledge of production networks to identify the specific economic challenge the company is facing. Explain how relying on local inputs instead of sources from far-off places might have changed this situation.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "887854f2-49bf-4449-9492-1a60ab0aad64",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Scenario: A leather factory in Tamil Nadu is highly profitable and provides jobs to many locals, but it constantly dumps untreated chemical waste directly into the nearby river, harming the local biodiversity. Task: Based on the chapter's discussion on responsibilities towards factors of production, explain why this factory's practice is dangerous. What sustainable actions should the factory owners take to correct this issue under Corporate Social Responsibility?",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section E: Analyzing (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "0ea1f8e1-150c-4110-aa1c-6968801c9a3e",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Categorize/Classify/Compare/Analyze the following: Categorize the four factors of production (Land, Labour, Capital, Entrepreneurship). For a large business manufacturing 'Smartphones', provide two specific examples of inputs that would fall under each of these four categories to demonstrate how they are interconnected. Present your answer in a clear tabular format.",
+          "marks": 6,
+          "responseLength": "Table format or clear categorized list",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "a1cc364b-3c73-4b80-a186-c5816926edfa",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Analyze the following situation/concept: Analyze the role of technology in modern skill development and employment. How have government initiatives like SWAYAM (Massive Open Online Courses) and the National Career Service eliminated geographical barriers and helped the youth of India build better human capital?",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section F: Evaluating (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "13d3d261-ac42-4878-af5c-22bb31de8297",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Evaluate the following scenario: \"A factory owner decides to completely replace all human workers with advanced robotic technology to increase production speed and maximize profits, ignoring the fact that this will cause massive unemployment and poverty in the local town.\" Evaluate this decision from an ethical and social perspective. Is profit the only motivation for a responsible entrepreneur? Justify your answer using the legacy and beliefs of industrialist J.R.D. Tata.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "73d91a6d-7a75-4071-b5fe-7db5a6d639e7",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Evaluate the following statement: \"A country with a large, young population will automatically experience rapid economic growth and prosperity, regardless of the facilities provided to them.\" Evaluate the validity of this statement in the context of the 'demographic dividend'. Explain what critical investments a country must make in its people (facilitators of human capital) to successfully turn a large population into a productive workforce.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section G: Creating (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "92692433-0df7-429b-813c-6e05a4a19a16",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Creative Task: Design/Create/Prepare: Design an outline for a poster promoting \"Corporate Social Responsibility (CSR) for a Greener Tomorrow\". Your outline must include: A catchy title or slogan. Three specific eco-friendly practices that a manufacturing company can adopt in its factory to protect natural resources. A brief message explaining why businesses must act responsibly to protect the environment for future generations.",
+          "marks": 5,
+          "responseLength": "6–8 sentences arranged in a numbered list or suitable format",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "ad4a7402-9887-41d7-9ed2-014be465b906",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Creative Task: Design/Create/Prepare: Imagine you are a young entrepreneur designing a new technological startup (a mobile application) to help local farmers sell their fresh vegetables directly to customers, cutting out the middlemen. Write a brief \"Startup Pitch\" for your idea. Include: The name of your app. The specific problem it solves. The technology it leverages to connect people. How it will generate economic value and benefit both the farmers (labour) and the consumers in society.",
+          "marks": 5,
+          "responseLength": "6–8 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-01T17:59:00.971Z",
+  "status": "live",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 180,
+    "answerKeyMode": "manual",
+    "answerKeyReleased": false
+  },
+  "publishedOn": "2026-08-01T17:59:17.267Z"
+}
