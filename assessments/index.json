@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T07:16:35.033Z",
+  "generatedOn": "2026-08-01T08:35:41.324Z",
   "assessments": [
+    {
+      "id": "47c6b1ec-22bd-47d4-8756-06a543d2a116",
+      "slug": "comprehensive-mathematics-assessment",
+      "title": "Comprehensive Mathematics Assessment",
+      "subject": "Mathematics",
+      "className": "VIII",
+      "chapterName": "NCERT Ch 6, We Distribute, Yet Things Multiply",
+      "type": "written",
+      "duration": "180 Minutes",
+      "maximumMarks": "80",
+      "status": "live",
+      "publishedOn": "2026-08-01T08:35:38.486Z"
+    },
     {
       "id": "66b468bc-950d-49f9-9a16-b6f5ca4676cd",
       "slug": "electricity-quiz",
