@@ -1,0 +1,463 @@
+{
+  "id": "47c6b1ec-22bd-47d4-8756-06a543d2a116",
+  "slug": "comprehensive-mathematics-assessment",
+  "type": "written",
+  "purpose": "Test",
+  "title": "Comprehensive Mathematics Assessment",
+  "chapterName": "NCERT Ch 6, We Distribute, Yet Things Multiply",
+  "subject": "Mathematics",
+  "className": "VIII",
+  "duration": "180 Minutes",
+  "maximumMarks": "80",
+  "instructions": [
+    "Write answers in your notebook.",
+    "All questions are compulsory.",
+    "Read the instructions for each section carefully before answering."
+  ],
+  "sections": [
+    {
+      "title": "Section A: Remembering (15 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "cc638f81-384b-455a-91a3-09c06bab8709",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Multiple Choice Which of the following correctly represents the algebraic identity for the square of a sum? a) $(a+b)^2 = a^2 + b^2$ b) $(a+b)^2 = a^2 - 2ab + b^2$ c) $(a+b)^2 = a^2 + 2ab + b^2$ d) $(a+b)^2 = a^2 + ab + b^2$",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2bb2a209-5cd4-46c5-a150-664a78bca281",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Multiple Choice The distributive property of multiplication over addition for integers $x$, $y$, and $z$ is written as: a) $x(y+z) = xy + z$ b) $x(y+z) = xy + xz$ c) $x(y+z) = x + yz$ d) $x(y \\times z) = xy \\times xz$",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "7ecac5b3-b2ed-418b-ba5f-e3c31d0bceae",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Multiple Choice What is the expanded algebraic form of the square of a difference, $(a-b)^2$? a) $a^2 - b^2$ b) $a^2 + 2ab - b^2$ c) $a^2 - 2ab + b^2$ d) $a^2 + b^2$",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "04b416bf-64c9-4631-a5b3-d1d812a4e28d",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Multiple Choice Which of the following expressions is equivalent to $a^2 - b^2$? a) $(a-b)^2$ b) $(a+b)(a+b)$ c) $(a-b)(a-b)$ d) $(a+b)(a-b)$",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "61a00946-be3f-4167-a532-3d20fd95fef6",
+          "number": 5,
+          "type": "long_answer",
+          "text": "Multiple Choice To quickly multiply a number by $101$ using the distributive property, we can express $101$ as: a) $(100 - 1)$ b) $(101 \\times 1)$ c) $(50 + 51)$ d) $(100 + 1)$",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "77c67a36-81de-4196-bbe8-08cf2fbd06ed",
+          "number": 6,
+          "type": "long_answer",
+          "text": "Fill in the Blank Mathematical statements that express the equality of two algebraic expressions for all values of their letter-numbers are called __________.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "901dbf44-649d-4752-9ab2-997c3e800fe0",
+          "number": 7,
+          "type": "long_answer",
+          "text": "Fill in the Blank In algebraic expressions, terms having the exact same letter-numbers (like $3a^2b$ and $5a^2b$) are known as __________ terms.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "c1b96677-fea0-4f3a-8367-72f895bd3bb8",
+          "number": 8,
+          "type": "long_answer",
+          "text": "Fill in the Blank When expanding the product $(a+m)(b+n)$, the result is $ab + mb + an +$ __________.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2b9bb7a7-cdc5-4453-bc34-124d4e3a8560",
+          "number": 9,
+          "type": "long_answer",
+          "text": "Fill in the Blank Brahmagupta explicitly referred to the use of the distributive property for fast multiplication in parts as __________ (khaṇḍa-guṇanam).",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "de691fab-9f42-4c81-95ea-fa206163191d",
+          "number": 10,
+          "type": "long_answer",
+          "text": "True or False The product of two numbers will always increase when one number is increased by 1 and the other is decreased by 1.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "fc7918e3-1c64-40c8-827e-18b234e7b8db",
+          "number": 11,
+          "type": "long_answer",
+          "text": "True or False The expressions $3a^2b$ and $2ab^2$ are like terms and can be directly added together.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "04fab5ea-2054-4c1d-9388-b6224fb998f6",
+          "number": 12,
+          "type": "long_answer",
+          "text": "True or False The identity for $(a-b)^2$ can be geometrically visualised by taking a larger square and removing two rectangular regions, but then we must add back the small corner square once.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "fa2bf9ce-7ab4-4272-a7a1-2a157a5823d6",
+          "number": 13,
+          "type": "long_answer",
+          "text": "Direct Question State the algebraic identity used to find the product of $(a+b)$ and $(a-b)$.",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "c9bc98ea-1194-4e0b-8444-7f0d34140466",
+          "number": 14,
+          "type": "long_answer",
+          "text": "Direct Question Write the simplified value of $3a^2 \\times a$ using exponent notation.",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e23a3340-a416-402b-b312-f41170a3b66d",
+          "number": 15,
+          "type": "long_answer",
+          "text": "Direct Question Write the numerical expression to quickly solve $45 \\times 55$ as the difference of two squares.",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section B: Assertion and Reasoning (5 Marks)",
+      "directions": "Directions (Q16–Q20)\nFor each question, select the correct answer:\n(a) Both A and R are true, and R is the correct explanation of A.\n(b) Both A and R are true, but R is NOT the correct explanation of A.\n(c) A is true, but R is false.\n(d) A is false, but R is true.",
+      "questions": [
+        {
+          "id": "60ac6704-5e71-4e49-8612-c1cfa815bc64",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Assertion (A): The value of $98 \\times 102$ can be easily computed as $10000 - 4 = 9996$. Reason (R): The expression can be rewritten and solved using the identity $(a-b)(a+b) = a^2 - b^2$, where $a=100$ and $b=2$.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d7ce1527-8d28-4b81-b35b-95b631b48f1d",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Assertion (A): The expansion of $(x-y)^2$ is always equal to $x^2 - y^2$. Reason (R): The square of a difference is determined by subtracting the square of the second number from the square of the first number.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "1bf72a0c-0ea6-4569-b544-5b28705f591a",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Assertion (A): The equation $(23 + 1)(27 + 1) = 23 \\times 27 + (27 + 23 + 1)$ is a true statement. Reason (R): If integers $a$ and $b$ are both increased by $1$, their product increases by $a + b + 1$.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "b9dfc917-baa3-4024-b161-fb3fec6e5f33",
+          "number": 4,
+          "type": "long_answer",
+          "text": " Assertion (A): Expanding $3a^2(a - b + 15)$ gives $3a^3 - 3a^2b + 45a^2$. Reason (R): The distributive property applies to terms inside a bracket, but it is mathematically restricted to only two terms within a bracket.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "47a34547-1b14-401e-bf44-11aff27265ad",
+          "number": 5,
+          "type": "long_answer",
+          "text": " Assertion (A): The expression $(a-b)^2$ is mathematically equal to $(b-a)^2$. Reason (R): Both $(a-b)^2$ and $(b-a)^2$ expand to the exact same expression: $a^2 - 2ab + b^2$.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section C: Understanding (20 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "3af1401e-9b87-45d8-b772-25c0229025b4",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Expand the expression $(3+u)(v-3)$ using the distributive property.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "db3cdf00-9181-4989-b2a3-e8cf9f218f89",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Simplify the expression $(a+b)(a^2+2ab+b^2)$ by expanding and adding the like terms.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "461fb4e0-bcb9-4709-8cab-91cb9d36faa4",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Calculate the square of $55$ by writing it as $(60 - 5)^2$ and applying the algebraic identity $(a-b)^2 = a^2 - 2ab + b^2$.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "cd9e0c8e-1e6f-48f7-ae8c-7843376427c5",
+          "number": 4,
+          "type": "long_answer",
+          "text": " Evaluate the numerical product $397 \\times 403$ using the identity $(a-b)(a+b) = a^2 - b^2$.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "11482cdb-ab2b-43dc-9e04-9a719e76aa19",
+          "number": 5,
+          "type": "long_answer",
+          "text": " Calculate the product of $94 \\times 11$ by using the distributive property step-by-step.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "0c6e6ba1-17c8-42ca-a8ea-b2fcc99944fd",
+          "number": 6,
+          "type": "long_answer",
+          "text": " Determine the algebraic expression for the increase in the product $ab$ if one number is decreased by $2$ and the other is increased by $3$.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d55aae35-db03-4092-8b20-48cce0c5a3b2",
+          "number": 7,
+          "type": "long_answer",
+          "text": " Simplify the expansion of $(4y + 7)(y + 11z - 3)$ by multiplying and combining the like terms.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "23c1cd53-1a94-452b-a69e-04a2dfaf2ca2",
+          "number": 8,
+          "type": "long_answer",
+          "text": " Verify that $(m + n)^2 - 4mn = (n - m)^2$ by expanding the left-hand side.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "6fc61c10-2bc8-453a-bf63-ff2c1db3488b",
+          "number": 9,
+          "type": "long_answer",
+          "text": " Expand the expression $(6x + 5y)^2$ using the identity for the square of a sum.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "56967888-ab2c-41e0-b239-b19f9a78a211",
+          "number": 10,
+          "type": "long_answer",
+          "text": " Solve $104^2$ by expressing it as the sum of two numbers and using the algebraic identity $(a+b)^2 = a^2 + 2ab + b^2$.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section D: Applying (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "70567173-faa0-4994-b544-9f356ea35862",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Scenario: A tiny rectangular park is being constructed in Dhauli. The layout plans show that the length of the rectangular park is given by the algebraic expression $(2g + 4w)$ and the breadth is given by $(g + 2w)$. Task: Calculate the total area of the park by multiplying these two binomials algebraically. If $g = 5$ feet and $w = 2$ feet, calculate the final total area in square feet.",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "43731829-1c70-44e0-ae50-5e0af76bfbee",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Scenario: A student is participating in a math competition and is asked to determine the product of the numerical values $43 \\times 45$ rapidly using algebra. Task: Use a suitable algebraic identity to determine the product by expressing the numbers as $(44 - 1)$ and $(44 + 1)$ to perform the calculation. Show your steps.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "1655a0dd-6555-4904-be41-e83e6a7c6be1",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Scenario: The dimensions of a large community hall flooring need to be calculated to lay tiles. The floor is in the shape of a perfect square with a side length of $99$ meters. Task: Determine the total area of the floor using the algebraic identity $(a-b)^2 = a^2 - 2ab + b^2$ by representing the dimension $99$ as $(100 - 1)^2$.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section E: Analyzing (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "a33090c9-208b-4c51-b053-15e0fa09b79c",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Categorize/Classify/Compare/Analyze the following: Consider the mathematical pattern represented by the equation: $2(a^2 + b^2) = (a + b)^2 + (a - b)^2$. Analyze and prove this statement by expanding the right-hand side (RHS) of the equation algebraically. Then, complete a verification of this identity by substituting $a = 6$ and $b = 5$ into both sides of the equation to prove they yield the same result.",
+          "marks": 6,
+          "responseLength": "Clear categorized list or mathematical steps",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "5026681a-7eca-4e62-b11a-446be7c9ebc0",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Analyze the following situation/concept: Consider any $2 \\times 2$ square of numbers in a calendar, which can be represented algebraically as a top row of $a$ and $(a + 1)$, and a bottom row of $(a + 7)$ and $(a + 8)$. Prove algebraically that the difference of the cross-diagonal products (multiplying bottom-left by top-right, and subtracting the top-left by bottom-right product) will always equal $7$, regardless of which date $a$ you choose.",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section F: Evaluating (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "7ff2fbfd-7e65-4ab8-a540-42e5f6b9f7dc",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Evaluate the following scenario: A student expands the binomial $(6x + 5)^2$ and writes their final answer as $36x^2 + 25$. Evaluate this student's work. Identify the mistake, explain why it is incorrect mathematically, and solve the expansion correctly showing all the necessary steps using the identity $(a+b)^2 = a^2 + 2ab + b^2$.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "47d3d540-10f7-4359-8cd5-4ff3a6e01f76",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Evaluate the following statement: \"The product $31^2$ can be computed using $(30 + 1)^2$, or by Sridharacharya’s modified identity $a^2 = (a+b)(a-b) + b^2$ by substituting $a = 31$ and $b = 1$.\" Evaluate both methods by showing the step-by-step working for each. Determine if both methods produce the exact same answer, and state which method you find more computationally efficient and why.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section G: Creating (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "fa861c89-d70c-42c6-9dd0-814f3e359b5f",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Creative Task: Design/Create/Prepare: Design a geometric description to visually represent the expansion of the algebraic expression $(a + m)(b + n) = ab + mb + an + mn$. Provide a step-by-step explanation of how you would draw a large rectangle, divide it into four smaller rectangular parts, label their lengths and breadths, and explain how their areas add up to prove the distributive property.",
+          "marks": 5,
+          "responseLength": "6–8 sentences arranged in a numbered list or suitable format",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "08b88745-3c9d-4d90-adb3-0a66bcb19af9",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Creative Task: Design/Create/Prepare: Create an investigation for the mathematical pattern built on squares. Step 1: $1 \\times 3 = (1 + 1)^2 - 1$ Step 2: $2 \\times 4 = (2 + 1)^2 - 1$ Write down the specific numerical expression for Step 4. Then, write an algebraic expression representing the $k$-th step in this sequence, simplify it mathematically, and draw a conclusion about what the $k$-th pattern always reduces to.",
+          "marks": 5,
+          "responseLength": "6–8 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-01T08:35:14.193Z",
+  "status": "live",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 180,
+    "answerKeyMode": "manual",
+    "answerKeyReleased": false
+  },
+  "publishedOn": "2026-08-01T08:35:38.486Z"
+}
