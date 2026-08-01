@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-06-26T16:53:06.143Z",
+  "generatedOn": "2026-08-01T06:57:47.942Z",
   "assessments": [
+    {
+      "id": "fc84c129-a429-4a68-9d3b-440aa05031c5",
+      "slug": "ncert-ch-4-electricity-assessment",
+      "title": "NCERT Ch 4: Electricity Assessment",
+      "subject": "Science",
+      "className": "VIII",
+      "chapterName": "Electricity: Magnetic and Heating Effects",
+      "type": "written",
+      "duration": "180 Minutes",
+      "maximumMarks": "80",
+      "status": "live",
+      "publishedOn": "2026-08-01T06:57:45.392Z"
+    },
     {
       "id": "9e190606-e806-4bb3-b167-1374ea575b64",
       "slug": "ncert-chapter-1-large-numbers-around-us",
