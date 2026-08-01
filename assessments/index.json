@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T14:44:31.767Z",
+  "generatedOn": "2026-08-01T16:58:19.285Z",
   "assessments": [
+    {
+      "id": "1885128b-e31b-4fee-b391-a88eae2406b6",
+      "slug": "comprehensive-mathematics-assessment",
+      "title": "Comprehensive Mathematics Assessment",
+      "subject": "Mathematics",
+      "className": "VIII",
+      "chapterName": "Power Play",
+      "type": "written",
+      "duration": "180 Minutes",
+      "maximumMarks": "80",
+      "status": "live",
+      "publishedOn": "2026-08-01T16:58:16.333Z"
+    },
     {
       "id": "6e077de7-c6c3-41b4-a4e9-af174ad084e5",
       "slug": "ncert-math-ch-2",
