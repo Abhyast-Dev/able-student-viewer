@@ -1,0 +1,196 @@
+{
+  "id": "d7eebc4e-eda6-4a56-869b-34bdc805578a",
+  "slug": "factors-of-production-quiz",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "Factors of Production Quiz",
+  "chapterName": "Factors of Production",
+  "subject": "Social Science",
+  "className": "VIII",
+  "duration": "20 Minutes",
+  "maximumMarks": 15,
+  "questions": [
+    {
+      "id": "da341f53-d632-462d-a4f8-6f953128ec0e",
+      "number": 1,
+      "type": "mcq",
+      "text": "What are the inputs used in a production process called?",
+      "options": [
+        "Outputs",
+        "Factors of production",
+        "Dividends",
+        "Startups"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "a317d639-2d63-4a55-b78e-b1a5defbb73d",
+      "number": 2,
+      "type": "fill_blank",
+      "text": "In economics the word ____ includes natural resources like soil water air and minerals.",
+      "options": [],
+      "correctAnswer": "land",
+      "marks": 1
+    },
+    {
+      "id": "28227f90-5e4a-4a9a-ae68-59a3a160388e",
+      "number": 3,
+      "type": "true_false",
+      "text": "The Japanese concept kaizen which means continuous improvement has been applied since the mid-1940s.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "dda64da7-f05f-44cb-9461-72e7afbb5fd2",
+      "number": 4,
+      "type": "mcq",
+      "text": "Which of the following is considered a facilitator of human capital?",
+      "options": [
+        "Education",
+        "Training",
+        "Healthcare",
+        "All of the above"
+      ],
+      "correctAnswer": "D",
+      "marks": 1
+    },
+    {
+      "id": "4b8ce344-ac9c-455c-9b4e-c3699b1ca96d",
+      "number": 5,
+      "type": "fill_blank",
+      "text": "The ____ dividend refers to the benefit a country gets when it has a large number of young and working people.",
+      "options": [],
+      "correctAnswer": "demographic",
+      "marks": 1
+    },
+    {
+      "id": "dc399a00-bae5-499a-b9a8-cbcad72e6308",
+      "number": 6,
+      "type": "mcq",
+      "text": "According to the Economic Survey of India 2024 what percentage of people in India are below the age of 35 years?",
+      "options": [
+        "45",
+        "55",
+        "65",
+        "75"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "5dda1706-4b5a-4b10-b0c0-855d18aee312",
+      "number": 7,
+      "type": "mcq",
+      "text": "Who started India's first airline called Tata Airlines in 1932?",
+      "options": [
+        "Ratan Tata",
+        "J.R.D. Tata",
+        "Jamsetji Tata",
+        "Dorabji Tata"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "ec77dc42-ebd7-4c5a-bae3-1f2c70c778a9",
+      "number": 8,
+      "type": "true_false",
+      "text": "A startup is an entrepreneurial venture that aims at rapid growth by leveraging technology.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "3f1c295e-3095-4e41-8d59-919fe0b4569a",
+      "number": 9,
+      "type": "fill_blank",
+      "text": "The ancient Indian texts containing detailed design guidelines on sculptures and buildings are called the ____ shastras.",
+      "options": [],
+      "correctAnswer": "shilpa",
+      "marks": 1
+    },
+    {
+      "id": "c3c0a06f-741a-499d-83d1-c10594e9d643",
+      "number": 10,
+      "type": "mcq",
+      "text": "What unique technique was used in ancient India over 2000 years ago to make ships flexible?",
+      "options": [
+        "Iron nails",
+        "Steel framing",
+        "Stitched wooden planks",
+        "Plastic molding"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "3284e40e-b1d7-4845-90f2-4e89afd198ba",
+      "number": 11,
+      "type": "fill_blank",
+      "text": "Large companies raise money from the public by offering them a share of the profits called a ____.",
+      "options": [],
+      "correctAnswer": "dividend",
+      "marks": 1
+    },
+    {
+      "id": "f6b995c8-bb2a-40cb-b151-c41fddfc4327",
+      "number": 12,
+      "type": "mcq",
+      "text": "India was the first nation to mandate a Corporate Social Responsibility (CSR) law in which year?",
+      "options": [
+        "2010",
+        "2014",
+        "2018",
+        "2022"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "bae1feb4-50c7-46ea-838f-da4babd88366",
+      "number": 13,
+      "type": "true_false",
+      "text": "The proportion of each factor of production used depends entirely on the specific product being made.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "4030c7bf-30a7-4e39-8028-a19a3219acd9",
+      "number": 14,
+      "type": "fill_blank",
+      "text": "SWAYAM is a government platform that offers Massive Open ____ Courses.",
+      "options": [],
+      "correctAnswer": "Online",
+      "marks": 1
+    },
+    {
+      "id": "53ef1cec-b488-413a-910c-cb3415a78e93",
+      "number": 15,
+      "type": "mcq",
+      "text": "What is the amount of money paid by the borrower to the lender for using their money called?",
+      "options": [
+        "Tax",
+        "Dividend",
+        "Interest",
+        "Capital"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-08-01T18:03:43.488Z",
+  "status": "live",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 20,
+    "showCorrectAnswersAfterSubmit": true
+  },
+  "publishedOn": "2026-08-01T18:03:54.153Z"
+}
