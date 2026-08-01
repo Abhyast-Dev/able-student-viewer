@@ -1,0 +1,186 @@
+{
+  "id": "ecf685bd-1686-4cbf-99d1-9f4d9b784db1",
+  "slug": "natural-resources-and-their-use-quiz",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "Natural Resources and Their Use Quiz",
+  "chapterName": "Natural Resources and Their Use",
+  "subject": "Social Science",
+  "className": "VIII",
+  "duration": "20 Minutes",
+  "maximumMarks": 15,
+  "questions": [
+    {
+      "id": "14c6389a-f35a-4308-b0ec-8ac9122bcdac",
+      "number": 1,
+      "type": "mcq",
+      "text": "What is the totality of life and non-life forms in our environment not created by humans called?",
+      "options": [
+        "Nature",
+        "Resource",
+        "Ecosystem",
+        "Stewardship"
+      ],
+      "correctAnswer": "A",
+      "marks": 1
+    },
+    {
+      "id": "7a9ee63e-c36d-4e88-9f7e-ce0468ffe21c",
+      "number": 2,
+      "type": "fill_blank",
+      "text": "For an entity to be a resource it must be technologically accessible economically feasible and culturally ____.",
+      "options": [],
+      "correctAnswer": "acceptable",
+      "marks": 1
+    },
+    {
+      "id": "a6a5d583-462d-4405-951c-5856cb51231e",
+      "number": 3,
+      "type": "mcq",
+      "text": "Which ancient Indian botanical science focuses on the study and care of plants?",
+      "options": [
+        "Ayurveda",
+        "Vrikshayurveda",
+        "Arthashastra",
+        "Lokasangraha"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "be05e7e9-edda-44fc-a590-f64983acb2b1",
+      "number": 4,
+      "type": "true_false",
+      "text": "Nature works in cycles where there is no waste.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "ab2e1e1b-3c6b-459b-be01-1623a8635402",
+      "number": 5,
+      "type": "mcq",
+      "text": "Which state became India's first 100 per cent organic state in 2016?",
+      "options": [
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Goa"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "ddf06941-d724-454f-ab52-23a2bc1a5620",
+      "number": 6,
+      "type": "fill_blank",
+      "text": "The phenomenon where resource-rich regions experience slower economic growth is called the paradox of ____.",
+      "options": [],
+      "correctAnswer": "plenty",
+      "marks": 1
+    },
+    {
+      "id": "13a2c89e-4db6-4c6d-a459-5db6c6b99e09",
+      "number": 7,
+      "type": "fill_blank",
+      "text": "Timber from forests is considered a ____ resource if managed sustainably.",
+      "options": [],
+      "correctAnswer": "renewable",
+      "marks": 1
+    },
+    {
+      "id": "10ca988c-412d-4f97-b9d6-40d75b6af1bf",
+      "number": 8,
+      "type": "true_false",
+      "text": "A mature tree produces about 275 litres of oxygen per day.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "22f5cb85-e15f-483b-b84c-333218e2a4ed",
+      "number": 9,
+      "type": "mcq",
+      "text": "The International Solar Alliance was launched in 2015 by India and which other country?",
+      "options": [
+        "USA",
+        "France",
+        "Germany",
+        "Japan"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "92b1a0e1-f384-46b8-9f03-364840d068bd",
+      "number": 10,
+      "type": "fill_blank",
+      "text": "Overexploitation of groundwater has led to a crisis in the fertile plains of ____.",
+      "options": [],
+      "correctAnswer": "Punjab",
+      "marks": 1
+    },
+    {
+      "id": "58cf64ea-c12b-4a54-813d-0193f96e1ab9",
+      "number": 11,
+      "type": "true_false",
+      "text": "Fossil fuels like coal and petroleum are examples of renewable resources.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "1436c984-e16a-42db-aaf8-6e0775897811",
+      "number": 12,
+      "type": "fill_blank",
+      "text": "When humans benefit from natural processes like getting clean water they are called ecosystem ____.",
+      "options": [],
+      "correctAnswer": "services",
+      "marks": 1
+    },
+    {
+      "id": "f45b89e5-7627-4ad8-bc37-120bbaad8a69",
+      "number": 13,
+      "type": "fill_blank",
+      "text": "The Bhagavad Gita refers to the idea of acting for the wellbeing of all as ____.",
+      "options": [],
+      "correctAnswer": "lokasangraha",
+      "marks": 1
+    },
+    {
+      "id": "45d4a074-000e-47e9-880e-2432b7322cec",
+      "number": 14,
+      "type": "true_false",
+      "text": "The production of cement is considered an environmentally friendly process with zero pollution.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "df9df951-5d51-452e-b934-bc23e43b29a6",
+      "number": 15,
+      "type": "mcq",
+      "text": "What is the estimated remaining duration for coal reserves in India according to the chapter?",
+      "options": [
+        "20 years",
+        "50 years",
+        "100 years",
+        "200 years"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-08-01T17:47:02.253Z",
+  "status": "live",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 20,
+    "showCorrectAnswersAfterSubmit": true
+  },
+  "publishedOn": "2026-08-01T17:47:13.972Z"
+}
