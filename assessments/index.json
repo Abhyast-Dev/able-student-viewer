@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T06:57:47.942Z",
+  "generatedOn": "2026-08-01T07:16:35.033Z",
   "assessments": [
+    {
+      "id": "66b468bc-950d-49f9-9a16-b6f5ca4676cd",
+      "slug": "electricity-quiz",
+      "title": "Electricity Quiz",
+      "subject": "Science",
+      "className": "VIII",
+      "chapterName": "Electricity: Magnetic and Heating Effects",
+      "type": "quiz",
+      "duration": "20 Minutes",
+      "maximumMarks": 20,
+      "status": "live",
+      "publishedOn": "2026-08-01T07:16:32.867Z"
+    },
     {
       "id": "fc84c129-a429-4a68-9d3b-440aa05031c5",
       "slug": "ncert-ch-4-electricity-assessment",
