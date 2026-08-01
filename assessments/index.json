@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T11:27:20.560Z",
+  "generatedOn": "2026-08-01T11:31:22.637Z",
   "assessments": [
     {
-      "id": "80ab93d7-3412-49e2-9a3a-1bd4a462668c",
+      "id": "c57172d3-17fb-428b-8d39-85e0045b88d3",
       "slug": "comprehensive-history-assessment",
       "title": "Comprehensive History Assessment",
       "subject": "Social Science",
@@ -13,7 +13,7 @@
       "duration": "180 Minutes",
       "maximumMarks": "80",
       "status": "live",
-      "publishedOn": "2026-08-01T11:27:17.745Z"
+      "publishedOn": "2026-08-01T11:31:19.228Z"
     },
     {
       "id": "e4a903ce-c4db-41ec-9503-d8bb6830b09f",
