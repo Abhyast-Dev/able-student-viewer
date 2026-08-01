@@ -1,0 +1,241 @@
+{
+  "id": "66b468bc-950d-49f9-9a16-b6f5ca4676cd",
+  "slug": "electricity-quiz",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "Electricity Quiz",
+  "chapterName": "Electricity: Magnetic and Heating Effects",
+  "subject": "Science",
+  "className": "VIII",
+  "duration": "20 Minutes",
+  "maximumMarks": 20,
+  "questions": [
+    {
+      "id": "8809d6cb-03db-4b33-a7a4-70743dd90959",
+      "number": 1,
+      "type": "mcq",
+      "text": "Who discovered the link between electricity and magnetism?",
+      "options": [
+        "Alessandro Volta",
+        "Luigi Galvani",
+        "Hans Christian Oersted",
+        "Thomas Edison"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "32b56c2e-1c30-449a-899d-96291798cc7c",
+      "number": 2,
+      "type": "true_false",
+      "text": "When electric current flows through a wire it produces a magnetic field around it.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "799baa2e-aa6b-4e31-bcbf-d572aaaca62c",
+      "number": 3,
+      "type": "fill_blank",
+      "text": "A current carrying coil that behaves as a magnet is called an ____.",
+      "options": [],
+      "correctAnswer": "electromagnet",
+      "marks": 1
+    },
+    {
+      "id": "5b0c04f3-b82d-443b-8d1d-974ff5eea1ec",
+      "number": 4,
+      "type": "mcq",
+      "text": "What material is usually used as the core of an electromagnet to make it stronger?",
+      "options": [
+        "Copper",
+        "Iron",
+        "Aluminium",
+        "Plastic"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "e7ecc521-ebfa-49a0-b804-d97061da496f",
+      "number": 5,
+      "type": "true_false",
+      "text": "The strength of an electromagnet cannot be changed.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "38da071e-9acd-4879-be51-4ec0312e38ca",
+      "number": 6,
+      "type": "fill_blank",
+      "text": "Lifting electromagnets are widely used in factories and ____ yards to move heavy metal items.",
+      "options": [],
+      "correctAnswer": "scrap",
+      "marks": 1
+    },
+    {
+      "id": "072c7d2e-5851-4fcc-8f0c-c5dda6ed2882",
+      "number": 7,
+      "type": "mcq",
+      "text": "Which wire offers higher resistance and is used to demonstrate the heating effect of electric current?",
+      "options": [
+        "Copper",
+        "Aluminium",
+        "Nichrome",
+        "Silver"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "eaed4808-6769-43ee-b810-766b09e03893",
+      "number": 8,
+      "type": "true_false",
+      "text": "The heat generated in a wire depends on its material thickness and length.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "743c137b-7f4c-45a5-ad7e-4fd4d24237bb",
+      "number": 9,
+      "type": "fill_blank",
+      "text": "Many household appliances like electric irons contain a coil of wire called a heating ____.",
+      "options": [],
+      "correctAnswer": "element",
+      "marks": 1
+    },
+    {
+      "id": "d8a156e8-33da-43b3-afd3-5db7fc3390f5",
+      "number": 10,
+      "type": "mcq",
+      "text": "In a Voltaic cell what is the liquid that helps conduct electricity called?",
+      "options": [
+        "Electrode",
+        "Element",
+        "Electrolyte",
+        "Core"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "e1e566ea-56b9-4d63-9280-8e03840481a7",
+      "number": 11,
+      "type": "true_false",
+      "text": "The dry cell uses a thick moist paste instead of a liquid electrolyte.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "ef8c528c-0d04-469d-b92c-d6e862e37ec6",
+      "number": 12,
+      "type": "fill_blank",
+      "text": "In a dry cell the zinc container acts as the ____ terminal.",
+      "options": [],
+      "correctAnswer": "negative",
+      "marks": 1
+    },
+    {
+      "id": "17f4925f-9fc6-448a-9ecc-cd96b2f4d652",
+      "number": 13,
+      "type": "mcq",
+      "text": "Which of the following is the most common type of rechargeable battery used today?",
+      "options": [
+        "Voltaic cell",
+        "Dry cell",
+        "Lemon cell",
+        "Lithium-ion battery"
+      ],
+      "correctAnswer": "D",
+      "marks": 1
+    },
+    {
+      "id": "d1f6cf94-7d3d-4bef-86b9-460320b439c3",
+      "number": 14,
+      "type": "true_false",
+      "text": "Rechargeable batteries last forever and never wear out.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "899ff514-6c44-4ea6-b49c-e38f16f3766f",
+      "number": 15,
+      "type": "fill_blank",
+      "text": "Dead batteries should be disposed of in special ____ recycling facilities.",
+      "options": [],
+      "correctAnswer": "e-waste",
+      "marks": 1
+    },
+    {
+      "id": "a415a8a4-3fbf-489f-bb7e-fba523fb4de9",
+      "number": 16,
+      "type": "mcq",
+      "text": "In a lemon cell what acts as the electrolyte?",
+      "options": [
+        "Copper wire",
+        "Iron nail",
+        "Lemon juice",
+        "Connecting wire"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "25cab9f9-75da-48c9-be4d-502fcceba501",
+      "number": 17,
+      "type": "true_false",
+      "text": "A single cell provides a stronger magnetic field to an electromagnet than a battery of two cells.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "e671c579-4916-4b4a-983d-a7205f5dc4b3",
+      "number": 18,
+      "type": "fill_blank",
+      "text": "If the north pole of a compass is attracted to one end of an electromagnet that end is the ____ pole.",
+      "options": [],
+      "correctAnswer": "south",
+      "marks": 1
+    },
+    {
+      "id": "ca4ef474-df51-4337-b8b8-ea68c01885f1",
+      "number": 19,
+      "type": "mcq",
+      "text": "Future batteries that replace liquid or paste-like electrolytes with solid materials are called ____ batteries.",
+      "options": [
+        "solid-state",
+        "dry",
+        "voltaic",
+        "galvanic"
+      ],
+      "correctAnswer": "A",
+      "marks": 1
+    },
+    {
+      "id": "6a476936-66d9-4840-8e2b-8a1dc07200e0",
+      "number": 20,
+      "type": "true_false",
+      "text": "The poles of an electromagnet can be reversed by changing the direction of the current.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-08-01T07:16:11.871Z",
+  "status": "live",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 20,
+    "showCorrectAnswersAfterSubmit": true
+  },
+  "publishedOn": "2026-08-01T07:16:32.867Z"
+}
