@@ -1,0 +1,196 @@
+{
+  "id": "d400fa79-c3ca-47f7-b537-78a903ddab22",
+  "slug": "universal-franchise-and-india-s-electoral-system-quiz",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "Universal Franchise and India's Electoral System Quiz",
+  "chapterName": "Universal Franchise and India's Electoral System",
+  "subject": "Social Science",
+  "className": "VIII",
+  "duration": "20 Minutes",
+  "maximumMarks": 15,
+  "questions": [
+    {
+      "id": "e5d69bfc-e6a0-4d01-8d1c-6b92efd626e8",
+      "number": 1,
+      "type": "mcq",
+      "text": "What is the minimum age for a citizen to vote in India?",
+      "options": [
+        "16",
+        "18",
+        "21",
+        "25"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "9f6c1271-bc4c-4eda-a75b-7f0210c33790",
+      "number": 2,
+      "type": "fill_blank",
+      "text": "The Election Commission of India (ECI) was established in the year ____.",
+      "options": [],
+      "correctAnswer": "1950",
+      "marks": 1
+    },
+    {
+      "id": "cfc72ca7-9ab3-4c89-bf41-8bc5b425947f",
+      "number": 3,
+      "type": "mcq",
+      "text": "Which option on the EVM allows voters to reject all candidates?",
+      "options": [
+        "NOTA",
+        "VVPAT",
+        "MCC",
+        "ERO"
+      ],
+      "correctAnswer": "A",
+      "marks": 1
+    },
+    {
+      "id": "7cedc07f-5984-44c4-ba10-8f2d81eb8bcc",
+      "number": 4,
+      "type": "true_false",
+      "text": "The Rajya Sabha is never dissolved and is known as the Permanent House.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "6cd8270a-5332-46d1-8e44-e13e2e67c34a",
+      "number": 5,
+      "type": "mcq",
+      "text": "How many members are nominated by the President to the Rajya Sabha?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "20"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "c40af657-06d2-4752-b46a-08d20f6a3880",
+      "number": 6,
+      "type": "true_false",
+      "text": "Universal adult franchise gives every adult citizen the right to vote irrespective of caste or gender.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "396a4e85-c697-4f17-ae82-2674fbb222ab",
+      "number": 7,
+      "type": "fill_blank",
+      "text": "In India the Lok Sabha uses the ____ electoral system where the candidate with the most votes wins.",
+      "options": [],
+      "correctAnswer": "First-Past-the-Post",
+      "marks": 1
+    },
+    {
+      "id": "ea38d6d9-02b1-4e81-b449-d13a351abdec",
+      "number": 8,
+      "type": "mcq",
+      "text": "Who elects the members of the Rajya Sabha?",
+      "options": [
+        "Common Citizens",
+        "Members of Legislative Assemblies (MLAs)",
+        "Members of Lok Sabha",
+        "The President"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "319621c9-5c21-46ff-a8f9-d8aac679c20f",
+      "number": 9,
+      "type": "mcq",
+      "text": "Which Chief Election Commissioner is remembered for bringing strict reforms like voter IDs in 1990?",
+      "options": [
+        "Sukumar Sen",
+        "T.N. Seshan",
+        "Rajiv Kumar",
+        "Sunil Arora"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "b75c16ce-5738-4eeb-9ba6-146fe25939cc",
+      "number": 10,
+      "type": "true_false",
+      "text": "The President of India is directly elected by the common citizens.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "2741130e-b796-4ac6-82e2-f365a06069ed",
+      "number": 11,
+      "type": "fill_blank",
+      "text": "A ____ is an area whose voters elect a representative to a legislative body.",
+      "options": [],
+      "correctAnswer": "constituency",
+      "marks": 1
+    },
+    {
+      "id": "f26a68b3-c3cd-4952-9a11-932d4c62c7f0",
+      "number": 12,
+      "type": "mcq",
+      "text": "How many Lok Sabha constituencies are reserved for Scheduled Tribes (ST)?",
+      "options": [
+        "84",
+        "47",
+        "33",
+        "50"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "9a771598-918c-411c-aa27-e64fae5fa307",
+      "number": 13,
+      "type": "true_false",
+      "text": "The Model Code of Conduct (MCC) ensures that the party in government does not misuse its resources.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "7a095c10-8277-4164-8be3-fc0b2c925143",
+      "number": 14,
+      "type": "fill_blank",
+      "text": "The system that produces a physical paper record for electronic votes is called ____.",
+      "options": [],
+      "correctAnswer": "VVPAT",
+      "marks": 1
+    },
+    {
+      "id": "8741ea0e-edcd-4dbb-a4e1-dae32cbd65cb",
+      "number": 15,
+      "type": "mcq",
+      "text": "Who is the chairperson of the Rajya Sabha?",
+      "options": [
+        "The President",
+        "The Prime Minister",
+        "The Vice President",
+        "The Chief Election Commissioner"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-08-01T13:23:28.207Z",
+  "status": "live",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 20,
+    "showCorrectAnswersAfterSubmit": true
+  },
+  "publishedOn": "2026-08-01T13:23:53.077Z"
+}
