@@ -1,0 +1,191 @@
+{
+  "id": "c46b2782-2224-4a6a-879f-336de0dd2fab",
+  "slug": "a-square-and-a-cube-quiz",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "A Square and A Cube Quiz",
+  "chapterName": "A Square and A Cube",
+  "subject": "Mathematics",
+  "className": "VIII",
+  "duration": "20 Minutes",
+  "maximumMarks": 15,
+  "questions": [
+    {
+      "id": "2290e24a-7dfb-4a11-be29-b738cea8f3ad",
+      "number": 1,
+      "type": "mcq",
+      "text": "Which numbers always have an odd number of factors?",
+      "options": [
+        "Prime numbers",
+        "Even numbers",
+        "Square numbers",
+        "Cube numbers"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "4404acb7-7b68-4e5d-8303-4652297bb1d6",
+      "number": 2,
+      "type": "mcq",
+      "text": "A perfect square can never end with which of the following digits?",
+      "options": [
+        "1",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswer": "D",
+      "marks": 1
+    },
+    {
+      "id": "77e6e423-180f-4d49-b620-a37af8ec286b",
+      "number": 3,
+      "type": "fill_blank",
+      "text": "The sum of the first n odd natural numbers is always equal to ____.",
+      "options": [],
+      "correctAnswer": "n^2",
+      "marks": 1
+    },
+    {
+      "id": "6e100ab6-c064-43c4-8f25-fd8b8478e5e4",
+      "number": 4,
+      "type": "true_false",
+      "text": "Squares can only have an even number of zeros at the end.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "6fb8d461-1faf-4d90-87a3-7d897420112c",
+      "number": 5,
+      "type": "mcq",
+      "text": "How many numbers lie between the consecutive perfect squares 16 and 25?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "5ae58813-b2a2-415c-a3c7-d7cba002a023",
+      "number": 6,
+      "type": "fill_blank",
+      "text": "The number 1729 is known as the ____-Ramanujan Number.",
+      "options": [],
+      "correctAnswer": "Hardy",
+      "marks": 1
+    },
+    {
+      "id": "a98262b6-4502-46ad-a218-ba891654ee0f",
+      "number": 7,
+      "type": "mcq",
+      "text": "Which of the following numbers is a perfect cube?",
+      "options": [
+        "9",
+        "16",
+        "27",
+        "36"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "56cf4ec5-feef-4002-888b-d91f64d0d2a6",
+      "number": 8,
+      "type": "mcq",
+      "text": "What was the Sanskrit word used in ancient India for the mathematical operation of taking roots?",
+      "options": [
+        "varga",
+        "ghana",
+        "mula",
+        "pada"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "687aba7d-6bf4-4bf4-ab0d-23607b031d3f",
+      "number": 9,
+      "type": "true_false",
+      "text": "The Sanskrit term varga was historically used for the solid cube.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "378b6997-fa4a-4554-9aad-896e941e02e6",
+      "number": 10,
+      "type": "fill_blank",
+      "text": "Every perfect square has one positive integral square root and one ____ integral square root.",
+      "options": [],
+      "correctAnswer": "negative",
+      "marks": 1
+    },
+    {
+      "id": "d0e9de74-6247-4b10-9db1-75b54ccc2c6c",
+      "number": 11,
+      "type": "mcq",
+      "text": "What is the cube of -6?",
+      "options": [
+        "36",
+        "-36",
+        "216",
+        "-216"
+      ],
+      "correctAnswer": "D",
+      "marks": 1
+    },
+    {
+      "id": "e645fe74-57b8-4bb1-956b-d9b6c6b06d07",
+      "number": 12,
+      "type": "true_false",
+      "text": "A perfect cube can end with exactly two zeroes.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "dae4da21-b6d6-4e00-87d4-38b222d09ca8",
+      "number": 13,
+      "type": "fill_blank",
+      "text": "A number is a perfect square if its prime factors can be split into ____ identical groups.",
+      "options": [],
+      "correctAnswer": "two",
+      "marks": 1
+    },
+    {
+      "id": "f89e2908-5057-4ab0-a368-27391ef3bbd7",
+      "number": 14,
+      "type": "true_false",
+      "text": "The square of an odd number is always an even number.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "2c00ff7c-d149-46fa-90bf-536ba47a81a2",
+      "number": 15,
+      "type": "fill_blank",
+      "text": "The sequence of differences between consecutive perfect squares gives the sequence of ____ numbers.",
+      "options": [],
+      "correctAnswer": "odd",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-08-01T17:09:17.169Z",
+  "status": "live",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 20,
+    "showCorrectAnswersAfterSubmit": true
+  },
+  "publishedOn": "2026-08-01T17:09:46.538Z"
+}
