@@ -1,0 +1,463 @@
+{
+  "id": "dc5ea269-9fe2-4955-9f5f-67d5181877c5",
+  "slug": "ncert-ch-1-social-science-assessment",
+  "type": "written",
+  "purpose": "Test",
+  "title": "NCERT Ch 1 Social Science Assessment",
+  "chapterName": "Natural Resources and Their Use",
+  "subject": "Social Science",
+  "className": "VIII",
+  "duration": "180 Minutes",
+  "maximumMarks": "80",
+  "instructions": [
+    "Write answers in your notebook.",
+    "All questions are compulsory.",
+    "Read the instructions for each section carefully before answering."
+  ],
+  "sections": [
+    {
+      "title": "Section A: Remembering (15 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "9deebef4-a3cb-40d6-a086-0eca087541cc",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Multiple Choice Which ancient Indian botanical text offers elaborate recommendations on sustainable agriculture and plant care? a) Ayurveda b) Vṛikṣhāyurveda c) Arthashastra d) Lokasangraha",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "76b03b3f-0318-47cc-83f0-0abfc68427cf",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Multiple Choice Which state became India's first \\( 100 \\) per cent organic state in the year 2016 ? a) Punjab b) Rajasthan c) Sikkim d) Goa",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "e645f8cf-8a4a-40b3-8584-cc07ccb19b98",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Multiple Choice The phenomenon where a region rich in natural resources experiences slower economic growth is known as the: a) Ecosystem service b) Restoration cycle c) Paradox of plenty d) Lokasangraha",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "00e46cab-b076-4e33-8839-b9e8a5f07e7f",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Multiple Choice The International Solar Alliance (ISA) was launched in \\( 2015 \\) by India and which other country? a) Germany b) USA c) France d) Japan",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "05705e5b-2d58-43c4-a950-005be99d3a62",
+          "number": 5,
+          "type": "long_answer",
+          "text": "Multiple Choice Which of the following is considered an 'ecosystem function'? a) A factory producing cement b) A tree filtering water and preventing soil erosion c) Humans benefiting from pollinated crops d) Extracting groundwater for irrigation",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "1137d0e8-9e39-4484-bfcc-e6b0541132c3",
+          "number": 6,
+          "type": "long_answer",
+          "text": "Fill in the Blank A general principle of Nature is that it functions in a restorative and __________ way. Marks: 1",
+          "marks": 0,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "95eb69a7-b919-4f70-a7a7-bb277a268ed1",
+          "number": 7,
+          "type": "long_answer",
+          "text": "Fill in the Blank The Bhagavad Gītā refers to __________, which is the idea that everyone must transcend personal desires and act for the wellbeing of all.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "59c025d6-6edf-4512-a86e-397f3d68409e",
+          "number": 8,
+          "type": "long_answer",
+          "text": "Fill in the Blank When humans benefit from natural processes, such as getting clean water or oxygen, these benefits are called ecosystem __________.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "1a66fc19-8ce2-450d-9eb7-fda7eaab065a",
+          "number": 9,
+          "type": "long_answer",
+          "text": "Fill in the Blank Minerals, metals, and fossil fuels that cannot be replenished at the rate we use them are categorized as __________ resources.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "794d4e50-4edb-49ca-88b6-ab8970c0ef5f",
+          "number": 10,
+          "type": "long_answer",
+          "text": "True or False Nature's ability to create new life and provide the conditions for thriving is called regeneration.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "88b531b4-569a-43b2-9aa2-3503df09463c",
+          "number": 11,
+          "type": "long_answer",
+          "text": "True or False The distribution of natural resources is completely even across our planet, preventing any conflicts between states.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "aa20d199-a14c-497d-8b80-ac4fde28294d",
+          "number": 12,
+          "type": "long_answer",
+          "text": "True or False A mature tree produces about  275  litres of oxygen per day, while a human needs about 350 litres.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "4c980fee-9983-43a6-805c-04f4dd36f064",
+          "number": 13,
+          "type": "long_answer",
+          "text": "Direct Question What term is used in the chapter to describe the extraction, utilisation, and consumption of natural resources?",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "fd6e0f0d-b005-4bb0-a38a-bbb7218b342e",
+          "number": 14,
+          "type": "long_answer",
+          "text": "Direct Question Name the river whose water sharing caused tensions requiring negotiations among Karnataka, Tamil Nadu, Kerala, and Puducherry. Marks: 1",
+          "marks": 0,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "def9a0fa-f05a-4881-abbc-3b492f33c58b",
+          "number": 15,
+          "type": "long_answer",
+          "text": "Direct Question What is the name of the solar park in Rajasthan that is mentioned as a symbol of India's solar ambitions? Marks: 1",
+          "marks": 0,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section B: Assertion and Reasoning (5 Marks)",
+      "directions": "Directions (Q16–Q20)\nFor each question, select the correct answer:\n(a) Both A and R are true, and R is the correct explanation of A.\n(b) Both A and R are true, but R is NOT the correct explanation of A.\n(c) A is true, but R is false.\n(d) A is false, but R is true.",
+      "questions": [
+        {
+          "id": "7252576e-f5f8-4cfd-acea-c39145f34fdb",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Assertion (A): The extraction of groundwater in the fertile plains of Punjab has become unsustainable, with levels dropping below \\( 30 \\) metres in many areas. Reason (R): The shift to high-yielding crop varieties that required more water, combined with the supply of free power, led to the severe over-pumping of groundwater.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d57786e8-2c73-4ffa-b25b-20018cd3d8f7",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Assertion (A): India has generally avoided the 'natural resource curse' or the 'paradox of plenty'. Reason (R): India lacks any significant reserves of non-renewable resources like coal and iron.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2890f5de-e595-4755-8851-6c5de6bbba97",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Assertion (A): Petroleum found deep under the ocean is immediately considered a usable natural resource, even if a country does not have the technology to extract it. Reason (R): For a natural entity to be called a resource, it must be technologically accessible, economically feasible, and culturally acceptable.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "b40ee491-7a9a-408a-ae58-0fea63147c58",
+          "number": 4,
+          "type": "long_answer",
+          "text": " Assertion (A): Timber from forests is considered a renewable resource. Reason (R): Forests can recover and regenerate naturally over time as long as we harvest the timber in a sustainable manner and allow the natural rhythm to continue.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "ff6d3d41-2131-4c84-824a-0b347e42dff1",
+          "number": 5,
+          "type": "long_answer",
+          "text": " Assertion (A): Cement production is one of the most environmentally friendly industries and creates zero pollution. Reason (R): The production of cement releases fine dust that causes soil and water pollution, and damages the lungs of humans and animals.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section C: Understanding (20 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "7a199575-aca3-402e-941a-5e96bf30f81a",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Define the term 'resource' with respect to nature. What three criteria must be met for an element of nature to be classified as a resource?",
+          "marks": 2,
+          "responseLength": "2 – 3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "c7480797-0a04-4bb2-b124-dcd4c03fb382",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Differentiate between 'restoration' and 'regeneration' in the context of nature's cycles.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "99d411cb-1315-4821-a66b-41205fc6998b",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Explain the difference between an 'ecosystem function' and an 'ecosystem service' with a suitable example of a forest.",
+          "marks": 2,
+          "responseLength": "3 – 4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "0f7667df-fb7c-4c16-b5fe-e1d067741361",
+          "number": 4,
+          "type": "long_answer",
+          "text": " Why are coal and petroleum categorised as 'non-renewable resources' even though they are naturally formed in the Earth?",
+          "marks": 2,
+          "responseLength": "2 – 3  sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "f808a373-c49d-464a-b056-b4165b3e5c27",
+          "number": 5,
+          "type": "long_answer",
+          "text": " State any two traditional farming practices that helped treat soil as part of Mother Earth, rather than just exploiting it.",
+          "marks": 2,
+          "responseLength": "2 –3  sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "4bbe57fd-4b13-4916-abc9-525794a83d9c",
+          "number": 6,
+          "type": "long_answer",
+          "text": " How did the Green Revolution and the shift to high-yielding varieties of wheat and paddy impact the groundwater levels in Punjab during the \\( 1960s \\)?",
+          "marks": 2,
+          "responseLength": "3 – 4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "df520a57-a696-47d0-bc69-8fefd372db68",
+          "number": 7,
+          "type": "long_answer",
+          "text": " Briefly describe the concept of 'lokasangraha' as mentioned in the Bhagavad Gītā and its relevance to resource management.",
+          "marks": 0,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "a2df188e-8a42-4094-bd75-a5eaa6dd3dea",
+          "number": 8,
+          "type": "long_answer",
+          "text": " Give two reasons why the uneven geographical distribution of natural resources can lead to both economic development and human conflict.",
+          "marks": 2,
+          "responseLength": "3 – 4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "85fd34d3-9439-4cb9-8bff-a25d71d9d3f5",
+          "number": 9,
+          "type": "long_answer",
+          "text": " What are some sustainable and alternative building materials being explored to reduce the heavy pollution caused by modern cement production?",
+          "marks": 2,
+          "responseLength": "2 – 3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "a6c3462a-2540-43eb-a0ff-0f08b157fd2e",
+          "number": 10,
+          "type": "long_answer",
+          "text": " How did the transition to \\( 100 \\) per cent organic farming benefit the state of Sikkim? Mention two positive outcomes.",
+          "marks": 2,
+          "responseLength": "3 – 4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section D: Applying (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "80cfc292-f24f-402e-834c-28c2638fb3ad",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Scenario: A town decides to cut down an ancient, sacred grove of trees to extract a highly valuable mineral found beneath it. The local indigenous community protests, stating the grove is a nurturer and cutting it violates their sacred traditions. Task: Apply the three criteria required for a natural element to become a 'resource' (technological, economic, cultural) to evaluate this town's decision. Identify which specific criterion is being violated and explain why.",
+          "marks": 4,
+          "responseLength": "4 –5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "1e13c612-807c-4e7c-969e-142e54e17ac6",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Scenario: A farming community in a semi-arid region is provided with free electricity. To maximize their profits quickly, they start growing water-intensive crops using deep tubewells and heavy chemical fertilisers. Task: Based on the case study of Punjab, predict the dual consequences (water and soil health) this community will face over the next decade. Suggest one traditional method they should adopt instead to prevent this crisis.",
+          "marks": 3,
+          "responseLength": "3 – 4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "1f6b59a9-7227-407c-8f64-e4bb47141f34",
+          "number": 3,
+          "type": "long_answer",
+          "text": " Scenario: A developing country discovers massive reserves of gold and diamonds. However,  20 years later, the country remains highly impoverished, with slow economic growth and no local manufacturing industries. Task: Identify the economic phenomenon occurring in this country. Based on the chapter, explain what this country failed to do with its natural resources to turn them into lasting economic prosperity.",
+          "marks": 0,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section E: Analyzing (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "67d91881-e6a7-42d6-bdf7-5e9c5fe4610b",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Categorize/Classify/Compare/Analyze the following: Compare Renewable and Non-renewable resources based on the following three parameters: (1) The rate of natural replenishment versus the rate of human consumption. (2) The impact of irresponsible human overexploitation on their future availability. (3) Two specific examples of each type found in India.",
+          "marks": 6,
+          "responseLength": "Table format or clear categorized list",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "39e0b869-7fa7-4fb9-b4fd-59e57dd284d3",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Analyze the following situation/concept: Analyze the environmental and health impacts of the modern cement industry. How can traditional building techniques and materials, such as those used in the \\( 12th \\) century Jaisalmer fort or the Auroville Earth Institute, serve as a sustainable solution to this modern problem?",
+          "marks": 4,
+          "responseLength": "4 – 5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section F: Evaluating (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "5c584032-4f29-4687-bbc9-ee3b3e5c79e2",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Evaluate the following scenario: A farmer argues that chemical fertilisers and pesticides are the only way to ensure national food security, and that switching to traditional organic farming will lead to massive crop failures and starvation. Evaluate this claim using the example of Pema's family farm and Sikkim's transition to organic farming. Discuss both the short-term challenges they faced and the long-term ecological and economic benefits they ultimately experienced.",
+          "marks": 5,
+          "responseLength": "5– 6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "87b08584-88e3-42e9-af62-0c8eedf14e77",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Evaluate the following statement: \"Since solar energy is a renewable resource, building massive solar parks will automatically solve all our environmental problems, meaning we no longer need to worry about conservation or stewardship.\" Evaluate the validity of this statement. While discussing the benefits of initiatives like the International Solar Alliance, justify why humans must still practice careful stewardship, judicious use, and respect for Nature's overall regenerative cycles.",
+          "marks": 0,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section G: Creating (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "524243a6-c8d4-4801-8598-102e46fbe5b1",
+          "number": 1,
+          "type": "long_answer",
+          "text": " Creative Task: Design/Create/Prepare: Design an outline for an awareness campaign poster titled \"Be a Steward of Nature\". Your poster outline must include: A catchy slogan inspired by the concept of lokasangraha. Three actionable, everyday steps citizens can take in their homes or communities to help restore and regenerate natural resources (focusing on water, soil, or forests). A brief explanation of why human beings must act as stewards rather than exploiters.",
+          "marks": 5,
+          "responseLength": "6– 8 sentences arranged in a numbered list or suitable format",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d9b995db-b060-47b7-a13c-7ccb2054d612",
+          "number": 2,
+          "type": "long_answer",
+          "text": " Creative Task: Design/Create/Prepare: Prepare a set of guidelines for a newly established sustainable farm based on the principles of the ancient Indian botanical science, Vṛikṣhāyurveda. Write a numbered list of four specific practices you would implement regarding soil health, pest management, crop choice (e.g., mixed cropping), and natural fertilisers, to ensure the farm operates in complete harmony with nature's restorative cycles.",
+          "marks": 5,
+          "responseLength": "6 – 8 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-01T17:41:29.207Z",
+  "status": "live",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 180,
+    "answerKeyMode": "manual",
+    "answerKeyReleased": false
+  },
+  "publishedOn": "2026-08-01T17:41:45.619Z"
+}
