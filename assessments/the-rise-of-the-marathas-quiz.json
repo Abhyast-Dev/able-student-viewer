@@ -1,0 +1,191 @@
+{
+  "id": "f352585d-6fa8-4bb2-a645-b4a0fba8c2dd",
+  "slug": "the-rise-of-the-marathas-quiz",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "The Rise of the Marathas Quiz",
+  "chapterName": "The Rise of the Marathas 3",
+  "subject": "Social Science",
+  "className": "VIII",
+  "duration": "20 Minutes",
+  "maximumMarks": 15,
+  "questions": [
+    {
+      "id": "6a798b6e-6740-438f-848d-e544187f3baf",
+      "number": 1,
+      "type": "mcq",
+      "text": "Who was the veteran general sent by the Bijapur Sultanate to confront Chhatrapati Shivaji?",
+      "options": [
+        "Shaista Khan",
+        "Afzal Khan",
+        "Jai Singh",
+        "Ekoji"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "d322db69-6b1b-45b2-883e-9726b6cb83ac",
+      "number": 2,
+      "type": "fill_blank",
+      "text": "Chhatrapati Shivaji's vision of a sovereign kingdom was known as ____.",
+      "options": [],
+      "correctAnswer": "Swarajya",
+      "marks": 1
+    },
+    {
+      "id": "8db2c393-b1a0-4475-80d1-e32218f8da23",
+      "number": 3,
+      "type": "true_false",
+      "text": "The Marathas emerged victorious against the Afghans at the Battle of Panipat in 1761.",
+      "options": [],
+      "correctAnswer": "FALSE",
+      "marks": 1
+    },
+    {
+      "id": "ec619e22-0cb3-4136-8db9-cc29ce6a07be",
+      "number": 4,
+      "type": "mcq",
+      "text": "What was the 25 per cent tax levied by the Marathas on provinces not directly under their control called?",
+      "options": [
+        "Jizya",
+        "Sardeshmukhi",
+        "Cartaz",
+        "Chauth"
+      ],
+      "correctAnswer": "D",
+      "marks": 1
+    },
+    {
+      "id": "a6265729-1bb0-49d5-945a-8236bf424da7",
+      "number": 5,
+      "type": "fill_blank",
+      "text": "The cavalry soldiers whose horses and equipment were paid for by the state were known as ____.",
+      "options": [],
+      "correctAnswer": "bargirs",
+      "marks": 1
+    },
+    {
+      "id": "7b1c2047-a9ea-44d3-9490-67fa9973cdf6",
+      "number": 6,
+      "type": "mcq",
+      "text": "Which Maratha queen rebuilt the Kashi Vishwanath and Somnath temples?",
+      "options": [
+        "Tarabai",
+        "Jijabai",
+        "Ahilyabai Holkar",
+        "Soyarabai"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "81b05831-edf5-4ec9-a865-a5fdf1e7b568",
+      "number": 7,
+      "type": "fill_blank",
+      "text": "Chhatrapati Shivaji used a small weapon called the ____ to kill Afzal Khan.",
+      "options": [],
+      "correctAnswer": "wagh nakh",
+      "marks": 1
+    },
+    {
+      "id": "b9787e73-12e4-410a-b339-d71a63f87e2a",
+      "number": 8,
+      "type": "true_false",
+      "text": "Forts were considered the absolute core of the Maratha state.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "7915d8c4-ec14-4294-86db-0cc78ba32ebc",
+      "number": 9,
+      "type": "mcq",
+      "text": "Who guided the Marathas to victory in many naval battles in the 18th century?",
+      "options": [
+        "Kanhoji Angre",
+        "Mahadji Shinde",
+        "Nanasaheb Peshwa",
+        "Bajirao I"
+      ],
+      "correctAnswer": "A",
+      "marks": 1
+    },
+    {
+      "id": "946f051e-4422-4210-b549-7ee5a84ac5f2",
+      "number": 10,
+      "type": "mcq",
+      "text": "Which classical dance form was patronised by the Thanjavur Maratha ruler Serfoji II?",
+      "options": [
+        "Kathakali",
+        "Odissi",
+        "Bharatanatyam",
+        "Kathak"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "852bfe47-43b1-41b4-a4f6-f9fd6679497b",
+      "number": 11,
+      "type": "fill_blank",
+      "text": "The cursive form of Devanagari used by Marathas for correspondence is called the ____ script.",
+      "options": [],
+      "correctAnswer": "Modi",
+      "marks": 1
+    },
+    {
+      "id": "4b172a4a-2771-409f-9dc8-49207e76eb46",
+      "number": 12,
+      "type": "fill_blank",
+      "text": "Chhatrapati Shivaji commissioned the Rajya-Vyavahara-Kosha to promote the ____ language.",
+      "options": [],
+      "correctAnswer": "Marathi",
+      "marks": 1
+    },
+    {
+      "id": "c0f17337-c9d2-477b-b17b-38f78c7fc1f1",
+      "number": 13,
+      "type": "true_false",
+      "text": "Ahilyabai Holkar promoted the Maheshwar weaving industry in Madhya Pradesh.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "796c7fbf-d516-48a4-8c63-1def1afb67a1",
+      "number": 14,
+      "type": "mcq",
+      "text": "Which ruler established the Dhanwantari Mahal for free medical treatment?",
+      "options": [
+        "Chhatrapati Shivaji",
+        "Rajaram",
+        "Serfoji II",
+        "Ekoji"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "bde27b57-d9af-4fe1-b292-a609a85a9ca4",
+      "number": 15,
+      "type": "true_false",
+      "text": "The Marathas demanded naval trade passes from European ships.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-08-01T12:32:11.280Z",
+  "status": "live",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 20,
+    "showCorrectAnswersAfterSubmit": true
+  },
+  "publishedOn": "2026-08-01T12:32:27.203Z"
+}
