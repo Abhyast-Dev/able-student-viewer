@@ -1,0 +1,481 @@
+{
+  "id": "fc84c129-a429-4a68-9d3b-440aa05031c5",
+  "slug": "ncert-ch-4-electricity-assessment",
+  "type": "written",
+  "purpose": "Test",
+  "title": "NCERT Ch 4: Electricity Assessment",
+  "chapterName": "Electricity: Magnetic and Heating Effects",
+  "subject": "Science",
+  "className": "VIII",
+  "duration": "180 Minutes",
+  "maximumMarks": "80",
+  "instructions": [
+    "Write answers in your notebook.",
+    "All questions are compulsory.",
+    "Read the instructions for each section carefully before answering."
+  ],
+  "sections": [
+    {
+      "title": "Section A: Remembering (15 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "af5bcd50-ee99-4353-87db-b328195e6979",
+          "number": 1,
+          "type": "mcq",
+          "text": "Who is credited with the discovery that electricity and magnetism are linked?",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": "",
+          "options": [
+            "Alessandro Volta",
+            "Luigi Galvani",
+            "Hans Christian Oersted",
+            "Thomas Edison"
+          ]
+        },
+        {
+          "id": "39e671e3-503d-4162-bace-f4fe4e04ca1f",
+          "number": 2,
+          "type": "mcq",
+          "text": "In a Voltaic cell, what is the liquid that helps conduct electricity called?",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": "",
+          "options": [
+            "Element",
+            "Electrode",
+            "Electrolyte",
+            "Core"
+          ]
+        },
+        {
+          "id": "34b3c16f-b86b-4068-bb8a-7e845b0be28b",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Multiple Choice: Which type of wire offers higher resistance and is used to demonstrate the heating effect of electric current? Copper b) Aluminium c) Nichrome d) Iron",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "33a6e765-facc-4271-9884-6061b6c56b40",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Multiple Choice:The region around a magnet or a current-carrying wire where its magnetic effect can be felt is known as: Magnetic field b) Magnetic pole c) Heating element d) Electric circuit",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2775f1a8-f41b-4b76-bfd9-d4d2936cde13",
+          "number": 5,
+          "type": "mcq",
+          "text": "Which of the following is currently the most common type of rechargeable battery?",
+          "marks": 0,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": "",
+          "options": [
+            "Dry cell",
+            "Voltaic cell",
+            "Lithium-ion (Li-ion)",
+            "Lemon cell Marks: 1"
+          ]
+        },
+        {
+          "id": "9abacbbc-03c0-44e2-accd-6ac3a366e8c3",
+          "number": 6,
+          "type": "fill_blank",
+          "text": "The Voltaic cell gets its name from two Italian scientists, Alessandro Volta and Luigi __________.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "a9f0048a-1614-4ce8-a3fb-239233389236",
+          "number": 7,
+          "type": "fill_blank",
+          "text": "A standard dry cell has a __________ rod at the centre that acts as the positive terminal.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "3031e784-8a40-45c9-bbff-d1b8f7f57d1c",
+          "number": 8,
+          "type": "fill_blank",
+          "text": "When an electric current passes through a conductor, it gets heated, which is known as the __________ effect of electric current. Marks: 1",
+          "marks": 0,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "47cbf98d-3aaa-479f-b635-c46a91497c67",
+          "number": 9,
+          "type": "fill_blank",
+          "text": "A current carrying coil that behaves as a magnet is called an __________.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "f8088bcd-8e38-49cc-a0b8-5b4af717f7a7",
+          "number": 10,
+          "type": "true_false",
+          "text": "Lifting electromagnets act as permanent magnets that cannot be turned off by the crane operator.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2724f6be-e316-4a09-bfa3-2f7d0a68dd71",
+          "number": 11,
+          "type": "true_false",
+          "text": "The electrolyte in a dry cell is not a liquid but a thick moist paste.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "f0885f0b-80cd-411e-8da2-22bf5d8cc0b3",
+          "number": 12,
+          "type": "true_false",
+          "text": "When electric current flows through a wire, a magnetic compass placed near it gets deflected from its original direction.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "2235e759-5bac-465d-80f9-2770950722de",
+          "number": 13,
+          "type": "short_answer",
+          "text": "What material is usually used as the core of an electromagnet to make it stronger?",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "3a6f92a5-c222-4de3-985f-3e9b671d7f3d",
+          "number": 14,
+          "type": "short_answer",
+          "text": "Name one industrial application of lifting electromagnets.",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "acc07dac-215f-481f-946b-740857ec9130",
+          "number": 15,
+          "type": "short_answer",
+          "text": "What happens to a cell when its chemicals get used up over time?",
+          "marks": 1,
+          "responseLength": "1 sentence",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section B: Assertion and Reasoning (5 Marks)",
+      "directions": "Directions (Q16–Q20)\nFor the following questions, two statements are given: one labelled Assertion (A) and the other labelled Reason (R). Select the correct answer from the codes (a), (b), (c), and (d) as given below:\n(a) Both A and R are true, and R is the correct explanation of A.\n(b) Both A and R are true, but R is NOT the correct explanation of A.\n(c) A is true, but R is false.\n(d) A is false, but R is true.",
+      "questions": [
+        {
+          "id": "df65cbee-919b-4732-8b18-27a35780f898",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Assertion (A): Nichrome wire is used to make heating elements in electrical appliances., Reason (R): Nichrome wire offers high resistance to the flow of current, causing electrical energy to convert into heat energy.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "a516f53f-6bb5-4ff0-94ef-f96e15290967",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Assertion (A): A single cell provides a stronger magnetic field to an electromagnet than a battery made of two cells. Reason (R): A battery with more cells provides a larger current than a single cell.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "49ccc82f-4c02-492d-82bf-855e35b45ac4",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Assertion (A): A freely suspended magnet rests along the north-south direction because the Earth behaves like a giant magnet. Reason (R): The movement of liquid iron in the Earth's core creates electric currents, generating a magnetic field.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "cba54ba0-fea4-4f84-b48b-9474934c975f",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Assertion (A): Standard dry cells can be recharged and reused multiple times to save money., Reason (R): Rechargeable batteries help prevent wastage.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "5abcd54c-38c3-4685-bc17-70ff2bd35565",
+          "number": 5,
+          "type": "long_answer",
+          "text": "Assertion (A): If the north pole of a compass is attracted to one end of an electromagnet, that end is the south pole. Reason (R): Unlike poles of two magnets attract each other.",
+          "marks": 1,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section C: Understanding (20 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "1bea39e2-dc26-482b-b7d0-9ad08964624f",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Define the magnetic effect of electric current.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d65f2118-156d-4841-9ffd-8a8328c4cd31",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Explain the basic structure of a Voltaic cell.",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "4422fe7a-bd01-4072-8e10-2a5fd752d005",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Differentiate between a standard dry cell and a rechargeable battery.,",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "d64e4cf2-08fd-4dba-a884-fc597ac946a2",
+          "number": 4,
+          "type": "long_answer",
+          "text": "Give reasons why an incandescent torch lamp gets warm when it is switched on.,",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "85999b18-7cfa-4c81-b1b8-a3405957db48",
+          "number": 5,
+          "type": "long_answer",
+          "text": "Describe two ways you can increase the strength of an electromagnet.,",
+          "marks": 0,
+          "responseLength": "",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "353ffa2a-1fb4-4458-91be-820678642b08",
+          "number": 6,
+          "type": "long_answer",
+          "text": "Why are dry cells called \"dry,\" and how does this make them different from Voltaic cells?,",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "6550d8c9-1040-445d-b1d9-c30630455434",
+          "number": 7,
+          "type": "long_answer",
+          "text": "Explain how a simple electric cell can be constructed using lemons, copper wire, and iron nails.,",
+          "marks": 2,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "9990bb2d-7eda-49eb-9306-97023a70b840",
+          "number": 8,
+          "type": "long_answer",
+          "text": "Can you reverse the poles of an electromagnet? If so, explain how this is achieved.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "0251d67e-aaad-4bab-8df0-a8a65f1491de",
+          "number": 9,
+          "type": "long_answer",
+          "text": "Describe what happens when the crane operator switches OFF the electric current to a lifting electromagnet.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "17c30580-2dc0-455a-bc1b-b0ad9535ffef",
+          "number": 10,
+          "type": "long_answer",
+          "text": "State four factors on which the amount of heat generated in a wire depends.",
+          "marks": 2,
+          "responseLength": "2–3 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section D: Applying (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "bc607f9b-62b4-4ae0-851b-836f8cb55d04",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Scenario: Sumana created a working model of a lifting electromagnet for a science exhibition using a coil wrapped around an iron nail. After the exhibition, she forgot to move the switch to the 'OFF' position. A few hours later, the nail could no longer lift iron paper clips, but the wire wrapped around it was still warm.,, Task: Apply your knowledge of electric cells and the heating effect to explain why the electromagnet stopped lifting the clips, and why the wire remained warm despite losing its magnetic strength.,,",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "1bce854a-54da-497d-b365-5ab3893c3236",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Scenario: A mechanic is repairing a tractor that requires a powerful battery to start, while his daughter is playing with a small toy car that runs on small cells., Task: Identify the most suitable type of batteries (dry cell or rechargeable battery) for both the tractor and the toy car. Justify your choice based on reusability and common applications.,",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "bb7aa951-db80-4f94-bf51-f3f50326c427",
+          "number": 3,
+          "type": "long_answer",
+          "text": "Scenario: In a science lab, a student is given a thin nichrome wire and a thin copper wire of the exact same length. She connects them one by one to the same battery for exactly 30 seconds and touches them momentarily., Task: Determine which wire will heat up more. Apply the concept of electrical resistance to explain the scientific reason behind your answer.",
+          "marks": 3,
+          "responseLength": "3–4 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section E: Analyzing (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "d7bc638e-e749-4b74-b449-922736979424",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Categorize/Classify/Compare the following: Compare a Voltaic cell, a Dry cell, and a Rechargeable (Li-ion) battery based on three parameters: (1) The physical state of the electrolyte (liquid, paste, or solid), (2) Reusability (single-use or rechargeable), and (3) Their convenience or primary applications.",
+          "marks": 6,
+          "responseLength": "Table format or clear categorized list",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "be781069-25c6-4915-b9b9-1ad70d896b32",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Analyze the following situation/concept: A crane operator working in a scrap yard notices that his lifting electromagnet is struggling to pick up a particularly heavy batch of steel pipes. Analyze two specific changes the operator could make to the internal coil or the power source of the electromagnet to increase its magnetic strength.",
+          "marks": 4,
+          "responseLength": "4–5 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section F: Evaluating (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "b50f42b3-03df-4950-89b8-c0f3e89fcba4",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Evaluate the following scenario: To save money on disposal, a local electronic repair shop throws hundreds of \"dead\" lithium-ion laptop batteries directly into the regular city garbage bin. Evaluate this practice. Discuss the potential risks to the environment and safety, and recommend the correct method for handling these batteries.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "16bf18fd-6af9-4c82-b61c-a43a8ff5ff1a",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Evaluate the following statement: \"Since nichrome wire produces a large amount of heat when electric current passes through it, it should be used instead of copper wire for all household electrical wiring inside switchboards.\" Evaluate the validity and safety of this statement, and explain the true purpose of safety devices in circuits.",
+          "marks": 5,
+          "responseLength": "5–6 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    },
+    {
+      "title": "Section G: Creating (10 Marks)",
+      "directions": "",
+      "questions": [
+        {
+          "id": "25e2278f-9665-4e8e-bb48-c2993d290fc0",
+          "number": 1,
+          "type": "long_answer",
+          "text": "Creative Task: Design an experiment to prove that increasing the number of turns in a coil makes an electromagnet stronger. Use materials like a piece of chart paper, insulated wire, an iron nail, an electric cell, and iron paper clips.,,, Provide a step-by-step procedure outlining how to build the setup and exactly how you will measure and compare the strength of the magnet.",
+          "marks": 5,
+          "responseLength": "6–8 sentences arranged in a numbered list or suitable format",
+          "answerKey": "",
+          "teacherNotes": ""
+        },
+        {
+          "id": "15f9d23a-1f6d-4e5a-89d1-860ecf927d1c",
+          "number": 2,
+          "type": "long_answer",
+          "text": "Creative Task: Prepare an outline for a safety awareness poster to be displayed in your school's science lab regarding the \"Hazards of the Heating Effect of Electric Current.\" Design the layout by listing a catchy title, two potential dangers (such as melting plastic or fire hazards) caused by unnecessary heating, and two safety rules students must follow when handling electrical circuits.",
+          "marks": 5,
+          "responseLength": "6–8 sentences",
+          "answerKey": "",
+          "teacherNotes": ""
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-08-01T06:52:20.514Z",
+  "status": "live",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 180,
+    "answerKeyMode": "manual",
+    "answerKeyReleased": false
+  },
+  "publishedOn": "2026-08-01T06:57:45.392Z"
+}
