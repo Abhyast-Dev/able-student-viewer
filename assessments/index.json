@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T11:31:22.637Z",
+  "generatedOn": "2026-08-01T12:32:29.814Z",
   "assessments": [
+    {
+      "id": "f352585d-6fa8-4bb2-a645-b4a0fba8c2dd",
+      "slug": "the-rise-of-the-marathas-quiz",
+      "title": "The Rise of the Marathas Quiz",
+      "subject": "Social Science",
+      "className": "VIII",
+      "chapterName": "The Rise of the Marathas 3",
+      "type": "quiz",
+      "duration": "20 Minutes",
+      "maximumMarks": 15,
+      "status": "live",
+      "publishedOn": "2026-08-01T12:32:27.203Z"
+    },
     {
       "id": "c57172d3-17fb-428b-8d39-85e0045b88d3",
       "slug": "comprehensive-history-assessment",
