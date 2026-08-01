@@ -1,0 +1,186 @@
+{
+  "id": "e4a903ce-c4db-41ec-9503-d8bb6830b09f",
+  "slug": "power-play-quiz",
+  "type": "quiz",
+  "purpose": "Test",
+  "title": "Power Play Quiz",
+  "chapterName": "Power Play",
+  "subject": "Mathematics",
+  "className": "VIII",
+  "duration": "20 Minutes",
+  "maximumMarks": 15,
+  "questions": [
+    {
+      "id": "f214eeb3-1057-4f10-a201-584550690377",
+      "number": 1,
+      "type": "mcq",
+      "text": "In the exponential form 5^4 what does the number 4 represent?",
+      "options": [
+        "Base",
+        "Coefficient",
+        "Exponent",
+        "Multiplier"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "d8fc1b6f-90c3-4982-9fbb-961aad2de785",
+      "number": 2,
+      "type": "true_false",
+      "text": "The expression p^4 x p^6 is equal to p^10.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "199c19e5-734f-4d5f-bee7-8575a0d48372",
+      "number": 3,
+      "type": "fill_blank",
+      "text": "Growth where a quantity increases by multiplying by a fixed factor repeatedly is called ____ growth.",
+      "options": [],
+      "correctAnswer": "exponential",
+      "marks": 1
+    },
+    {
+      "id": "56f3d01f-fbaa-4a7f-8284-49038f9a628f",
+      "number": 4,
+      "type": "mcq",
+      "text": "What is the value of x^0 (where x is not equal to 0)?",
+      "options": [
+        "0",
+        "x",
+        "1",
+        "-1"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "4c7a40a6-79dc-4491-b2e5-d3200ebb48fb",
+      "number": 5,
+      "type": "true_false",
+      "text": "The standard scientific form explicitly mentions the exponent which indicates the number of digits.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "7171f1c9-e20d-46cb-b5a2-943667a163ef",
+      "number": 6,
+      "type": "fill_blank",
+      "text": "In scientific notation x * 10^y the value of x must be greater than or equal to 1 and less than ____.",
+      "options": [],
+      "correctAnswer": "10",
+      "marks": 1
+    },
+    {
+      "id": "f03e8d65-54d5-4697-be40-c8bc096fff3c",
+      "number": 7,
+      "type": "mcq",
+      "text": "How many passwords are possible for a 3-digit lock using digits 0 to 9?",
+      "options": [
+        "30",
+        "100",
+        "1000",
+        "3000"
+      ],
+      "correctAnswer": "C",
+      "marks": 1
+    },
+    {
+      "id": "7d9a22fc-2eac-4136-9451-f5b7e16a6b48",
+      "number": 8,
+      "type": "true_false",
+      "text": "The expression (3^2)^5 gives the exact same numerical value as (3^5)^2.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "a3262d6f-88c4-482f-8c51-3794b304e6bc",
+      "number": 9,
+      "type": "fill_blank",
+      "text": "When you calculate 2^10 it equals ____.",
+      "options": [],
+      "correctAnswer": "1024",
+      "marks": 1
+    },
+    {
+      "id": "7313b0b7-fb14-43e5-9513-d09d3a464b6e",
+      "number": 10,
+      "type": "mcq",
+      "text": "What is the prime factorization of 648 in exponential form?",
+      "options": [
+        "2^3 x 3^4",
+        "2^4 x 3^3",
+        "2^2 x 3^5",
+        "2^3 x 3^3"
+      ],
+      "correctAnswer": "A",
+      "marks": 1
+    },
+    {
+      "id": "213df0e3-c548-48b4-8396-8e0402b0466a",
+      "number": 11,
+      "type": "true_false",
+      "text": "The expression 4^-2 is equivalent to 1/16.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "7afd202d-eaec-4731-94f4-3802f598cc99",
+      "number": 12,
+      "type": "fill_blank",
+      "text": "The expression m^a x n^a is equivalent to (____)^a.",
+      "options": [],
+      "correctAnswer": "mn",
+      "marks": 1
+    },
+    {
+      "id": "cb3574b6-00d0-4bac-bd39-ae535e9ca8dc",
+      "number": 13,
+      "type": "mcq",
+      "text": "What is the standard scientific notation for 8000000?",
+      "options": [
+        "80 x 10^5",
+        "8 x 10^6",
+        "0.8 x 10^7",
+        "8 x 10^5"
+      ],
+      "correctAnswer": "B",
+      "marks": 1
+    },
+    {
+      "id": "74653b04-b051-4f02-88c9-80afffecc694",
+      "number": 14,
+      "type": "true_false",
+      "text": "Linear growth is additive whereas exponential growth is multiplicative.",
+      "options": [],
+      "correctAnswer": "TRUE",
+      "marks": 1
+    },
+    {
+      "id": "5dc34966-a5a6-4643-a449-b1c898815131",
+      "number": 15,
+      "type": "fill_blank",
+      "text": "The numerical value of (-2)^4 is ____.",
+      "options": [],
+      "correctAnswer": "16",
+      "marks": 1
+    }
+  ],
+  "createdAt": "2026-08-01T11:03:48.566Z",
+  "status": "live",
+  "googleSheetsWebhook": "",
+  "submission": {
+    "whatsapp": "919910686080",
+    "drive": ""
+  },
+  "viewer": {
+    "durationMinutes": 20,
+    "showCorrectAnswersAfterSubmit": true
+  },
+  "publishedOn": "2026-08-01T11:04:01.812Z"
+}
