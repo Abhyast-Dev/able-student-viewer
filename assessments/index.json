@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T17:59:19.761Z",
+  "generatedOn": "2026-08-01T18:03:56.618Z",
   "assessments": [
+    {
+      "id": "d7eebc4e-eda6-4a56-869b-34bdc805578a",
+      "slug": "factors-of-production-quiz",
+      "title": "Factors of Production Quiz",
+      "subject": "Social Science",
+      "className": "VIII",
+      "chapterName": "Factors of Production",
+      "type": "quiz",
+      "duration": "20 Minutes",
+      "maximumMarks": 15,
+      "status": "live",
+      "publishedOn": "2026-08-01T18:03:54.153Z"
+    },
     {
       "id": "7584fc8b-92a9-41fa-ab7b-9336cc2c9fc4",
       "slug": "ncert-ch-7-social-science-assessment",
