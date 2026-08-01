@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T13:18:45.790Z",
+  "generatedOn": "2026-08-01T13:23:55.759Z",
   "assessments": [
+    {
+      "id": "d400fa79-c3ca-47f7-b537-78a903ddab22",
+      "slug": "universal-franchise-and-india-s-electoral-system-quiz",
+      "title": "Universal Franchise and India's Electoral System Quiz",
+      "subject": "Social Science",
+      "className": "VIII",
+      "chapterName": "Universal Franchise and India's Electoral System",
+      "type": "quiz",
+      "duration": "20 Minutes",
+      "maximumMarks": 15,
+      "status": "live",
+      "publishedOn": "2026-08-01T13:23:53.077Z"
+    },
     {
       "id": "7a168cd7-dc31-4ee3-878d-be10fd27baf9",
       "slug": "comprehensive-political-science-assessment",
