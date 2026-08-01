@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-01T17:09:49.392Z",
+  "generatedOn": "2026-08-01T17:41:48.284Z",
   "assessments": [
+    {
+      "id": "dc5ea269-9fe2-4955-9f5f-67d5181877c5",
+      "slug": "ncert-ch-1-social-science-assessment",
+      "title": "NCERT Ch 1 Social Science Assessment",
+      "subject": "Social Science",
+      "className": "VIII",
+      "chapterName": "Natural Resources and Their Use",
+      "type": "written",
+      "duration": "180 Minutes",
+      "maximumMarks": "80",
+      "status": "live",
+      "publishedOn": "2026-08-01T17:41:45.619Z"
+    },
     {
       "id": "c46b2782-2224-4a6a-879f-336de0dd2fab",
       "slug": "a-square-and-a-cube-quiz",
