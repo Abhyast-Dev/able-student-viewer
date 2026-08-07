@@ -104,15 +104,13 @@
     {
       "id": "62c3b7d8-6fbe-4d00-8a79-70ddb05c3fe7",
       "number": 9,
-      "type": "the first antibiotic used to treat bacterial infections",
-      "text": "Penicillin",
-      "options": [
-        "was discovered by ____.",
-        "fill_blank"
-      ],
-      "correctAnswer": "",
+      "type":"fill_blank", ,
+      "text":"the first antibiotic used to treat bacterial infections" ,
+      "options": [],
+      "correctAnswer": "Penicillin",
       "marks": 1
     },
+      
     {
       "id": "201581b5-fb67-40ba-b78f-8a3c3f425614",
       "number": 10,
@@ -314,12 +312,10 @@
     {
       "id": "68e87e4d-b26f-407b-af5d-d4ca8dddb4e5",
       "number": 27,
-      "type": "India supplied over 24 crore doses of vaccines to more than 100 countries.",
-      "text": "Under the Vaccine Maitri initiative",
-      "options": [
-        "true_false"
-      ],
-      "correctAnswer": "",
+      "type": "true_false",
+      "text": "Under the Vaccine Maitri initiative, "India supplied over 24 crore doses of vaccines to more than 100 countries.",
+      "options": [],
+      "correctAnswer": "TRUE",
       "marks": 1
     },
     {
